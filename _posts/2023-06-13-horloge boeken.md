@@ -2,7 +2,7 @@
 title: "De mooiste horloge boeken"
 date:   2023-06-13 15:15:33 +0200
 categories:
-  - alternatief
+  - accessoires
 tags:
   - omega
   - boeken
