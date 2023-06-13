@@ -17,8 +17,8 @@ tags:
   - schoon
   - clean
 image: 
-  path: /images/algemeen/werkbank.jpg
-  thumbnail: /images/algemeen/werkbank.jpg
+  path: /images/algemeen/banner/werkbank.jpg
+  thumbnail: /images/algemeen/banner/werkbank.jpg
 author: daan
 ---
 Een ander bandje, een batterij vervangen, tot het volledig willen en/of kunnen uitvoeren van een uurwerkreparatie vraagt om de beste accesoires en gereedschappen. Hier een korte lijst van zaken die niet mogen ontbreken in het assortiment van iedere horlogeliefhebber.
