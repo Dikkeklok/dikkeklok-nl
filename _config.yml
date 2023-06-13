@@ -1,3 +1,5 @@
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
 skin: "/assets/css/skins/default.css"
 title: "DikkeKlok.nl"
 description: "Het beste voor je arm!"
