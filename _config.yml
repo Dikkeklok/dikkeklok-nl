@@ -18,7 +18,7 @@ liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categories/:title/
+permalink: /:categorie/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -31,7 +31,7 @@ paginate_path: /page:num/
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-category_archive_path: "/categories/#"
+category_archive_path: "/categorie/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
