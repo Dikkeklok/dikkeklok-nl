@@ -12,13 +12,13 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-    
+
 # Liquid
 liquid:
   error_mode: strict
 
 # Build settings
-permalink: /:categorie/:title/
+permalink: /:categories/:title/
 markdown: kramdown
 feed:
   path: atom.xml
@@ -31,7 +31,7 @@ paginate_path: /page:num/
 search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
-category_archive_path: "/categorie/#"
+category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
 # Exclude from processing.
