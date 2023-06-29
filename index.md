@@ -21,3 +21,6 @@ Van simpele moderne Swatch en Casio, tot de duurste vintage Rolex, Patek Philipp
 Op deze blog zul je mijn aanbevelingen vinden voor horloges die niet alleen kwalitatief hoogwaardig zijn, maar ook aantrekkelijk voor iedereen. Ik zal je voorzien van tips en trucs om de juiste keuzes te maken, ongeacht je budget. Of je nu op zoek bent naar je eerste horloge, een klassiek en verfijnd exemplaar voor een formele gelegenheid, een sportieve, of juist een Dikke Klok wilt om mee te shinen! Hier vind je de expertise om je te helpen.
 
 Dus, als je wilt leren hoe je de juiste horloges kunt kiezen die passen bij jouw stijl en persoonlijkheid, en hoe je anderen maar vooral jezelf kunt verrijken met je horloge keuze, dan ben je hier aan het juiste adres. Laat je dan hier, op DikkeKlok.nl, begeleiden in je zoektocht naar het perfecte horloge.
+
+# DikkeKlok.nl
+Bovenaan de site is het menu te vinden. Deze linkt naar de blog met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
