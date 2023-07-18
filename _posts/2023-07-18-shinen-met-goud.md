@@ -1,6 +1,6 @@
 ---
 title: "Shinen met je goude patser!"
-date:   2023-07-18 20:154:22 +0200
+date:   2023-07-18 20:14:22 +0200
 categories:
   - best-buy
 tags:
