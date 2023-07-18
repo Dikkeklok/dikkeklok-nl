@@ -15,13 +15,15 @@ image:
 author: daan
 ---
 # Goud, geld, diamanten, wie wil het niet?
-Met de paplepel meegekregen:
-
-> Goud = Status
+Het liefst met een band volledig bestaand uit schakels van goud zal je de koning(in) van je omgeving voelen! Let wel op, de prijs kan voor gouden horloges je soms positief verrassen!
 
 Los van status is je gewicht in goud waard zijn natuurlijk een goede eigenschap om te hebben. Maar, een dik, goud horloge hoort eigenlijk als mooie toevoeging in elke collectie.
 
-Het liefst met een band volledig bestaand uit schakels van goud zal je de koning(in) van je omgeving voelen! Let wel op, de prijs kan voor gouden horloges je soms positief verrassen!
+We hebben natuurlijk allemaal met de paplepel meegekregen:
+
+> Goud = Status
+
+Dus, hieronder een aantal mooie goude status-waardige klokken om mee te shinen!
 
 # De Rolex Day-Date knaller!
 Om maar meteen goed met de deur in huis te vallen, de Rolex Day-Date! 
