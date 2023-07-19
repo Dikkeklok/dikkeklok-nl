@@ -24,7 +24,7 @@ Alleen al vanwege het uiterlijk zou een horloge makkelijk een paar duizend kunne
 
 De [Sea-Gull 1963](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005001304377435.html) is niet alleen historisch gezien een pareltje, maar ook voor het oog een genot! 
 
-[![image-center]({{ '/images/horloges/seagull/front.jpg' | absolute_url }}){: .align-center}](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005001304377435.html)
+![image-center]({{ '/images/horloges/seagull/front.jpg' | absolute_url }})
 
 - Kast diameter: 38 mm of 40 mm
 - Kast dikte: 14 mm
@@ -32,7 +32,7 @@ De [Sea-Gull 1963](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fit
 
 Het bedrijf, Tianjin Sea-Gull Watch Group, opgericht in 1958 als Tianjin Wuyi Watch Factory, heeft meer dan 50 jaar ervaring in het vak. De ST5 van Seagull, een vroege pionier in de Chinese horlogerie, is het allereerste uurwerk dat 100% in China is gebouwd en ontworpen. Inmiddels is dit bedrijf qua volume een van de grootste horlogefabrikanten in China.
 
-[![image-center]({{ '/images/horloges/seagull/Seagull ST190-back.jpg' | absolute_url }}){: .align-center}](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005001304377435.html)
+![image-center]({{ '/images/horloges/seagull/Seagull ST190-back.jpg' | absolute_url }})
 
 
 De Seagull 1963 werd oorspronkelijk in 1961 ontwikkeld om te worden uitgegeven aan de Chinese luchtmacht. Hij werd dus speciaal gebouwd voor piloten. Voor minder dan 200 euro is de [Sea-Gull 1963](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005001304377435.html) een cool stuk om toe te voegen aan elke collectie, of om als eerste mechanische horloge te bemachtigen!
@@ -41,7 +41,7 @@ De Seagull 1963 werd oorspronkelijk in 1961 ontwikkeld om te worden uitgegeven a
 
 Een duidelijke knipoog naar de Tudor Black Bay 58 is hier te zien. Echter, kost dit horloge nog geen 10e van de prijs!!! De wijzerplaat, wijzers, en indici springen er uit en maken het horloge duidelijk leesbaar.
 
-[![image-center]({{ '/images/horloges/sanmartin/front.jpg' | absolute_url }}){: .align-center}](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005005528812625.html)
+![image-center]({{ '/images/horloges/sanmartin/front.jpg' | absolute_url }})
 
 Het NH35 uurwerk is gebaseerd op de Seiko 4R35, maar omdat hier geen logo op staat een stuk goedkoper. Kwalitatief loopt dit horloge dus super, en zal onderhoud (indien ooit nodig) ook goedkoop mogelijk zijn.
 
@@ -49,7 +49,7 @@ Het NH35 uurwerk is gebaseerd op de Seiko 4R35, maar omdat hier geen logo op sta
 - Kast dikte: 13.2 mm
 - Glas: Sapphire
 
-[![image-center]({{ '/images/horloges/sanmartin/side.jpg' | absolute_url }}){: .align-center}](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005005528812625.html)
+![image-center]({{ '/images/horloges/sanmartin/side.jpg' | absolute_url }})
 
 Ik ben zelf erg fan van de blauwe versie, maar deze [San Martin](https://tc.tradetracker.net/?c=15640&m=12&a=451093&r=&u=%2Fitem%2F1005005528812625.html) is ook verkrijgbaar in het zwart. De maatvoering, met de looks van de bekende merken, zorgen er voor dat dit een Dikke Zomer knaller is. Sportief, maar eigenlijk met iedere gelegenheid is dit horloge uitstekend te combineren!
 

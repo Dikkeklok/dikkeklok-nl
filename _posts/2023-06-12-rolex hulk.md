@@ -23,24 +23,24 @@ De Rolex Hulk, ook wel bekend als de Rolex Submariner Date met een groene lunett
 ## Oris Aquis Green Dial: 2400,- eur
 De [Oris Aquis Green Dial](https://www.oris.ch/en-US/watch/aquis-date/01-733-7732-4157-07-8-21-05peb) is een andere geweldige optie als alternatief voor de Rolex Hulk. Oris is een Zwitsers horlogemerk, en de Aquis Green biedt met zijn sportieve uitstraling en hoogwaardige constructie een uitstekend alternatief voor de Rolex Hulk.
 
-![image-center]({{ '/images/horloges/oris/aquis-date-green-horizontal.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/horloges/oris/aquis-date-green-horizontal.png' | absolute_url }})
 
 ## Hamilton Khaki Navy Scuba Auto: 895,- eur
 De [Khaki Navy Scuba Auto](https://www.hamiltonwatch.com/nl-nl/h82375161-khaki-navy-auto.html) van Hamilton. Bekend om kwalitatief hoogstaande horloges voor een betaalbare prijs. Swiss made, en qua looks vergelijkbaar met de Rolex Hulk
 
-![image-center]({{ '/images/horloges/hamilton/khaki-green-horizontal.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/horloges/hamilton/khaki-green-horizontal.png' | absolute_url }})
 
 ## Seiko 5 Sports SRPD63K1: 320,- eur
 Met subtiele gouden accenten en een waterdichtheid van 100m is de [Seiko 5 Sports SRPD63K1](https://www.seiko.nl/collectie/detail?item=SRPD63K1) een horloge voor iedere dag. Zowel op het strand als bij de sjiek. Met het automatisch uurwerk, voor een zachte prijs, een genot om te zien en te dragen.
 
-![image-center]({{ '/images/horloges/seiko/seiko-SRPD63K1-green.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/horloges/seiko/seiko-SRPD63K1-green.png' | absolute_url }})
 
 Na de introductie in de jaren 60 was Seiko 5 meer dan 50 jaar het synoniem voor geweldige betrouwbaarheid, duurzaamheid, prestaties voor een prijs die de liefhebbers van mechanische horloges wereldwijd erg aansprak.
 
 ## Casio G-Shock: 100,- eur
 Onverwoestbaar, groen, subtiel, en toch aanwezig. De [Casio G-Shock GMA-S2100BA-3A](https://www.casio.com/intl/watches/gshock/product.GMA-S2100BA-3A/) is HET horloge voor wie een mooi groen om de pols wilt. 
 
-![image-center]({{ '/images/horloges/casio/GMA-S2100BA-3A-green.png' | absolute_url }}){: .align-center}
+![image-center]({{ '/images/horloges/casio/GMA-S2100BA-3A-green.png' | absolute_url }})
 
 Het is het perfecte horloge om toe te voegen aan de collectie, juist voor de momenten dat de Rolex misschien niet op zijn plaats is.
 
