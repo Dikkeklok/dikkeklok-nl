@@ -45,7 +45,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 12. **Goud:** Audemars Piguet Royal Oak - In de goude uitvoering een horloge dat zowel klassiek als modern is. Opvallen doe je zeker!
 
-13. **Wit:** Zenith Defy Classic Skeleton in White Ceramic - Een sportief, skeleton, wit keramisch horloge. Gecombineerd met een rubbere witte strap een sportiefe strakke keuze.
+13. **Wit:** Zenith Defy Classic Skeleton in White Ceramic - Een sportief, skeleton, wit keramisch horloge. Gecombineerd met een rubbere witte strap een sportieve strakke keuze.
 
 14. **Kleur:** Swatch - Beroemd om zijn kleurrijke en betaalbare horloges.
 
