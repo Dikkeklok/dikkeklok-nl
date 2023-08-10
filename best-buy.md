@@ -23,11 +23,11 @@ Echter, op basis van algemene waarnemingen en populariteit staan de volgende hor
 Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen met een korte uitleg waarom ze geschikt zouden kunnen zijn als aanschaf:
 1. **Alle Gelegenheden:** Rolex Datejust - Een tijdloos en veelzijdig horloge dat zowel formeel als informeel gedragen kan worden, waardoor het geschikt is voor allerlei gelegenheden.
 
-2. **Zomer:** Seiko Prospex "Turtle" - Een duikhorloge met levendige kleuren en waterbestendigheid, perfect voor zomerse activiteiten en stranddagen.
+2. **Zomer:** Seiko Prospex "Turtle" - Een duikhorloge met levendige zee kleuren en waterbestendigheid, perfect voor zomerse activiteiten en stranddagen.
 
 3. **Bruiloft:** Cartier Tank Francaise - Een elegant en verfijnd horloge dat een stijlvolle toevoeging zou zijn aan een bruiloftsoutfit.
 
-4. **Winter:** Omega Seamaster Planet Ocean - Met zijn robuuste bouw en diepblauwe kleur past dit horloge goed bij de winterse sfeer.
+4. **Winter:** Omega Seamaster Planet Ocean - Met zijn robuuste bouw en oranje accenten past dit horloge in mijn ogen goed bij de winterse sfeer.
 
 5. **Uitgaan:** TAG Heuer Carrera - Een sportief-chique horloge dat een vleugje glamour toevoegt aan een avondje uit.
 
@@ -43,9 +43,9 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 11. **Luxe:** Patek Philippe Nautilus - Een icoon in de luxe horlogewereld, bekend om zijn tijdloze elegantie en vakmanschap.
 
-12. **Goud:** Audemars Piguet Royal Oak - Een gouden horloge dat zowel klassiek als modern is.
+12. **Goud:** Audemars Piguet Royal Oak - In de goude uitvoering een horloge dat zowel klassiek als modern is. Opvallen doe je zeker!
 
-13. **Wit:** Zenith Defy Classic Skeleton in White Ceramic - Een sportief, skeleton, wit keramisch horloge. Gecombineerd met een rubbere witte strap.
+13. **Wit:** Zenith Defy Classic Skeleton in White Ceramic - Een sportief, skeleton, wit keramisch horloge. Gecombineerd met een rubbere witte strap een sportiefe strakke keuze.
 
 14. **Kleur:** Swatch - Beroemd om zijn kleurrijke en betaalbare horloges.
 
@@ -67,7 +67,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 23. **GMT:** Rolex GMT-Master II - Bekend om zijn dual-time zone functie.
 
-24. **Batterij / Quartz:** Citizen Eco-Drive - Duurzaam en milieuvriendelijk.
+24. **Batterij / Quartz:** Citizen Eco-Drive - Duurzaam en milieuvriendelijk op basis van zonlicht.
 
 25. **Mechanisch:** Jaeger-LeCoultre Master Ultra Thin - Een verfijnd mechanisch horloge.
 
@@ -75,7 +75,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 27. **Opwinden:** Patek Philippe Calatrava - Een klassieke handopwindbare dress watch.
 
-28. **Zwemmen:** Rolex Submariner - Waterbestendigheid en duikfuncties.
+28. **Zwemmen:** Rolex Submariner - Het meest bekende waterbestendige horloge.
 
 29. **Duiken:** Omega Seamaster Diver 300M - Specifiek ontworpen voor duikers.
 

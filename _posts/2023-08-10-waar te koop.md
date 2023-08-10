@@ -79,4 +79,4 @@ Persoonlijk heb ik via Reddit al horloges aangeschaft uit o.a. Canada, Indonesie
 Deze kun je echter niet proberen voordat je ze gekocht hebt. Gelukkig zijn er veel juweliers in nederland te vinden die je graag helpen met de aanschaf van een uurwerk. Trek je stoute schoenen aan en stap een keer binnen. Dit kan in het begin vaak spannend zijn, maar je bent nooit tot kopen verplicht. Plus, er werken vaak echte horlogeliefhebbers in zo'n zaak waar je je passie en zoektocht mee kan delen.
 
 ## What's next?
-Ok, je hebt je budget bepaald en een aantal betrouwbare partijen gevonden, what's next? Het uitkiezen van een horloge natuurlijk! Om hierbij te helpen kun je de [best-buy suggesties](/categories/#best-buy) checken, om hopelijk zo tot een goed passend horloge te komen. Succes!
+Ok, je hebt je budget bepaald en een aantal betrouwbare partijen gevonden, what's next? Het uitkiezen van een horloge natuurlijk! Om hierbij te helpen kun je de [best-buy suggesties](/best-buy/) checken, om hopelijk zo tot een goed passend horloge te komen. Succes!
