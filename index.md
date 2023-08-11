@@ -8,7 +8,7 @@ Dus.. Jij bent op zoek naar een Dikke Klok?
 
 Bovenaan de site is het menu te vinden. Deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
 
-> *Ik begrijpt als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
+> *Ik begrijp als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
 
 ![image-center]({{ '/images/horloges/rolex/rolex-gmt-small.jpg' | absolute_url }}){: .align-right}
 
