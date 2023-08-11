@@ -6,7 +6,7 @@ search: false
 ---
 Dus.. Jij bent op zoek naar een Dikke Klok? 
 
-Bovenaan de site is het menu te vinden. Deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
+Bovenaan de site is het menu te vinden. Deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/best-buy) op dit moment!
 
 > *Ik begrijp als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
 
