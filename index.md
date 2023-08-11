@@ -3,14 +3,15 @@ layout: page
 title:  "DikkeKlok.nl - De Dikste Klokken"
 search: false
 ---
-Dus.. Jij bent op zoek naar een Dikke Klok?
+Dus.. Jij bent op zoek naar een Dikke Klok? 
 
+Bovenaan de site is het menu te vinden. Deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
 
-*Ik begrijpt als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
+> *Ik begrijpt als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
 
 ![image-center]({{ '/images/horloges/rolex/rolex-gmt-small.jpg' | absolute_url }}){: .align-right}
 
-Nee grapje, deze intro is geschreven door ChatGPT, anyway…
+Nee grapje, anyway…
 
 Toen ik een jaar of 14-15 was kocht ik mijn eerste horloge. Dit was een soort ‘namaak Rolex’. Op dat moment passend binnen mijn budget. Inmiddels zijn we een aantal jaren verder, en heb ik vele horloges gekocht, verkocht, in mijn handen gehad, en gezien. 
 
@@ -22,5 +23,4 @@ Op deze blog zul je mijn aanbevelingen vinden voor horloges die niet alleen kwal
 
 Dus, als je wilt leren hoe je de juiste horloges kunt kiezen die passen bij jouw stijl en persoonlijkheid, en hoe je anderen maar vooral jezelf kunt verrijken met je horloge keuze, dan ben je hier aan het juiste adres. Laat je dan hier, op DikkeKlok.nl, begeleiden in je zoektocht naar het perfecte horloge.
 
-# DikkeKlok.nl
-Bovenaan de site is het menu te vinden. Deze linkt naar de blog met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
+# Welkom op DikkeKlok.nl

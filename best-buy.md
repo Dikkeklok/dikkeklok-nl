@@ -1,5 +1,6 @@
 ---
-title: De beste Dikke Klok van het moment
+title: De beste Dikke Klokken van het moment
+description: Een compleet overzicht met suggesties voor horloges in verschillende categorieën, samen met een korte uitleg waarom ze geschikt zouden kunnen zijn als aanschaf. 
 layout: collection
 permalink: /best-buy/
 collection: best-buy
@@ -19,8 +20,13 @@ Echter, op basis van algemene waarnemingen en populariteit staan de volgende hor
 
 **Orient**: Orient staat bekend om zijn mechanische horloges met aantrekkelijke ontwerpen en solide bouwkwaliteit, vaak tegen lagere prijzen dan sommige van hun concurrenten. Een klassieker is de **Orient Bambino**, wat met zijn verschillende wijzerplaten en meer sjieke uitstraling een schitterende keus is voor een dagelijks (zelfs zakelijk) horloge.
 
-## Bredere suggesties
+***
+
+# Bredere suggesties
 Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen met een korte uitleg waarom ze geschikt zouden kunnen zijn als aanschaf:
+
+> _Individuele artikelen over de genoemde horloges zijn in de maak!_
+
 1. **Alle Gelegenheden:** Rolex Datejust - Een tijdloos en veelzijdig horloge dat zowel formeel als informeel gedragen kan worden, waardoor het geschikt is voor allerlei gelegenheden.
 
 2. **Zomer:** Seiko Prospex "Turtle" - Een duikhorloge met levendige zee kleuren en waterbestendigheid, perfect voor zomerse activiteiten en stranddagen.
@@ -101,4 +107,8 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 40. **Cartier:** Cartier Tank Solo - Een klassieker in de Cartier-collectie.
 
-Merk op dat de bovengenoemde suggesties gebaseerd zijn op algemene overwegingen en bekendheid met horlogemerken en modellen. Er zijn sindsdien natuurlijk een hoop nieuwe horloges uitgebracht, en trends veranderd. Bij het kiezen van een horloge is het belangrijk om rekening te houden met persoonlijke smaak, budget en specifieke behoeften.
+Merk op dat de bovengenoemde suggesties gebaseerd zijn op algemene overwegingen en bekendheid met horlogemerken en modellen. Er zijn sindsdien natuurlijk een hoop nieuwe horloges uitgebracht, en trends veranderd. Bij het kiezen van een horloge is het belangrijk om rekening te houden met persoonlijke smaak, budget en specifieke behoeften. 
+
+Check ook bovenaan de site het menu, deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
+
+# Welkom op DikkeKlok.nl
