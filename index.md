@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  "DikkeKlok.nl - De Dikste Klokken"
+description: "De plek voor iedereen die op zoek is naar advies voor een eerste horloge, een klassieker, een sportief, of een echte Dikke Klok om mee te shinen!"
 search: false
 ---
 Dus.. Jij bent op zoek naar een Dikke Klok? 
@@ -23,4 +24,4 @@ Op deze blog zul je mijn aanbevelingen vinden voor horloges die niet alleen kwal
 
 Dus, als je wilt leren hoe je de juiste horloges kunt kiezen die passen bij jouw stijl en persoonlijkheid, en hoe je anderen maar vooral jezelf kunt verrijken met je horloge keuze, dan ben je hier aan het juiste adres. Laat je dan hier, op DikkeKlok.nl, begeleiden in je zoektocht naar het perfecte horloge.
 
-### Welkom op DikkeKlok.nl
+<h3><p style="text-align: center;">Welkom op DikkeKlok.nl</p><h3>
