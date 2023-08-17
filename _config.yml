@@ -76,3 +76,9 @@ footer_links:
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
+  - title: Instagram
+    url: https://instagram.com/dikkeklok
+    icon: fab fa-instagram-square
+  - title: RoadToRolex
+    url: https://roadtorolex.nl
+    icon: fas fa-road
