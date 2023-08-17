@@ -71,7 +71,7 @@ Een bijkomend voordeel, net als de Submariner, zal iedereen in je omgeving metee
 
 
 ## Oris Diver Sixty-Five (65): 2350,- EUR
-Met een referentienummer dat langer is dan een gemiddelt telefoonnummer mag de [Oris Diver Sixty-Five (65) 01 733 7707 4055-07 8 20 18] (https://www.oris.ch/en-US/watch/divers-sixty-five/01-733-7707-4055-07-8-20-18) er toch zeker zijn. De dunner kast vorm en smallere band maken het horloge uitstekend draagbaar op de net iets dunnere pols.
+Met een referentienummer dat langer is dan een gemiddelt telefoonnummer mag de [Oris Diver Sixty-Five 01 733 7707 4055-07 8 20 18](https://www.oris.ch/en-US/watch/divers-sixty-five/01-733-7707-4055-07-8-20-18) er toch zeker zijn. De dunner kast vorm en smallere band maken het horloge uitstekend draagbaar op de net iets dunnere pols.
 
 ![image-center]({{ '/images/horloges/oris/65-steel.png' | absolute_url }})
 
