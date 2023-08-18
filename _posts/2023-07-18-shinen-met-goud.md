@@ -2,7 +2,7 @@
 title: "Shinen met je goude patser!"
 date:   2023-07-18 20:14:22 +0200
 categories:
-  - best-buy
+  - algemeen
 tags:
   - goud
   - rolex
