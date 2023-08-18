@@ -2,7 +2,7 @@
 title: "De beste AliExpress horloges"
 date:   2023-06-29 19:10:18 +0200
 categories:
-  - best-buy
+  - algemeen
 tags:
   - aliexpress
   - seagull

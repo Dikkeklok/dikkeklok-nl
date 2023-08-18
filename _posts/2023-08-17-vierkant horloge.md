@@ -2,7 +2,7 @@
 title: "Vierkant horloge"
 date:   2023-08-17 19:12:11 +0200
 categories:
-  - best-buy
+  - algemeen
 tags:
   - cartier
   - swatch
