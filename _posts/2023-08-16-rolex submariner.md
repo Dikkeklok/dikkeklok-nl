@@ -8,7 +8,7 @@ tags:
   - submariner
   - orient
   - tag
-  - Peuer
+  - Heuer
   - Panerai
   - submersible
   - oris
