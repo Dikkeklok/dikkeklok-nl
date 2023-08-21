@@ -27,7 +27,7 @@ Dus, hieronder een aantal mooie goude status-waardige klokken om mee te shinen!
 
 # De Rolex Day-Date knaller!
 
-[![image-right]({{ '/images/horloges/rolex/daydate-gold-gif.gif' | absolute_url }}){: .align-right}](https://www.instagram.com/p/Cu2bL2bqGtm/?img_index=2){:target="_blank"}
+[![image-right]({{ '/images/horloges/rolex/daydate-gold-gif.gif' | absolute_url }}){: .align-right}](https://www.instagram.com/p/Cu2bL2bqGtm/?img_index=1){:target="_blank"}
 
 Om maar meteen goed met de deur in huis te vallen, de **Rolex Day-Date**! Het eerste horloge dat waterdicht chronometer gecertificeerd werd die zowel de datum als de dag van de week aangaf. Direct herkenbaar en gedragen door de grootste. Beschikbaar in verschillende speciale metalen, maar klassiek uitgevoerd in geel-goud.
 
