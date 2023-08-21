@@ -24,7 +24,7 @@ Over het algemeen is de opinie en gedachte dat een 'goed' horloge alleen kan voo
 # Hype vs klassieker
 Laten we simpel beginnen. Hype horloges vs klassiekers. Er zijn in de horlogewereld een aantal merken en modellen om op terug te vallen. Deze hebben een naam voor zichzelf gecreëerd door hun betrouwbaarheid, prijs, of verfijnde afwerking. Een mooi voorbeeld hiervan is de all-time classic **Casio F-91w**. Voor minder dan twee tientjes een horloge wat tegen (bijna) alles bestand is, met een geschatte levensduur van rond de 7 jaar. Beter gaat het niet worden. 
 
-[![image-center]({{ '/images/horloges/casio/f91w.jpg' | absolute_url }}){: .align-center}](https://www.casio.com/nl/watches/casio/product.F-91W-1)
+[![image-center]({{ '/images/horloges/casio/f91w.jpg' | absolute_url }}){: .align-center}](https://www.casio.com/nl/watches/casio/product.F-91W-1){:target="_blank"}
 
 Ik heb zelf nog nooit van iemand gehoord dat ze spijt hebben gehad van zo'n aanschaf, maar, als we praten over 'hype' horloges dan is dit een heel ander geval. Ik zal je de 'een horloge is een investering'-verhalen besparen...
 
@@ -38,7 +38,7 @@ Deze 'hype' horloges zijn niet per definitie slecht maar ze worden vaak gemaakt 
 Een horloge moet meegaan, en niet na 2x dragen stil of kapot in de kast verdwijnen.
 
 ## Uurwerk en Service
-Uurwerken van Seiko (bijvoorbeeld Caliber Number [7S26](https://calibercorner.com/seiko-caliber-7s26/)) of [ETA](https://calibercorner.com/tag/eta/) worden algemeen gezien als betrouwbaar. Deze uurwerken worden in verschillende horloges gebruikt, waar weer [verschillende reviews](calibercorner.com) over te lezen zijn. 
+Uurwerken van Seiko (bijvoorbeeld Caliber Number [7S26](https://calibercorner.com/seiko-caliber-7s26/){:target="_blank"}) of [ETA](https://calibercorner.com/tag/eta/){:target="_blank"} worden algemeen gezien als betrouwbaar. Deze uurwerken worden in verschillende horloges gebruikt, waar weer [verschillende reviews](calibercorner.com){:target="_blank"} over te lezen zijn. 
 
 Het mooie van een gerenomeerd merk en/of uurwerk is, is dat daarbij de service ook vaak beter mogelijk is. Het vervangen van een gerenomeerd kaliber, of het aan reserve onderdelen komen, is dan ook vaak mogelijk voor de algemene horlogemaker. Dit zal bij problemen een hoop gedoe en kosten schelen.
 
@@ -68,9 +68,9 @@ Het gokje wagen kan dus gaan om een horloge met geschiedenis (bijvoorbeeld een t
 # Proberen
 Zelf hou ik verschillende plekken in de gaten in mijn zoektocht naar horloges. Voor de beste deals (zonder enige garantie te kunnen doen over betrouwbaarheid van de individuele verkoper(s)/horloge(s)) kun je kijken op:
 
-* [Chrono24](https://www.chrono24.nl/)
-* [Reddit WatchExchange](https://reddit.com/r/watchexchange)
-* [Ebay](https://ebay.nl)
+* [Chrono24](https://www.chrono24.nl/){:target="_blank"}
+* [Reddit WatchExchange](https://reddit.com/r/watchexchange){:target="_blank"}
+* [Ebay](https://ebay.nl){:target="_blank"}
 
 Let hier wel op de bijkomende verzend + import kosten mocht het horloge zich buiten de EU bevinden.
 
