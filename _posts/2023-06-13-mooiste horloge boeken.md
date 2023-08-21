@@ -24,24 +24,24 @@ De merk catalogus, een simpele en vaak prachtig exemplaar om toe te voegen aan d
 Ze zijn er van alle grote merken en staan er om bekend om veel informatie met betrekking tot historie te bevatten. Tevens zijn het vaak de mooiste afbeeldingen om te zien, zolang je het horloge nog niet in het echt hebt kunnen bewonderen.
 
 Wat suggesties om aan te vragen zijn:
--  [Omega](https://www.omegawatches.com/customer/account/login/referer/aHR0cHM6Ly93d3cub21lZ2F3YXRjaGVzLmNvbS9jdXN0b21lci1zZXJ2aWNlL29yZGVyLWEtY2F0YWxvZ3Vl/)
-- [Longines](https://www.longines.com/en-us/contact/catalog-request)
-- [Nomos](https://nomos-glashuette.com/en/order-a-catalog)
-- [Breguet](https://www.breguet.com/en/catalogue-request)
-- [Blancpain](https://www.blancpain.com/en/catalog/request)
-- [Breitling](https://www.breitling.com/gb-en/chronolog/order/)
+-  [Omega](https://www.omegawatches.com/customer/account/login/referer/aHR0cHM6Ly93d3cub21lZ2F3YXRjaGVzLmNvbS9jdXN0b21lci1zZXJ2aWNlL29yZGVyLWEtY2F0YWxvZ3Vl/){:target="_blank"}
+- [Longines](https://www.longines.com/en-us/contact/catalog-request){:target="_blank"}
+- [Nomos](https://nomos-glashuette.com/en/order-a-catalog){:target="_blank"}
+- [Breguet](https://www.breguet.com/en/catalogue-request){:target="_blank"}
+- [Blancpain](https://www.blancpain.com/en/catalog/request){:target="_blank"}
+- [Breitling](https://www.breitling.com/gb-en/chronolog/order/){:target="_blank"}
 
 Een mailtje naar een contact@ adres is ook altijd het proberen waard!
 
 ## A Man and His Watch: 36,- eur
 *Iconic Watches and Stories from the Men Who Wore Them*
 
-[A Man and His Watch](https://www.bol.com/nl/nl/f/a-man-and-his-watch/9200000073194392/) verzameld de mooiste verhalen in relatie tot horloges in verschillende persoonlijke collecties.
+[A Man and His Watch](https://www.bol.com/nl/nl/f/a-man-and-his-watch/9200000073194392/){:target="_blank"} verzameld de mooiste verhalen in relatie tot horloges in verschillende persoonlijke collecties.
 
 ![image-center]({{ '/images/boeken/a man and his watch.jpg' | absolute_url }}){: .align-center}
 
 ## From Seamaster to Seamaster: ongeveer 150,- eur
-Als een kostbaar verzamelobject bevat [From Seamaster to Seamaster](https://www.omegawatches.com/stories/capturing-70-years-of-seamaster-design) nooit eerder vertoonde foto's van vintage en moderne Seamasters. 
+Als een kostbaar verzamelobject bevat [From Seamaster to Seamaster](https://www.omegawatches.com/stories/capturing-70-years-of-seamaster-design){:target="_blank"} nooit eerder vertoonde foto's van vintage en moderne Seamasters. 
 
 Toen de Zwitserse horlogemaker Omega zijn duikhorloge Seamaster in 1948 introduceerde, bewees het merk dat functionaliteit en stijl kunnen samengaan. Dit luxueuze boek markeert zeventig jaar Seamaster en onderzoekt het uitstekende vakmanschap, de evoluerende ontwerpen en de blijvende charme van dit model.
 

@@ -27,21 +27,21 @@ author: daan
 Ondanks dat de meeste traditionele horloges rond van vorm en uurwerk zijn, zijn er toch ook een flink aantal bekende klassiekers op de markt te krijgen in vierkante vorm. Think outside the box, of zoiets, zullen we maar zeggen.
 
 ## Cartier Tank Must WSTA0052: 3850,- eur
-De [Cartier Tank Must](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html) is een klassieker onder de klassiekers. Uiterst stijlvol, in zowel goud als staal. De met romeinse cijfers uitgevoerde wijzerplaat in combinatie met de safier blauwe wijzers en chaton op de kroon is een herkenbaar aanzicht, ook onder de grootste wereldsterren.
+De [Cartier Tank Must](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html){:target="_blank"} is een klassieker onder de klassiekers. Uiterst stijlvol, in zowel goud als staal. De met romeinse cijfers uitgevoerde wijzerplaat in combinatie met de safier blauwe wijzers en chaton op de kroon is een herkenbaar aanzicht, ook onder de grootste wereldsterren.
 
 ![image-center]({{ '/images/horloges/cartier/tanks.png' | absolute_url }})
 
 De hierboven in het midden uitgevoerde 'Large' versie is voor zowel dames als heren goed qua formaat. Op de stalen band is het ook echt een horloge om heerlijk mee te shinen - maar kan ook zeer mooi op bijvoorbeeld blauw leer onder een pak of avondjurk gedragen worden.
 
 ## Swatch 'What if' collectie: 105,- eur
-Wat als rond vierkant was geweest, dat was het uitgangspunt van de nieuwe [Swatch Bioceramic What If-collectie](https://www.swatch.com/nl-nl/bioceramic-what-if.html). 
+Wat als rond vierkant was geweest, dat was het uitgangspunt van de nieuwe [Swatch Bioceramic What If-collectie](https://www.swatch.com/nl-nl/bioceramic-what-if.html){:target="_blank"}. 
 
 ![image-center]({{ '/images/horloges/swatch/what-if.png' | absolute_url }})
 
 Een betaalbare nieuwe collectie horloges beschikbaar in verschillende kleuren. Typisch Swatch, maar toch weer net even anders.
 
 ## Jaeger-LeCoultre Reverso: 11500,- eur
-Van net over de honderd, naar nog net geen twaalf duizend, de [Jaeger-LeCoultre Reverso](https://www.jaeger-lecoultre.com/eu-en/watches/reverso). 
+Van net over de honderd, naar nog net geen twaalf duizend, de [Jaeger-LeCoultre Reverso](https://www.jaeger-lecoultre.com/eu-en/watches/reverso){:target="_blank"}. 
 
 ![image-center]({{ '/images/horloges/jaeger-lecoultre/reverso.jpg' | absolute_url }})
 
@@ -54,7 +54,7 @@ Tegenwoordig zijn er door o.a. Casio G-Shock en andere merken verschillende spor
 De 'beschermende kant' van het Jaeger-LeCoultre Reverso horloge kan tegenwoordig gebruikt worden voor graveringen naar keuze.
 
 ## Tag-Heuer Monaco: 7750,- eur
-Groot, herkenbaar, kleurrijk, en  een echt icoon - de [Tag-Heuer Monaco](https://www.tagheuer.com/nl/en/collection-monaco/collection-monaco.html). Gedragen door de 'King of Cool', [Steve McQueen in de film Le Mans](https://www.tagheuer.com/us/en/partnerships/steve-mcqueen.html).
+Groot, herkenbaar, kleurrijk, en  een echt icoon - de [Tag-Heuer Monaco](https://www.tagheuer.com/nl/en/collection-monaco/collection-monaco.html){:target="_blank"}. Gedragen door de 'King of Cool', [Steve McQueen in de film Le Mans](https://www.tagheuer.com/us/en/partnerships/steve-mcqueen.html){:target="_blank"}.
 
 ![image-center]({{ '/images/horloges/tag-heuer/monaco.png' | absolute_url }})
 
