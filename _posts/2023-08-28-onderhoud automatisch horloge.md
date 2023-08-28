@@ -52,7 +52,7 @@ Bijvoorbeeld Rolex, met hun eigen _Rolex Superlative Chronometer_ certificering,
 #### Full service
 Mocht een horloge het helemaal niet meer doen, of niet meer binnen de aangeduiden specificaties te reguleren zijn, dan is een full service een oplossing. 
 
-![screwdriver](/images/algemeen/screwdriver.jpg){: .align-right}
+![screwdriver](/images/algemeen/screwdriver.jpg)
 
 Bij een full service wordt het volledige horloge uit elkaar gehaald, schoongemaakt, de beschadigde of versleten onderdelen worden vervangen, en het horloge wordt weer in elkaar gezet. Dit om er voor te zorgen dat het uurwerk weer loopt zoals nieuw. Dit type onderhoud is ook aangeraden op het moment dat een horloge gevallen is en/of het glas kapot is gegaan. Het kan namelijk voorkomen dat er zich splinters van het glas in het uurwerk bevinden, of dat er zelfs onderdelen los zijn gekomen. 
 
