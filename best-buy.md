@@ -18,7 +18,7 @@ Echter, op basis van algemene waarnemingen en populariteit staan de volgende hor
 
 **Citizen**: Citizen staat bekend om zijn Eco-Drive-technologie, die horloges aandrijft met lichtenergie. Dit maakt batterijvervanging overbodig en biedt betrouwbare prestaties tegen een betaalbare prijs. Ze bieden horloges aan in alle categorieen, van dress-watch tot diepe duiker.
 
-**Orient**: Orient staat bekend om zijn mechanische horloges met aantrekkelijke ontwerpen en solide bouwkwaliteit, vaak tegen lagere prijzen dan sommige van hun concurrenten. Een klassieker is de **Orient Bambino**, wat met zijn verschillende wijzerplaten en meer sjieke uitstraling een schitterende keus is voor een dagelijks (zelfs zakelijk) horloge.
+**Orient**: Orient staat bekend om zijn mechanische horloges met aantrekkelijke ontwerpen en solide bouwkwaliteit, vaak tegen lagere prijzen dan sommige van hun concurrenten. Een klassieker is de **Orient Bambino**, wat met zijn verschillende wijzerplaten en meer chique uitstraling een schitterende keus is voor een dagelijks (zelfs zakelijk) horloge.
 
 ***
 

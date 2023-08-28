@@ -27,7 +27,7 @@ author: daan
 Ondanks dat de meeste traditionele horloges rond van vorm en uurwerk zijn, zijn er toch ook een flink aantal bekende klassiekers op de markt te krijgen in vierkante vorm. Think outside the box, of zoiets, zullen we maar zeggen.
 
 ## Cartier Tank Must WSTA0052: 3850,- eur
-De [Cartier Tank Must](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html){:target="_blank"} is een klassieker onder de klassiekers. Uiterst stijlvol, in zowel goud als staal. De met romeinse cijfers uitgevoerde wijzerplaat in combinatie met de safier blauwe wijzers en chaton op de kroon is een herkenbaar aanzicht, ook onder de grootste wereldsterren.
+De [Cartier Tank Must](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html){:target="_blank"} is een klassieker onder de klassiekers. Uiterst stijlvol, in zowel goud als staal. De met Romeinse cijfers uitgevoerde wijzerplaat in combinatie met de safier blauwe wijzers en chaton op de kroon is een herkenbaar aanzicht, ook onder de grootste wereldsterren.
 
 ![image-center]({{ '/images/horloges/cartier/tanks.png' | absolute_url }})
 
@@ -45,11 +45,11 @@ Van net over de honderd, naar nog net geen twaalf duizend, de [Jaeger-LeCoultre 
 
 ![image-center]({{ '/images/horloges/jaeger-lecoultre/reverso.jpg' | absolute_url }})
 
-Origineel was het Reverso horloge ontwikkeld om het glas te beschermen tijdens de Polo sport. Horloges waren toen der tijd nog een stuk fragieler dan nu. 
+Origineel was het Reverso horloge ontwikkeld om het glas te beschermen tijdens de Polo sport. Horloges waren toendertijd nog een stuk fragieler dan nu. 
 
 ![image-center]({{ '/images/horloges/jaeger-lecoultre/reverso-ad.jpeg' | absolute_url }})
 
-Tegenwoordig zijn er door o.a. Casio G-Shock en andere merken verschillende sporthorloges ontwikkeld, die zijn echter niet altijd 'passend' in het chiquere gezeldschap. Een Reverso blijft hiervoor dan toch de betere keus. 
+Tegenwoordig zijn er door o.a. Casio G-Shock en andere merken verschillende sporthorloges ontwikkeld, die zijn echter niet altijd 'passend' in het chiquere gezelschap. Een Reverso blijft hiervoor dan toch de betere keus. 
 
 De 'beschermende kant' van het Jaeger-LeCoultre Reverso horloge kan tegenwoordig gebruikt worden voor graveringen naar keuze.
 
@@ -58,7 +58,7 @@ Groot, herkenbaar, kleurrijk, en  een echt icoon - de [Tag-Heuer Monaco](https:/
 
 ![image-center]({{ '/images/horloges/tag-heuer/monaco.png' | absolute_url }})
 
-Tag-Heuer en motorsport is natuurlijk een bekende match. Tegenwoordig zijn de modellen in mijn ogen toch vaak wat _te_ sportief. De Monaco lijn blijft daar in tegen een mooie klassieker.
+Tag-Heuer en motorsport is natuurlijk een bekende match. Tegenwoordig zijn de modellen in mijn ogen toch vaak wat _te_ sportief. De Monaco lijn blijft daarentegen een mooie klassieker.
 
 # Conclusie:
 Een kleine rariteit hoort in mijn ogen er altijd bij. Of dit nu door middel van kleur, materiaal, functie of vorm is - het start altijd een gesprek. Van goedkoop tot prijzig, van nieuw tot klassiek. Ook in de vierkante horlogewereld is er voor iedereen genoeg keus! Toch toe aan een ander horloge, check de [best-buy suggesties](/best-buy/)!

@@ -21,7 +21,7 @@ image:
   thumbnail: /images/algemeen/banner/werkbank.jpg
 author: daan
 ---
-Een ander bandje, een batterij vervangen, tot het volledig willen en/of kunnen uitvoeren van een uurwerkreparatie vraagt om de beste accesoires en gereedschappen. Hier een korte lijst van zaken die niet mogen ontbreken in het assortiment van iedere horlogeliefhebber.
+Een ander bandje, een batterij vervangen, tot het volledig willen en/of kunnen uitvoeren van een uurwerkreparatie vraagt om de beste accessoires en gereedschappen. Hier een korte lijst van zaken die niet mogen ontbreken in het assortiment van iedere horlogeliefhebber.
 
 ## Bergeon 6767-F (fine) springbar tool: ongeveer 30,- eur
 De **Bergeon 6767-F** is HET gereedschap voor het vervangen van banden. De F variant, ten opzichte van de gewone s/standard, bevat  fijnere uiteinde, waardoor het vervangen van een band nog makkelijker gaat. Ook is deze maat vaak een vereiste voor het vervangen van stalen banden.
@@ -31,7 +31,7 @@ De **Bergeon 6767-F** is HET gereedschap voor het vervangen van banden. De F var
 Bergeon & Cie heeft zich gevestigd als wereldleider in innovatie en productie van precisie-gereedschappen voor horlogemakers en sieradenindustrie. Een uitstekende keuze dus.
 
 ## Fijn juweliers-schroevendraaier set: 5,- eur
-Bandjes op maat maken is zo gebeurd met de **Jewellers Screwdriver Set 11pce**. Met de 11 verschillende maten schroevendraaiers moet alles goedkomen.
+Bandjes op maat maken is zo gebeurd met de **Jewellers Screwdriver Set 11pce**. Met de 11 verschillende maten schroevendraaiers moet alles goed komen.
 
 ![image-center]({{ '/images/accessoires/screwdriver-set.jpeg' | absolute_url }})
 
@@ -42,4 +42,4 @@ De **Ultrasonic jewelry cleaner** komt mooi van pas na een dagje strand. Al het 
 
 ![image-center]({{ '/images/accessoires/ultrasonic.jpeg' | absolute_url }})
 
-Simpel, snel, om vervolgens weer een glimmede knaller om de arm te hebben!
+Simpel, snel, om vervolgens weer een glimmende knaller om de arm te hebben!
