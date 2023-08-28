@@ -24,4 +24,12 @@ Op deze blog zul je mijn aanbevelingen vinden voor horloges die niet alleen kwal
 
 Dus, als je wilt leren hoe je de juiste horloges kunt kiezen die passen bij jouw stijl en persoonlijkheid, en hoe je anderen maar vooral jezelf kunt verrijken met je horloge keuze, dan ben je hier aan het juiste adres. Laat je dan hier, op DikkeKlok.nl, begeleiden in je zoektocht naar het perfecte horloge.
 
-<h3><p style="text-align: center;">Welkom op DikkeKlok.nl</p><h3>
+<h3><p style="text-align: center;">Welkom op DikkeKlok.nl</p></h3>
+
+***
+
+<h4><p style="text-align: center;"><i>Nieuwste artikel:</i></p></h4>
+
+{%- for entry in site.posts limit:1 -%}
+  {% include entry-featured-home.html %}
+{%- endfor -%}
