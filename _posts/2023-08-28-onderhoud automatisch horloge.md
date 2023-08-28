@@ -87,9 +87,9 @@ Het is natuurlijk altijd een optie om naar een andere horloge maker te gaan. Hou
 # Conclusie:
 Er kan veel afhangen van een horloge reparatie. Het dragen van een luxe uurwerk komt daarbij dus ook met de 'luxe' van onderhoud. Het is in dat opzicht vergelijkbaar met een auto, waarbij hoe duurder de wagen vaak gelijk staat aan de prijs van het onderhoud. 
 
-Veel horlogemakers zijn te vinden op: https://uurwerkherstellers.nl/ 
+Veel horlogemakers zijn te vinden op: [https://uurwerkherstellers.nl/](https://uurwerkherstellers.nl/)
 
-Een community overzicht is ook te vinden, hier (of https://www.horlogeforum.nl/t/zoek-de-dichtstbijzijnde-horlogemaker-met-hf-recensie/170526):
+Een community overzicht is ook te vinden, hier (of [https://www.horlogeforum.nl/t/zoek-de-dichtstbijzijnde-horlogemaker-met-hf-recensie/170526](https://www.horlogeforum.nl/t/zoek-de-dichtstbijzijnde-horlogemaker-met-hf-recensie/170526)):
 
 <iframe src="https://www.google.com/maps/d/embed?mid=14I_CtospHkiELNg4yjsOd2NktiFbu6q_&ehbc=2E312F" width="640" height="480"></iframe>
 
