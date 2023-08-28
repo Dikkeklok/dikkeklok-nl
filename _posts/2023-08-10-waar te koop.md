@@ -32,7 +32,7 @@ Wat is een hype ook al weer?
 > Een hype is een verschijnsel dat tijdelijk bovenmatige media-aandacht krijgt en daardoor belangrijker lijkt dan het in werkelijkheid is.
 
 Het gaat hierbij dus om horloges die bijvoorbeeld door middel van influencer marketing aan de massa worden gebracht met als doel zo veel mogelijk omzet te genereren voor de makers, investeerders, en het merk. Vaak zijn deze horloges te vinden in de kledingwinkels van de bekendere kledingmerken. 
-Deze 'hype' horloges zijn niet per definitie slecht maar ze worden vaak gemaakt van goedkope materialen en/of uurwerken waardoor de kwaliteit en levensduur vaak toch tekort schiet.
+Deze 'hype' horloges zijn niet per definitie slecht, maar ze worden vaak gemaakt van goedkope materialen en/of uurwerken waardoor de kwaliteit en levensduur vaak toch tekort schiet.
 
 # Betrouwbaarheid
 Een horloge moet meegaan, en niet na 2x dragen stil of kapot in de kast verdwijnen.
@@ -40,12 +40,12 @@ Een horloge moet meegaan, en niet na 2x dragen stil of kapot in de kast verdwijn
 ## Uurwerk en Service
 Uurwerken van Seiko (bijvoorbeeld Caliber Number [7S26](https://calibercorner.com/seiko-caliber-7s26/){:target="_blank"}) of [ETA](https://calibercorner.com/tag/eta/){:target="_blank"} worden algemeen gezien als betrouwbaar. Deze uurwerken worden in verschillende horloges gebruikt, waar weer [verschillende reviews](calibercorner.com){:target="_blank"} over te lezen zijn. 
 
-Het mooie van een gerenomeerd merk en/of uurwerk is, is dat daarbij de service ook vaak beter mogelijk is. Het vervangen van een gerenomeerd kaliber, of het aan reserve onderdelen komen, is dan ook vaak mogelijk voor de algemene horlogemaker. Dit zal bij problemen een hoop gedoe en kosten schelen.
+Het mooie van een gerenommeerd merk en/of uurwerk is, is dat daarbij de service ook vaak beter mogelijk is. Het vervangen van een gerenommeerd kaliber, of het aan reserve onderdelen komen, is dan ook vaak mogelijk voor de algemene horlogemaker. Dit zal bij problemen een hoop gedoe en kosten schelen.
 
 ## Mechanisch, automaat of toch Quartz
 Quartz, ook wel batterij uurwerken, worden vaak als minder gezien. Deze zijn inderdaad vaak goedkoper qua aanschaf, maar zijn juist accurater dan een mechanisch uurwerk. 
 
-Quartz werkt met een batterij, waar mechanisch en automaat werken met een veer. Het verschil tussen mechanisch en automaat is dat een automatisch horloge opwind door beweging, en daarmee de veer gespannen houdt, waarbij je bij een mechanisch horloge het uurwerk iedere +/- 48 uur moet opwinden.
+Quartz werkt met een batterij, waar mechanisch en automaat werken met een veer. Het verschil tussen mechanisch en automaat is dat een automatisch horloge opwindt door beweging, en daarmee de veer gespannen houdt, waarbij je bij een mechanisch horloge het uurwerk iedere +/- 48 uur moet opwinden.
 
 De voordelen: Quartzhorloges
 - Accuraat (gemiddeld -10 tot +20 seconden afwijking per maand)
@@ -74,9 +74,9 @@ Zelf hou ik verschillende plekken in de gaten in mijn zoektocht naar horloges. V
 
 Let hier wel op de bijkomende verzend + import kosten mocht het horloge zich buiten de EU bevinden.
 
-Persoonlijk heb ik via Reddit al horloges aangeschaft uit o.a. Canada, Indonesie, Engeland en Duitsland.
+Persoonlijk heb ik via Reddit al horloges aangeschaft uit o.a. Canada, Indonesië, Engeland en Duitsland.
 
-In tegenstelling tot een fysieke winkel bezoeken kun je horloges online niet proberen voordat je ze hebt gekocht. Gelukkig zijn er veel juweliers in nederland te vinden die je graag helpen met de aanschaf van een uurwerk. Trek je stoute schoenen aan en stap een keer binnen. Dit kan in het begin vaak spannend zijn, maar je bent nooit tot kopen verplicht. Plus, er werken vaak echte horlogeliefhebbers in zo'n zaak waar je je passie en zoektocht mee kan delen.
+In tegenstelling tot een fysieke winkel bezoeken kun je horloges online niet proberen voordat je ze hebt gekocht. Gelukkig zijn er veel juweliers in Nederland te vinden die je graag helpen met de aanschaf van een uurwerk. Trek je stoute schoenen aan en stap een keer binnen. Dit kan in het begin vaak spannend zijn, maar je bent nooit tot kopen verplicht. Plus, er werken vaak echte horlogeliefhebbers in zo'n zaak waar je je passie en zoektocht mee kan delen.
 
 ## What's next?
-Ok, je hebt je budget bepaald en een aantal betrouwbare partijen gevonden, what's next? Het uitkiezen van een horloge natuurlijk! Om hierbij te helpen kun je de [best-buy suggesties](/best-buy/) checken, om hopelijk zo tot een goed passend horloge te komen. Succes!
+Oké, je hebt je budget bepaald en een aantal betrouwbare partijen gevonden, what's next? Het uitkiezen van een horloge natuurlijk! Om hierbij te helpen kun je de [best-buy suggesties](/best-buy/) checken, om hopelijk zo tot een goed passend horloge te komen. Succes!

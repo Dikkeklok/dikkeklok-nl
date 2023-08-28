@@ -34,11 +34,11 @@ Om maar meteen goed met de deur in huis te vallen, de **Rolex Day-Date**! Het ee
 - Kast diameter: 36 mm of 40 mm
 - Prijs: rond de 40k EUR
 
-Echter, voor de wat kleinere portemonee, zijn er ook mooie alternatieve beschikbaar. Zoals te hier te zien, de **Bulova Day-Date**. Voor rond de 500 euro een mooi alternatief!
+Echter, voor de wat kleinere portemonnee, zijn er ook mooie alternatieve beschikbaar. Zoals te hier te zien, de **Bulova Day-Date**. Voor rond de 500 euro een mooi alternatief!
 
 [![image-center]({{ '/images/horloges/bulova/bulova-day-date-gold.jpeg' | absolute_url }})](https://www.instagram.com/p/Cu2bL2bqGtm/?img_index=2){:target="_blank"}
 
-# De goude festival Casio(s)
+# De gouden festival Casio(s)
 
 Zonder zorgen goud dragen? Het lijkt een droom, maar deze is werkelijkheid gemaakt door Casio! Beschikbaar in verschillende opties. Zowel klein bescheiden met minimale accenten, tot groot formaat volledig goud waar je ogen van verblind worden!
 
@@ -55,4 +55,4 @@ Over de kwaliteit van Casio en de historie hoeven we natuurlijk niet veel meer u
 Op een hele andere manier draagbaar, en met zijn prijs van rond de 60 EUR ook aan de zeer betaalbare kant! Een mooi extraatje is dat de batterij van de A168 een geschatte levensduur heeft van 7 jaar!!!
 
 ## Whats next?
-Goud valt natuurlijk erg op. Is 'stealth wealth' meer je ding?, dan kun je misschien kijken naar wit-goud, platinum, of juist een gewoon stalen horloge. Er zijn vele opties in deze wereld, allen met een prijskaartje. Check de site verder voor best-buy suggesties in andere categorieen!
+Goud valt natuurlijk erg op. Is 'stealth wealth' meer je ding?, dan kun je misschien kijken naar wit-goud, platina, of juist een gewoon stalen horloge. Er zijn vele opties in deze wereld, allen met een prijskaartje. Check de site verder voor [best-buy](/best-buy) suggesties in andere categorieën!

@@ -17,7 +17,7 @@ image:
   thumbnail: /images/algemeen/banner/submariner.jpg
 author: daan
 ---
-Exclusiviteit, want lastig te koop, of toch niet? De Rolex Submariner, een van de meest herkenbare en gewilde horloges ter wereld. Echter, niet te koop via de officiele Rolex dealers tenzij er aankoophistorie is. In dit artikel laten we je een aantal fantastische alternatieven zien voor de Rolex Submariner, die qua looks, prijs en beschikbaarheid zeker niet onderdoen.
+Exclusiviteit, want lastig te koop, of toch niet? De Rolex Submariner, een van de meest herkenbare en gewilde horloges ter wereld. Echter, niet te koop via de officiële Rolex dealers tenzij er aankoophistorie is. In dit artikel laten we je een aantal fantastische alternatieven zien voor de Rolex Submariner, die qua looks, prijs en beschikbaarheid zeker niet onderdoen.
 
 ## Orient Ray II (2): 150,- eur
 De [Orient Ray II](https://orient-watch.com/Collections/ORIENT/Sports/ORIENT%3A-Mechanical-Sports-Watch/p/AA02004B){:target="_blank"} is een populaire duikhorloge uit de collectie van Orient Watch Company, een Japans horlogemerk dat bekend staat om zijn kwalitatieve en betaalbare mechanische horloges. 
@@ -75,7 +75,7 @@ Met een referentienummer dat langer is dan een gemiddelt telefoonnummer mag de [
 
 ![image-center]({{ '/images/horloges/oris/65-steel.png' | absolute_url }})
 
-In vele kleuren te krijgen, tot aan roze wijzerplaat en bronze kast toe, een horloge wat bij iedereen past.
+In vele kleuren te krijgen, tot aan roze wijzerplaat en bronzen kast toe, een horloge wat bij iedereen past.
 
 ### Oris Diver Sixty-Five specificaties
 - Diameter: 40 mm

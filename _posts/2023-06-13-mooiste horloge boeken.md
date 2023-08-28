@@ -16,10 +16,10 @@ image:
   thumbnail: /images/boeken/book banner.jpg
 author: daan
 ---
-Een boeken kast, iedereen heeft er wel een. Maarja, waarmee vul je deze? Wil je meer leren over horloges, de historie, of heb je toevallig een hoekje ingericht om je waardevolle horloges en/of sierraden neer te zetten, maar mag het nog wat decoratie gebruiken? Met de volgende boeken zorg je er voor dat je op alle fronten voorzien bent
+Een boeken kast, iedereen heeft er wel een. Maar ja, waarmee vul je deze? Wil je meer leren over horloges, de historie, of heb je toevallig een hoekje ingericht om je waardevolle horloges en/of sieraden neer te zetten, maar mag het nog wat decoratie gebruiken? Met de volgende boeken zorg je er voor dat je op alle fronten voorzien bent
 
 ## De catalogus
-De merk catalogus, een simpele en vaak prachtig exemplaar om toe te voegen aan de collectie. De boeken zijn vaak van hoge kwaliteit, gratis te verkrijgen, en kunnen soms nog een hoge verkoopwaarde hebben.
+De merkcatalogus, een simpele en vaak prachtig exemplaar om toe te voegen aan de collectie. De boeken zijn vaak van hoge kwaliteit, gratis te verkrijgen, en kunnen soms nog een hoge verkoopwaarde hebben.
 
 Ze zijn er van alle grote merken en staan er om bekend om veel informatie met betrekking tot historie te bevatten. Tevens zijn het vaak de mooiste afbeeldingen om te zien, zolang je het horloge nog niet in het echt hebt kunnen bewonderen.
 

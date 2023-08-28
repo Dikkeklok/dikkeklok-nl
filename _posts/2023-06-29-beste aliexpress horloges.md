@@ -38,7 +38,7 @@ De Seagull 1963 werd oorspronkelijk in 1961 ontwikkeld om te worden uitgegeven a
 
 # De Dikke Duiker horloges van San Martin: 250,- EUR
 
-Een duidelijke knipoog naar de Tudor Black Bay 58 is hier te zien. Echter, kost dit horloge nog geen 10e van de prijs!!! De wijzerplaat, wijzers, en indici springen er uit en maken het horloge duidelijk leesbaar.
+Een duidelijke knipoog naar de Tudor Black Bay 58 is hier te zien. Echter, kost dit horloge nog geen 10e van de prijs!!! De wijzerplaat, wijzers, en indicie springen er uit en maken het horloge duidelijk leesbaar.
 
 ![image-center]({{ '/images/horloges/sanmartin/front.jpg' | absolute_url }})
 
