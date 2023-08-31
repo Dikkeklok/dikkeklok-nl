@@ -1,5 +1,6 @@
 ---
 title: Winkel
+description: Exclusiviteit voor om de pols. De dikste horloges direct leverbaar. Zoek jij een Dik horloge? Kijk dan snel verder!
 layout: collection
 permalink: /winkel/
 collection: winkel
