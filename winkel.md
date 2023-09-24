@@ -10,4 +10,5 @@ Exclusieve opties - perfect als je op zoek bent naar je eerste horloge, een echt
 
 ## Op dit moment beschikbare horloges:
 _Zie ook de [aankoopvoorwaarden](/aankoopvoorwaarden)_
+
 *** 
