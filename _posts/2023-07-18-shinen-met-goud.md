@@ -1,6 +1,7 @@
 ---
 title: "Shinen met je goude patser!"
 date:   2023-07-18 20:14:22 +0200
+description: Op zoek naar een goud horloge? Let op, de prijs kan voor gouden horloges je soms positief verrassen! In deze blog een aantal mooie goude status-waardige klokken om mee te shinen!
 categories:
   - algemeen
 tags:

@@ -1,6 +1,7 @@
 ---
 title: "De beste AliExpress horloges"
 date:   2023-06-29 19:10:18 +0200
+description: Goedkoop is duurkoop, of toch niet? De beste AliExpress horloges vind je hier.
 categories:
   - algemeen
 tags:

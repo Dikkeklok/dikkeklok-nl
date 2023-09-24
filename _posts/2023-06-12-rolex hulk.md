@@ -1,6 +1,7 @@
 ---
 title: "Rolex Hulk alternatief"
 date:   2023-06-12 14:15:33 +0200
+description: Groen van het zoeken naar een Rolex Hulk? Zie hier de dikste opties ter alternatief.
 categories:
   - alternatief
 tags:

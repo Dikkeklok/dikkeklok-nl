@@ -3,6 +3,7 @@ title: "De mooiste horloge boeken"
 date:   2023-06-13 14:13:38 +0200
 categories:
   - accessoires
+description: Meer dan alleen tekst en plaatjes. Hier een overzicht van horlogeboeken die je als liefhebber op de plank moet hebben!
 tags:
   - omega
   - boeken
