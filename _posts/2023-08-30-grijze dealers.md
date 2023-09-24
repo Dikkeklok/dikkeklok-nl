@@ -3,6 +3,7 @@ title: "Grijze handelaren vs officiële dealers (AD)"
 date:   2023-08-30 14:12:11 +0200
 categories:
   - algemeen
+description: Wit, grijs, zwart? Waar koop je nu het voordeeligste een goed horloge? Lees snel verder voordat je nieuwe aankoop doet!
 tags:
   - authorised dealer
   - grijs

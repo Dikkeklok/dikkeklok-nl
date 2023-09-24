@@ -3,6 +3,7 @@ title: "Onderhoud automatisch horloge"
 date:   2023-08-28 11:12:11 +0200
 categories:
   - algemeen
+description: Problemen met je horloge? Niet wetend wat je moet doen? Hier een korte uitleg met tips voor kwalitatief onderhoud van je uurwerk!
 tags:
   - mechanisch
   - automatisch

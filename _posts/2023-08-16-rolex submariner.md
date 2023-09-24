@@ -3,6 +3,7 @@ title: "Rolex Submariner alternatief"
 date:   2023-08-16 23:02:41 +0200
 categories:
   - alternatief
+description: Misschien wel het meest iconische horloge ooit, de Rolex Submariner. Lees hier snel verder en wordt bekend de beste alternatieve opties!
 tags:
   - Rolex
   - submariner

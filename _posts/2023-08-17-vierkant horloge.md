@@ -3,6 +3,7 @@ title: "Vierkant horloge"
 date:   2023-08-17 19:12:11 +0200
 categories:
   - algemeen
+description: Rond is uit, vierkant is in! Hier een overzicht van de beste vierkante horloges die op dit moment beschikbaar zijn!
 tags:
   - cartier
   - swatch

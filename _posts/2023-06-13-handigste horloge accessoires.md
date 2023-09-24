@@ -1,6 +1,7 @@
 ---
 title: "De handigste horloge accessoires"
 date:   2023-06-13 18:15:33 +0200
+description: Leuk als cadeau, of om je hobbie verder op te pakken. Zie hier de handigste horloge accessoires
 categories:
   - accessoires
 tags:
