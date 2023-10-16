@@ -56,7 +56,7 @@ plugins:
 collections:
   winkel:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path
 
 # Front Matter Defaults
 defaults:
