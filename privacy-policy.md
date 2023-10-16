@@ -1,7 +1,7 @@
 ---
 title: Privacybeleid voor 'DikkeKlok.nl'
 layout: page
-permalink: /privacy-policy/
+permalink: /privacy-policy
 search: false
 ---
 Dit privacybeleid beschrijft hoe 'DikkeKlok.nl' persoonlijke informatie verzamelt, gebruikt en beschermt. Door gebruik te maken van deze blog stemt u in met het volgende privacybeleid:

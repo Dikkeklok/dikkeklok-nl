@@ -2,7 +2,7 @@
 title: De beste Dikke Klokken van het moment
 description: Een compleet overzicht met suggesties voor horloges in verschillende categorieën, samen met een korte uitleg waarom ze geschikt zouden kunnen zijn als aanschaf. 
 layout: collection
-permalink: /best-buy/
+permalink: /best-buy
 collection: best-buy
 entries_layout: grid
 ---

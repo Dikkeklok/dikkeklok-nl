@@ -51,6 +51,6 @@ Door het vervangen (maar bewaren) van de seconde wijzer kan er een uniek horloge
 ## In het kort
 Limited Edition en Special Edition horloges hebben vaak betrekking op de beschikbaarheid en het ontwerp van het horloge voor een bredere markt - waarbij het gaat om regulier beschikbare modellen. Bij gepersonaliseerde horloges gaat het specifiek om horloges die afgestemd zijn op de individuele koper. 
 
-Vaak zijn zowel limited als special editions snel uitverkocht. Het aanschaffen van een specifieke limited edition is vaak het makkelijkste via een [Grijze Handelaar](/algemeen/grijze-dealers/). Gelukkig is het meestal wel mogelijk om met wat geduld zelf via officiele kanalen een special edition te bemachtigen. 
+Vaak zijn zowel limited als special editions snel uitverkocht. Het aanschaffen van een specifieke limited edition is vaak het makkelijkste via een [Grijze Handelaar](/algemeen/grijze-dealers). Gelukkig is het meestal wel mogelijk om met wat geduld zelf via officiele kanalen een special edition te bemachtigen. 
 
 Alle drie bieden ze echter een vorm van uniekheid en exclusiviteit. De zoektocht naar een special edition kan erg veel voldoening geven, en maakt je collectie ook zeker een stuk unieker. Hetzelfde geldt voor het bemachtigen van een moeilijk of in kleine oplagen gecreëerde limited edition. Het personaliseren van horloges ben ik persoonlijk geen fan van - maar uitzonderingen altijd daar gelaten.

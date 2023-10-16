@@ -62,4 +62,4 @@ Groot, herkenbaar, kleurrijk, en  een echt icoon - de [Tag-Heuer Monaco](https:/
 Tag-Heuer en motorsport is natuurlijk een bekende match. Tegenwoordig zijn de modellen in mijn ogen toch vaak wat _te_ sportief. De Monaco lijn blijft daarentegen een mooie klassieker.
 
 # Conclusie:
-Een kleine rariteit hoort in mijn ogen er altijd bij. Of dit nu door middel van kleur, materiaal, functie of vorm is - het start altijd een gesprek. Van goedkoop tot prijzig, van nieuw tot klassiek. Ook in de vierkante horlogewereld is er voor iedereen genoeg keus! Toch toe aan een ander horloge, check de [best-buy suggesties](/best-buy/)!
+Een kleine rariteit hoort in mijn ogen er altijd bij. Of dit nu door middel van kleur, materiaal, functie of vorm is - het start altijd een gesprek. Van goedkoop tot prijzig, van nieuw tot klassiek. Ook in de vierkante horlogewereld is er voor iedereen genoeg keus! Toch toe aan een ander horloge, check de [best-buy suggesties](/best-buy)!

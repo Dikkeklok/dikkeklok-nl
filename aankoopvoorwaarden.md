@@ -1,7 +1,7 @@
 ---
 title: Aankoopvoorwaarden 'DikkeKlok.nl'
 layout: page
-permalink: /aankoopvoorwaarden/
+permalink: /aankoopvoorwaarden
 search: false
 ---
 Deze aankoopvoorwaarden beschrijven de rechten die u als consument heeft bij aankopen op 'DikkeKlok.nl'.
