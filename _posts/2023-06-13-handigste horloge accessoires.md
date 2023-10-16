@@ -27,7 +27,7 @@ Een ander bandje, een batterij vervangen, tot het volledig willen en/of kunnen u
 ## Bergeon 6767-F (fine) springbar tool: ongeveer 30,- eur
 De **Bergeon 6767-F** is HET gereedschap voor het vervangen van banden. De F variant, ten opzichte van de gewone s/standard, bevat  fijnere uiteinde, waardoor het vervangen van een band nog makkelijker gaat. Ook is deze maat vaak een vereiste voor het vervangen van stalen banden.
 
-![image-center]({{ '/images/accessoires/bergeon-6767f.png' | absolute_url }})
+![image-center]({{ '/images/accessoires/bergeon-6767f.png' | absolute_url }}){: .align-right}
 
 Bergeon & Cie heeft zich gevestigd als wereldleider in innovatie en productie van precisie-gereedschappen voor horlogemakers en sieradenindustrie. Een uitstekende keuze dus.
 
