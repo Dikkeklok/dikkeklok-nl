@@ -37,9 +37,9 @@ Het verwisselen van een horlogeband kan variëren afhankelijk van het type horlo
 
 Als je spring bars hebt, gebruik dan het horlogebandverwisselingsgereedschap om voorzichtig de pinnen in te drukken en weg te duwen van de lugs (de uiteinden van de horlogekast). Doe dit voor beide uiteinden van de band totdat de band loskomt.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NNeYZ_EcXWU?si=9BtqubRAojLuvS_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 Het is belangrijk om geduldig en voorzichtig te werk te gaan om krassen of schade aan je horloge te voorkomen. Als je niet zeker bent van je vaardigheden, is het raadzaam om een professional te raadplegen of naar een juwelier te gaan om de horlogeband te laten vervangen.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NNeYZ_EcXWU?si=9BtqubRAojLuvS_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Fijn juweliers-schroevendraaier set: 5,- eur
 Nu de band los is is het tijd om deze op maat te maken. Sommige banden komen met schroeven. Als je schroeven hebt, gebruik dan een kleine schroevendraaier om de schroeven voorzichtig los te draaien.
