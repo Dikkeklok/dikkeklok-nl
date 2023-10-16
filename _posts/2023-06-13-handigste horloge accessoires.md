@@ -59,7 +59,7 @@ Meer informatie over Loctite is te vinden op: [https://www.henkel-adhesives.com/
 ## ultrasoon reiniger: 40,- eur
 Een ultrasoon reiniger komt mooi van pas na een dagje strand, klussen, of zweten. Al het zand, zout, en vuil is zo verdwenen na een korte duik in deze ultrasoon reiniger. Het werkt door het genereren van ultrasone trillingen in een vloeistof (meestal water of een reinigingsoplossing), die vervolgens kleine, krachtige drukgolven creëren. Dit helpt tevens bij het soepel houden van een stalen band, en voorkomt onnodige slijtage. Let bij het gebruik wel op dat je het horloge eerst los van de band haalt indien deze niet waterdicht is!
 
-![image-center]({{ '/images/accessoires/ultrasonic.jpeg' | absolute_url }})
+![image-center]({{ '/images/accessoires/ultrasonic.jpeg' | absolute_url }}){: .align-right}
 
 Het mooie van een ultrasoon reiniger is dat het niet alleen geschikt is voor horloges, maar ook voor ringen, armbanden of zonnebrillen. Ze bieden een efficiënte manier om vuil en verontreinigingen te verwijderen zonder dat je de voorwerpen hoeft te schrobben of te schuren.
 

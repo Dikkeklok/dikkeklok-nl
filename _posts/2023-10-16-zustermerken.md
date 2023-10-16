@@ -21,7 +21,6 @@ image:
   thumbnail: /images/algemeen/banner/pawns.jpg
 author: daan
 ---
-## Wat is een zustermerk?
 Een zustermerk (of zusterbedrijf) is een term die wordt gebruikt om een merk of bedrijf aan te duiden dat nauw verwant is aan een ander merk of bedrijf, meestal doordat ze eigendom zijn van dezelfde moedermaatschappij of dezelfde eigenaar hebben. Vaak hebben zustermerken hun eigen unieke identiteit. Soms worden zustermerken gecreëerd om verschillende segmenten van de markt te bedienen. Dit kan door eenzelfde oprichter onder een andere merknaam worden gedaan, of door middel van een overname.
 
 Hieronder een aantal zustermerken en horloge _'groepen'_, om wat meer inzicht te geven in welk merk nu waar precies onder valt.
@@ -38,12 +37,14 @@ Beide bedrijven zijn dus van dezelfde oprichter, en inderdaad te zien als broer 
 Later, in 1945 werd hierbij de _Hans Wilsdorf Foundation_ opgericht. Deze charitatieve stichting was opgericht om het nalatenschap van Hans Wilsdorf voort te zetten en bij te dragen aan gemeenschappelijke goede doelen. Denk hierbij aan verschillende liefdadigheidsactiviteiten en het verlenen van financiële steun aan organisaties op het gebied van kunst, cultuur, wetenschap, onderwijs, en medisch onderzoek.
 De Hans Wilsdorf Foundation is echter niet betrokken bij de dagelijkse bedrijfsvoering van Rolex of Tudor. Deze horlogemerken onafhankelijk opereren. Het is dus geen overkoepelende organisatie voor horlogemerken of horlogebedrijven.
 
-Rolex en Tudor worden nu als afzonderlijke entiteiten beheerd en hebben elk hun eigen merkidentiteit en onafhankelijke operaties.
+*Rolex en Tudor* worden nu als afzonderlijke entiteiten beheerd en hebben elk hun eigen merkidentiteit en onafhankelijke operaties.
 
 ## Richemont Group
 De Richemont Group, ook bekend als Compagnie Financière Richemont SA, is een Zwitsers luxegoederen groep dat zich specialiseert in high-end juwelen, horloges en modeartikelen. Het werd opgericht in 1988 en heeft zijn hoofdkantoor in Genève, Zwitserland. Het bedrijf is genoemd naar de Zuid-Afrikaanse zakenman Johann Rupert, wiens familie een belangrijke aandeelhouder is.
 
 De Richemont Group staat bekend om zijn toewijding aan vakmanschap, innovatie en luxe. 
+
+![image-center]({{ '/images/algemeen/cartier.jpg' | absolute_url }}){: .align-right}
 
 ### De merken van de Richemont Group
 * Vacheron Constantin
@@ -57,8 +58,6 @@ De Richemont Group staat bekend om zijn toewijding aan vakmanschap, innovatie en
 * Cartier
 * Van Cleef & Arpels
 
-![image-center]({{ '/images/algemeen/cartier.jpg' | absolute_url }}){: .align-right}
-
 Richemont is ook actief in e-commerce heeft flink bijgedragen aan de groei van luxemarkten over de hele wereld.
 
 Meer informatie over de Richemont group is te vinden op [https://www.richemont.com/](https://www.richemont.com/)
@@ -67,6 +66,8 @@ Meer informatie over de Richemont group is te vinden op [https://www.richemont.c
 De Swatch Group is een Zwitserse groep van horloge- en uurwerkfabrikanten en is een van 's werelds grootste spelers in de horloge-industrie. Het bedrijf werd opgericht in 1983 en heeft zijn hoofdkantoor in Biel/Bienne, Zwitserland. De Swatch Group omvat verschillende bekende horlogemerken en heeft een breed scala aan activiteiten binnen de horloge-industrie.
 
 Naast horlogemerken bezit de Swatch Group ook fabrikanten van horloge-onderdelen en -componenten, waaronder ETA, een van 's werelds grootste producenten van uurwerken.
+
+![image-center]({{ '/images/horloges/swatch/moonswatch.jpg' | absolute_url }}){: .align-right}
 
 ### De merken van de Swatch Group
 * Breguet
@@ -87,8 +88,6 @@ Naast horlogemerken bezit de Swatch Group ook fabrikanten van horloge-onderdelen
 * Hamilton
 * Swatch
 * Flik Flak
-
-![image-center]({{ '/images/horloges/swatch/moonswatch.jpg' | absolute_url }}){: .align-right}
 
 Deze merken variëren van luxe horloges tot meer toegankelijke en betaalbare horloges, waardoor de Swatch Group een breed spectrum van consumenten bedient. 
 
