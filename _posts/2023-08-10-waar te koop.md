@@ -38,7 +38,7 @@ Deze 'hype' horloges zijn niet per definitie slecht, maar ze worden vaak gemaakt
 Een horloge moet meegaan, en niet na 2x dragen stil of kapot in de kast verdwijnen.
 
 ## Uurwerk en Service
-Uurwerken van Seiko (bijvoorbeeld Caliber Number [7S26](https://calibercorner.com/seiko-caliber-7s26/){:target="_blank"}) of [ETA](https://calibercorner.com/tag/eta/){:target="_blank"} worden algemeen gezien als betrouwbaar. Deze uurwerken worden in verschillende horloges gebruikt, waar weer [verschillende reviews](calibercorner.com){:target="_blank"} over te lezen zijn. 
+Uurwerken van Seiko (bijvoorbeeld Caliber Number [7S26](https://calibercorner.com/seiko-caliber-7s26/){:target="_blank"}) of [ETA](https://calibercorner.com/tag/eta/){:target="_blank"} worden algemeen gezien als betrouwbaar. Deze uurwerken worden in verschillende horloges gebruikt, waar weer [verschillende reviews](https://calibercorner.com){:target="_blank"} over te lezen zijn. 
 
 Het mooie van een gerenommeerd merk en/of uurwerk is, is dat daarbij de service ook vaak beter mogelijk is. Het vervangen van een gerenommeerd kaliber, of het aan reserve onderdelen komen, is dan ook vaak mogelijk voor de algemene horlogemaker. Dit zal bij problemen een hoop gedoe en kosten schelen.
 
