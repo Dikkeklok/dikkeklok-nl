@@ -42,3 +42,9 @@ Een geweldig stuk voor Hublot-verzamelaars of voor iedereen die iets speciaals w
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
 
 <center><stripe-buy-button buy-button-id="buy_btn_1NlCyAERy1tUSqmux97Yn8Mt" publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"></stripe-buy-button></center>
+
+
+***
+
+[< Terug naar de winkel](/winkel)
+
