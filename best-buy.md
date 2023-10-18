@@ -96,4 +96,4 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 
 Merk op dat de bovengenoemde suggesties gebaseerd zijn op algemene overwegingen en bekendheid met horlogemerken en modellen. Er zijn sindsdien natuurlijk een hoop nieuwe horloges uitgebracht, en trends veranderd. Bij het kiezen van een horloge is het belangrijk om rekening te houden met persoonlijke smaak, budget en specifieke behoeften. 
 
-Check ook bovenaan de site het menu, deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/categories/#accessoires), [alternatieve](/categories/#alternatief), en [de beste aankopen](/categories/#best-buy) op dit moment!
+Check ook bovenaan de site het menu, deze linkt naar de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/accessoires/handigste-horloge-accessoires) en [alternatieve](/categories#alternatief) op dit moment!
