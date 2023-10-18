@@ -57,6 +57,9 @@ collections:
   winkel:
     output: true
     permalink: /:collection/:path
+  boekenkast:
+    output: true
+    permalink: /:collection/:path
 
 # Front Matter Defaults
 defaults:
