@@ -65,9 +65,9 @@ Meer informatie over de Richemont group is te vinden op [https://www.richemont.c
 ## Swatch Group
 De Swatch Group is een Zwitserse groep van horloge- en uurwerkfabrikanten en is een van 's werelds grootste spelers in de horloge-industrie. Het bedrijf werd opgericht in 1983 en heeft zijn hoofdkantoor in Biel/Bienne, Zwitserland. De Swatch Group omvat verschillende bekende horlogemerken en heeft een breed scala aan activiteiten binnen de horloge-industrie.
 
-Naast horlogemerken bezit de Swatch Group ook fabrikanten van horloge-onderdelen en -componenten, waaronder ETA, een van 's werelds grootste producenten van uurwerken.
-
 ![image-center]({{ '/images/horloges/swatch/moonswatch.jpg' | absolute_url }}){: .align-right}
+
+Naast horlogemerken bezit de Swatch Group ook fabrikanten van horloge-onderdelen en -componenten, waaronder ETA, een van 's werelds grootste producenten van uurwerken.
 
 ### De merken van de Swatch Group
 * Breguet
