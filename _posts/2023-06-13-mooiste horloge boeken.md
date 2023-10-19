@@ -34,7 +34,7 @@ Wat suggesties om aan te vragen zijn:
 
 Een mailtje naar een contact@ adres is ook altijd het proberen waard!
 
-Check ook de [Boekenkast](/boekenkast) voor een kleine greep uit mijn persoonlijke collectie boeken.
+> _Check ook de [Boekenkast](/boekenkast) voor een kleine greep uit mijn persoonlijke collectie boeken._
 
 ## A Man and His Watch: 36,- eur
 *Iconic Watches and Stories from the Men Who Wore Them*
