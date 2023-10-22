@@ -23,3 +23,11 @@ layout: default
   <p><strong>Helaas :(</strong></p>
   <p>Maar meer klokken zijn te vinden op: <a href="https://dikkeklok.nl">dikkeklok.nl</a>!</p>
 </div>
+
+<script>
+  // fix for trailing slash
+  var url = location.href;
+  if(url.substr(url.length - 1) === '/') {
+    window.location = url.substr(0, url.length - 1);
+  }
+</script>
