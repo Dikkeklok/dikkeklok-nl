@@ -7,16 +7,13 @@ search: false
 Deze aankoopvoorwaarden beschrijven de rechten die u als consument heeft bij aankopen op 'DikkeKlok.nl'.
 
 ### Omschrijving Product
-De omschrijving van het product, de staat van het product en de specificaties van het product worden zo nauwkeurig mogelijk opgesteld en beschikbaar gemaakt. Er kan echter geen garantie voor compleetheid gegeven worden. Defecten zullen indien bekend vermeld worden in de beschrijving. U heet als koper onderzoeksplicht. Vragen over producten kunnen naar product@dikkeklok.nl onder vermelding van het artikel.
+De omschrijving van het product, de staat van het product en de specificaties van het product worden zo nauwkeurig mogelijk opgesteld en beschikbaar gemaakt. Er kan echter geen garantie voor compleetheid gegeven worden. Defecten zullen indien bekend vermeld worden in de beschrijving. U heeft als koper onderzoeksplicht. Vragen over producten kunnen naar product@dikkeklok.nl onder vermelding van het artikel.
 
 ### Prijs
 De Koper betaalt voor het product zoals vermeld op de productpagina. Deze prijs dient volledig te worden voldaan bij bestelling.
 
 ### Levering
 Het product zoals omschreven wordt door Verkoper geleverd aan Koper uiterlijk binnen 30 dagen na ontvangst van de betaling.
-
-### Overmacht
-In geval van overmacht worden de afspraken gemaakt in deze overeenkomst opgeschort voor de duur van de overmacht, zonder dat partijen over en weer tot enige schadevergoeding gehouden zijn.
 
 ### Risico
 Het product is voor risico van Verkoper in de periode tussen het sluiten van de koop en de genoemde leverdatum. Het product is voor risico van Koper vanaf levering.
@@ -36,4 +33,4 @@ Alle mogelijke rechtsgeschillen die uit deze overeenkomst voortvloeien, zullen w
 
 Voor vragen over dit aankoopvoorwaarden kunt u contact met ons opnemen via aankopen@dikkeklok.nl
 
-#### Laatst bijgewerkt op 31/08/2023.
+#### Laatst bijgewerkt op 24/10/2023.
