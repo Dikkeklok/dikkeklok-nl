@@ -19,8 +19,6 @@ excerpt_separator: <!--end_excerpt-->
 ##  Cartier 'Tank Must' Quartz
 
 <!--end_excerpt-->
-<center><script async src="https://js.stripe.com/v3/buy-button.js"></script>
-<stripe-buy-button buy-button-id="buy_btn_1O4rGkERy1tUSqmux4RBoqG1" publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"></stripe-buy-button></center>
 
 ***
 
@@ -38,14 +36,11 @@ Horloge is aangemeld voor de [Cartier International Limited Warranty](https://ww
 * Staat: Haarkrassen
 * Link: [https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html)
 
-### Prijs: 2800,- EUR
+Verkocht voor 2250,- EUR
 
 ***
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
-
-<center><script async src="https://js.stripe.com/v3/buy-button.js"></script>
-<stripe-buy-button buy-button-id="buy_btn_1O4rGkERy1tUSqmux4RBoqG1" publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"></stripe-buy-button></center>
 
 
 ***

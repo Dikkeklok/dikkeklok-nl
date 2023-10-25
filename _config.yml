@@ -60,6 +60,9 @@ collections:
   boekenkast:
     output: true
     permalink: /:collection/:path
+  verkocht:
+    output: true
+    permalink: /:collection/:path
 
 # Front Matter Defaults
 defaults:
