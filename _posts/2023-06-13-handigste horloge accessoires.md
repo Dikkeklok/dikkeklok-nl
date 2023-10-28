@@ -18,11 +18,21 @@ tags:
   - schoon
   - clean
 image: 
-  path: /images/algemeen/banner/werkbank.jpg
   thumbnail: /images/algemeen/banner/werkbank.jpg
 author: daan
 ---
 Een ander bandje, een batterij vervangen, tot het volledig willen en/of kunnen uitvoeren van een uurwerkreparatie vraagt om de beste accessoires en gereedschappen. Hier een korte lijst van zaken die niet mogen ontbreken in het assortiment van iedere horlogeliefhebber.
+
+## De volledige horlogeset: ongeveer 30,- eur
+![image-center]({{ '/images/accessoires/reparatieset.jpg' | absolute_url }}){: .align-right}
+
+Deze sets bevatten verschillende gereedschappen en instrumenten die nodig zijn voor de simpelere taken zoals het verwijderen en op maat aanpassen van horlogebanden en andere algemene horlogereparaties.
+
+Persoonlijk vind ik de meegeleverde houdertjes het handigste. Deze kunnen worden gebruikt om de horlogekast stevig vast te houden tijdens reparatie of onderhoud. Dit maakt het repareren of op maat maken van banden meestal een stuk makkelijker. 
+
+Mocht je merken dat je bepaalde gereedschappen vaker gebruikt dan is het meestal de moeite waard om te investeren in een upgrade. Denk hierbij aan bijvoorbeeld merken zoals Bergeon.
+
+<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698505363805", "baseUrl":"partner.bol.com","productId":"9300000049986635","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Horloge%20Gereedschap","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698505363805"></script></center>
 
 ## Bergeon 6767-F (fine) springbar tool: ongeveer 30,- eur
 De **Bergeon 6767-F** is HET gereedschap voor het vervangen van banden. De F variant, ten opzichte van de gewone s/standard, bevat  fijnere uiteinde, waardoor het vervangen van een band nog makkelijker gaat. Ook is deze maat vaak een vereiste voor het vervangen van stalen banden.
@@ -33,13 +43,11 @@ Bergeon & Cie heeft zich gevestigd als wereldleider in innovatie en productie va
 
 Het verwisselen van een horlogeband kan variëren afhankelijk van het type horloge en de bandbevestiging. De meeste horloges zitten vast met zogenoemde _springbars_, dit zijn kleine pinnetjes met een veer aan de binnenkant. Deze maken het mogelijk om de band stevig vast te klemmen aan de horlogekast.
 
-![image-center]({{ '/images/accessoires/springbar-met-tools.jpeg' | absolute_url }}){: .align-right}
-
 Als je spring bars hebt, gebruik dan het horlogebandverwisselingsgereedschap om voorzichtig de pinnen in te drukken en weg te duwen van de lugs (de uiteinden van de horlogekast). Doe dit voor beide uiteinden van de band totdat de band loskomt.
 
-Het is belangrijk om geduldig en voorzichtig te werk te gaan om krassen of schade aan je horloge te voorkomen. Als je niet zeker bent van je vaardigheden, is het raadzaam om een professional te raadplegen of naar een juwelier te gaan om de horlogeband te laten vervangen.
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NNeYZ_EcXWU?si=9BtqubRAojLuvS_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NNeYZ_EcXWU?si=9BtqubRAojLuvS_O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Het is belangrijk om geduldig en voorzichtig te werk te gaan om krassen of schade aan je horloge te voorkomen. Als je niet zeker bent van je vaardigheden, is het raadzaam om een professional te raadplegen of naar een juwelier te gaan om de horlogeband te laten vervangen.
 
 ## Fijn juweliers-schroevendraaier set: 5,- eur
 Nu de band los is is het tijd om deze op maat te maken. Sommige banden komen met schroeven. Als je schroeven hebt, gebruik dan een kleine schroevendraaier om de schroeven voorzichtig los te draaien.
@@ -48,7 +56,9 @@ Met een schroevendraaier set zoals hier afgebeeld moet alles goed komen. Let er 
 
 ![image-center]({{ '/images/accessoires/screwdriver-set.jpeg' | absolute_url }}){: .align-right}
 
-Een setje van 10 schroevendraaiers is niet duur en kwalitatief goed genoeg voor het simpele werk. Mocht je werken aan duurdere horloges, dan is het aan te raden om te investeren in een set juweliers-schroevendraaiers. Het verschil hiermee is dat de punt van de schroevendraaier beter in de schroef past, en dus voor minder beschadigingen zorgt.
+Een setje van 10 schroevendraaiers is niet duur en kwalitatief goed genoeg voor het simpele werk. Mocht je werken aan duurdere horloges, dan is het aan te raden om te investeren in een set juweliers-schroevendraaiers. 
+
+Het verschil ten opzichte van goedkopere schroevendraaiers is dat met juweliersschroevendraaiers de punt van de schroevendraaier vaak beter in de schroef past, en dus voor minder beschadigingen of ongewenst doorslippen zorgt.
 
 ![image-center]({{ '/images/accessoires/screw-head.jpeg' | absolute_url }}){: .align-right}
 
@@ -56,12 +66,18 @@ Ook is het aan te raden om te kijken naar het gebruik van schroeflijm, bijvoorbe
 
 Meer informatie over Loctite is te vinden op: [https://www.henkel-adhesives.com/be/nl/product/threadlockers/loctite_2210.html](https://www.henkel-adhesives.com/be/nl/product/threadlockers/loctite_2210.html)
 
+<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698505761076", "baseUrl":"partner.bol.com","productId":"9200000050043124","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"16-delige%20juweliers%20schroevendraaier%20set","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698505761076"></script></center>
+
 ## ultrasoon reiniger: 40,- eur
-Een ultrasoon reiniger komt mooi van pas na een dagje strand, klussen, of zweten. Al het zand, zout, en vuil is zo verdwenen na een korte duik in deze ultrasoon reiniger. Het werkt door het genereren van ultrasone trillingen in een vloeistof (meestal water of een reinigingsoplossing), die vervolgens kleine, krachtige drukgolven creëren. Dit helpt tevens bij het soepel houden van een stalen band, en voorkomt onnodige slijtage. Let bij het gebruik wel op dat je het horloge eerst los van de band haalt indien deze niet waterdicht is!
+Een ultrasoon reiniger komt mooi van pas na een dagje strand, klussen, of zweten. Al het zand, zout, en vuil is zo verdwenen na een korte duik in deze ultrasoon reiniger. Het werkt door het genereren van ultrasone trillingen in een vloeistof (meestal water of een reinigingsoplossing), die vervolgens kleine, krachtige drukgolven creëren. 
+
+Dit helpt tevens bij het soepel houden van een stalen band, en voorkomt onnodige slijtage. Let bij het gebruik wel op dat je het horloge eerst los van de band haalt indien deze niet waterdicht is!
 
 ![image-center]({{ '/images/accessoires/ultrasonic.jpeg' | absolute_url }}){: .align-right}
 
 Het mooie van een ultrasoon reiniger is dat het niet alleen geschikt is voor horloges, maar ook voor ringen, armbanden of zonnebrillen. Ze bieden een efficiënte manier om vuil en verontreinigingen te verwijderen zonder dat je de voorwerpen hoeft te schrobben of te schuren.
+
+<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698505869803", "baseUrl":"partner.bol.com","productId":"9300000127254248","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Samako%20Professionele%20Ultrasoon%20Reiniger%20-%20Rein...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698505869803"></script></center>
 
 ### Conclusie
 Mocht je nu op zoek zijn naar een cadeau voor een horlogeliefhebber, of juist een accessoire om je leven makkelijker te maken, dan is de combinatie van een horlogebandverwisselingsgereedschap (springbar tool), een schroevendraaier set, en een ultrasoon reiniger de ideale combinatie. Mocht je toch liever eerst een horloge willen aanschaffen, check dan de [best-buy](/best-buy) suggesties en andere artikelen!

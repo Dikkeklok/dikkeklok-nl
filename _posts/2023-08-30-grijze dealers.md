@@ -17,7 +17,6 @@ tags:
   - Audemars
   - Swatch
 image: 
-  path: /images/algemeen/banner/sign.jpg
   thumbnail: /images/algemeen/banner/sign.jpg
 author: daan
 ---
@@ -58,6 +57,8 @@ Van de andere kant zal een grijze handelaar ook vaak modellen en/of merken in he
 ## Garantie en onderhoud
 Vooral voor moderne uurwerken zal onderhoud via een officiële dealer vaak de beste keus zijn. Mocht er iets mis zijn dan zal een horloge zonder tussenkomst van andere partijen direct door het merk zelf gerepareerd en/of vervangen kunnen worden. Dit zorgt er tevens voor dat er weer aanvullend garantie kan worden uitgegeven bij uitlevering. Sommige horloges of uurwerken kunnen aardig complex zijn, en een reparatie door een derde partij laat dan ook vaak de garantie vervallen. 
 
+> Zie ook ons [artikel over onderhoud aan automatische horloges](/algemeen/onderhoud-automatisch-horloge) voor meer informatie!
+
 Tegenwoordig bieden de grijze handelaren vaak ook een beperkte garantie aan. Dit beperkt zich bijvoorbeeld tot het uurwerk, maar sluit waterschade of schade aan de buitenkant uit. Het grote voordeel op het gebied van onderhoud via grijze handelaren is dat ze vaak de kennis in huis hebben van verschillende merken en uurwerken en/of samen werken met erkende horlogemakers. Dit kan er voor zorgen dat je maar bij een enkel adres terecht hoeft voor onderhoud, en vaak sneller geholpen kan worden.
 
 ## Verkoop
@@ -72,7 +73,7 @@ Een grijze handelaar kan ook het horloge in 'consignment' nemen. Hierbij zal je 
 Via officiële dealers is het tegenwoordig ook vaak mogelijk om een horloge te verkopen. Dit zal vergelijkbaar zijn qua bedrag.
 
 ### Ruilen / upgraden
-Mocht je een horloge willen verkopen om een andere aankoop te financieren? Dan kunnen zowel grijze handelaren als officiele dealers een uitkomst zijn. Zij kunnen je oude horloge innemen en dit als korting verrekenen bij de aanschaf van een nieuwe horloge. Vaak is een ruil-prijs een paar honderd euro hoger dan een verkoopprijs. Zie dit als 'korting' op je nieuwe aankoop.
+Mocht je een horloge willen verkopen om een andere aankoop te financieren? Dan kunnen zowel grijze handelaren als officiele dealers een uitkomst zijn. Zij kunnen je oude horloge innemen en dit als korting verrekenen bij de [aanschaf van een nieuwe horloge](/algemeen/waar-te-koop). Vaak is een ruil-prijs een paar honderd euro hoger dan een verkoopprijs. Zie dit als 'korting' op je nieuwe aankoop.
 
 ## Conclusie
 Er is tegenwoordig veel mogelijk. Let hierbij wel op dat je een erkende grijze handelaar gebruikt voor de aanschaf van het horloge. Soms is juist het wachten in combinatie met het krijgen van een betere prijs of exclusief model het juiste pad. In ieder geval, gebruik bovenstaande berekening en check waar je het goedkoopste uit bent - vaak kan dit vele honderden euros schelen.

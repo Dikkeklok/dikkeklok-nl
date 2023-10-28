@@ -14,7 +14,6 @@ tags:
   - submersible
   - oris
 image: 
-  path: /images/algemeen/banner/submariner.jpg
   thumbnail: /images/algemeen/banner/submariner.jpg
 author: daan
 ---

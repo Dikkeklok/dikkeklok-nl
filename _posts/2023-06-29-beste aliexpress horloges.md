@@ -13,7 +13,6 @@ tags:
   - goedkoop
   - San Martin
 image: 
-  path: /images/ali/ali-banner.jpg
   thumbnail: /images/ali/ali-banner.jpg
 author: daan
 ---

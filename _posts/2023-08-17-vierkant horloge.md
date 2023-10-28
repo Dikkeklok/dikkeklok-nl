@@ -21,7 +21,6 @@ tags:
   - nomos
   - seiko
 image: 
-  path: /images/algemeen/banner/squares.png
   thumbnail: /images/algemeen/banner/squares.png
 author: daan
 ---

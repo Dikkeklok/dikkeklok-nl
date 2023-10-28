@@ -17,7 +17,6 @@ tags:
   - Cartier
   - Heuer
 image: 
-  path: /images/algemeen/banner/pawns.jpg
   thumbnail: /images/algemeen/banner/pawns.jpg
 author: daan
 ---

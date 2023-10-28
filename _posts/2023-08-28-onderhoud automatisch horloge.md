@@ -13,7 +13,6 @@ tags:
   - batterij
   - COSC
 image: 
-  path: /images/algemeen/banner/horloge-maker.jpg
   thumbnail: /images/algemeen/banner/horloge-maker.jpg
 author: daan
 ---
