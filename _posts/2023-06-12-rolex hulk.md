@@ -15,7 +15,6 @@ tags:
   - casio
   - seiko
 image: 
-  path: /images/horloges/seiko/thumbnail/seiko-SRPD63K1-green-banner.jpg
   thumbnail: /images/horloges/seiko/thumbnail/seiko-SRPD63K1-green-banner.jpg
 author: daan
 ---

@@ -12,7 +12,6 @@ tags:
   - Harrods
   - personaliseren
 image: 
-  path: /images/algemeen/banner/queue.jpg
   thumbnail: /images/algemeen/banner/queue.jpg
 author: daan
 ---
