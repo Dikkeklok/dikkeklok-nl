@@ -8,6 +8,9 @@ Dus.. Jij bent op zoek naar een Dikke Klok?
 
 Bovenaan de site is het menu te vinden. Deze linkt naar de [**winkel**](/winkel), en de [**blog**](/blog) met verschillende artikelen over de beste horloge [accessoires](/accessoires/handigste-horloge-accessoires), [alternatieve](/categories#alternatief), en een overzicht van [de beste aankopen](/best-buy) op dit moment!
 
+*** 
+# Wie ben ik, en wat is DikkeKlok.nl?
+
 > *Ik begrijp als geen ander hoe belangrijk het is om er goed uit te zien en daarmee indruk te maken op anderen, vooral als het gaat om accessoires zoals horloges.*
 
 ![image-center]({{ '/images/horloges/rolex/rolex-gmt-small.jpg' | absolute_url }}){: .align-right}
@@ -33,3 +36,5 @@ Dus, als je wilt leren hoe je de juiste horloges kunt kiezen die passen bij jouw
 {%- for entry in site.posts limit:1 -%}
   {% include entry-featured-home.html %}
 {%- endfor -%}
+
+<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
