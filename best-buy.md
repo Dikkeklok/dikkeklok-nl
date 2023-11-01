@@ -54,7 +54,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 ## Kleur
 * **Wit:** Zenith Defy Classic Skeleton in White Ceramic - Een sportief, skeleton, wit keramisch horloge. Gecombineerd met een rubbere witte strap een sportieve strakke keuze.
 * **Groen:** Seiko 5 Sports SRPD63K1 - De betaalbare groene duiker.
-    * Check ook ons volledige [artikel over *groene horloges*](/alternatief/rolex-hulk)
+    * Check ook ons [artikel over *groene horloges*](/alternatief/rolex-hulk)
 * **Kleur:** Swatch - Beroemd om zijn kleurrijke en betaalbare horloges.
 
 ## Materiaal
@@ -72,7 +72,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 * **Sporten / Gym:** Casio G-Shock Mudmaster - Schokbestendig en ideaal voor sportieve activiteiten.
 * **Stopwatch:** TAG Heuer Carrera Chronograph - Beroemd om zijn chronograaffunctie.
 * **GMT:** Rolex GMT-Master II - Bekend om zijn dual-time zone functie.
-    * Check ook ons volledige [artikel met alternatieven voor de *Rolex GMT*](/alternatief/rolex-gmt)
+    * Check ook ons [artikel met alternatieven voor de *Rolex GMT*](/alternatief/rolex-gmt)
 
 ## Uurwerk
 * **Batterij / Quartz:** Citizen Eco-Drive - Duurzaam en milieuvriendelijk op basis van zonlicht.
