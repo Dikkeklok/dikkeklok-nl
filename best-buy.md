@@ -41,6 +41,7 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 ## Persoonlijk
 * **Dames:** Chanel J12 - Een iconisch dameshorloge dat luxe en mode combineert.
 * **Kinderen:** Timex - Kleurrijk en duurzaam, perfect om kinderen te leren klokkijken.
+    * Check ook ons [artikel over *kinderhorloges*](/algemeen/horloges-voor-kinderen)
 * **Sport:** Apple Watch - Een geavanceerd sporthorloge met GPS en fitnessfuncties voor serieuze sporters.
 
 ## Uitstraling
