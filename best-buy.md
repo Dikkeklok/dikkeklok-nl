@@ -9,7 +9,11 @@ entries_layout: grid
 Het is bijna onmogelijk om een individueel horloge uit te roepen tot beste. Qua merken zijn er wel een aantal uitspringers op het gebied van prijs/kwaliteit. Prijs-kwaliteitverhouding kan subjectief zijn en varieert afhankelijk van persoonlijke voorkeuren, budget en verwachtingen. 
 Echter, op basis van algemene waarnemingen en populariteit staan de volgende horlogemerken bekend om hun goede prijs-kwaliteitverhouding.
 
-## De best-buy merken
+<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+
+***
+
+# De best-buy merken
 **Seiko**: Seiko biedt een breed scala aan horloges, van betaalbare quartz-modellen tot hoogwaardige mechanische uurwerken, met een reputatie voor betrouwbaarheid en duurzaamheid. Het is ook mogelijk om een stapje exclusiever te gaan, en te kiezen voor **Grand Seiko**, hun top-line horloges bekend om hun schitterende wijzerplaten. <a href="https://partner.bol.com/click/click?p=2&t=url&s=1321762&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2Fseiko%2F&name=bol.com">Meer Seiko...</a>
 
 **Hamilton**: Hamilton combineert kwaliteit en stijl tegen betaalbare prijzen. Ze hebben een verscheidenheid aan modellen, waaronder zowel klassieke als moderne ontwerpen.
@@ -19,8 +23,6 @@ Echter, op basis van algemene waarnemingen en populariteit staan de volgende hor
 **Citizen**: Citizen staat bekend om zijn Eco-Drive-technologie, die horloges aandrijft met lichtenergie. Dit maakt batterijvervanging overbodig en biedt betrouwbare prestaties tegen een betaalbare prijs. Ze bieden horloges aan in alle categorieen, van dress-watch tot diepe duiker.
 
 **Orient**: Orient staat bekend om zijn mechanische horloges met aantrekkelijke ontwerpen en solide bouwkwaliteit, vaak tegen lagere prijzen dan sommige van hun concurrenten. Een klassieker is de **Orient Bambino**, wat met zijn verschillende wijzerplaten en meer chique uitstraling een schitterende keus is voor een dagelijks (zelfs zakelijk) horloge.
-
-***
 
 # Bredere suggesties
 Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen met een korte uitleg waarom ze geschikt zouden kunnen zijn als aanschaf:
@@ -92,7 +94,9 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 * **Cadeau:** Citizen Eco-Drive - Een duurzaam en stijlvol horloge dat nooit batterijen nodig heeft, ideaal als cadeau voor een speciaal iemand.
 * **Cadeau Partner:** TAG Heuer Carrera voor hem en TAG Heuer Aquaracer voor haar - Een matchend setje van twee prestigieuze horloges.
 
-## Conclusie
+***
+
+# Conclusie
 
 Merk op dat de bovengenoemde suggesties gebaseerd zijn op algemene overwegingen en bekendheid met horlogemerken en modellen. Er zijn sindsdien natuurlijk een hoop nieuwe horloges uitgebracht, en trends veranderd. Bij het kiezen van een horloge is het belangrijk om rekening te houden met persoonlijke smaak, budget en specifieke behoeften. 
 
