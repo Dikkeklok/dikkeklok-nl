@@ -17,8 +17,6 @@ excerpt_separator: <!--end_excerpt-->
 ## Hublot 'Not for Sale' Quartz - Service Watch
 
 <!--end_excerpt-->
-<center><script async src="https://js.stripe.com/v3/buy-button.js"></script>
-<stripe-buy-button buy-button-id="buy_btn_1NlCyAERy1tUSqmux97Yn8Mt" publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"></stripe-buy-button></center>
 
 ***
 
@@ -35,14 +33,9 @@ Een geweldig stuk voor Hublot-verzamelaars of voor iedereen die iets speciaals w
 * Staat: Geopend, als nieuw
 * Inclusief: Bijpassende doos en om-doos
 
-### Prijs: 1000,- EUR
-
 ***
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
-
-<center><stripe-buy-button buy-button-id="buy_btn_1NlCyAERy1tUSqmux97Yn8Mt" publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"></stripe-buy-button></center>
-
 
 ***
 
