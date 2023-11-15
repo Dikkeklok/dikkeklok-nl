@@ -36,8 +36,6 @@ Horloge is aangemeld voor de [Cartier International Limited Warranty](https://ww
 * Staat: Haarkrassen
 * Link: [https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html](https://www.cartier.com/nl-nl/tank-must-horloge_cod20346390235399917.html)
 
-Verkocht voor 2250,- EUR
-
 ***
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
