@@ -3,6 +3,7 @@ title: "Waar koop je een horloge?"
 date:   2023-08-10 18:14:42 +0200
 categories:
   - algemeen
+description: een ‘goed’ horloge alleen kan voor een ‘goede’ prijs, toch?!? Goed is in zo’n geval vaak gezien als duur.. Lees hier hoe je slim, en goedkoop!!, horloges kan aankopen!
 tags:
   - kopen
   - best-buy
@@ -17,7 +18,6 @@ image:
   thumbnail: /images/algemeen/banner/aanschaf.jpg
 author: daan
 ---
-## Goedkoop is duurkoop, of toch niet?
 Over het algemeen is de opinie en gedachte dat een 'goed' horloge alleen kan voor een 'goede' prijs. Goed is in zo'n geval vaak gezien als duur, waar duur weer relatief is. Mechanisch, wat vaak duurder is, wordt dan ook meestal gezien als superieur, ook al hoeft dit zeker niet het geval te zijn. In dit artikel leg ik uit waar je op moet letten bij de aanschaf van een kwalitatief goed horloge, voor ieder budget.
 
 ## Hype vs klassieker

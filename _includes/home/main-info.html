@@ -1,9 +1,26 @@
 <div class="main-info">
   <div class="main-block-left">
-    {% include home/main-welcome.html %}
+    <h3>Nieuwe posts:</h3>
+    <div class="entries-grid">
+      {% for entry in site.posts limit:5 %}
+      {% if forloop.first %}
+      {% else %}
+        {% include home/entry-featured-home.html %}
+      {% endif %}
+      {% endfor %}
+    </div>
   </div>
 
-  <div class="main-block-right">
-    {% include home/main-articles.html %}
+  <div class="main-block-right-gr">
+    <h3>De beste horloge alternatieve:</h3>
+    <div class="entries-grid">
+      {% for category in site.categories %}
+        {% if category contains "alternatief" %}
+          {% for entry in category.last %}
+              {% include home/entry-featured-home.html %}
+            {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </div>

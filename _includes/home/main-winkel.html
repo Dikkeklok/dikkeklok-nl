@@ -1,0 +1,8 @@
+<div class="main-single">
+  <h3>Winkel:</h3>
+  <div class="entries-grid">
+    {%- for entry in site.winkel limit:4 -%}
+      {% include home/entry-featured-home.html %}
+    {%- endfor -%}
+  </div>
+</div>

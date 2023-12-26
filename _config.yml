@@ -79,7 +79,7 @@ defaults:
 # Site Author
 author:
   name: Daan
-  picture: "images/panda/panda-profile.png"
+  picture: "images/authors/daan/profile.png"
   email: "info@dikkeklok.nl"
   links:
     - title: Instagram

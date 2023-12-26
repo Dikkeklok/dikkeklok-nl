@@ -1,19 +1,34 @@
-.main-post {
+/* https://www.color-hex.com/color-palette/1038915 */
+
+.header-home {
+    color: #a2d5dd;
     text-align: center;
+    background-color: #0f3642;
+    padding-top: 1em;
+}
+
+.masthead-home {
+    @include clearfix;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  
+
+.main-single {
     margin: auto;
     @include breakpoint($large) {
-        width: 80%;
+        width: 70%;
     };
     padding: 10px;
 }
 
 .home-row {
-    background-color: #b3ff00;
     padding: 10px;
 }
 
 .home-row-bk {
-    background-color: #ffae00;
+    background-color: #4babb1;
+    color: #0f3642;
     padding: 10px;
 }
 
@@ -27,15 +42,20 @@
 
 .main-block-right {
     float: right;
-    background-color: #c409ab;
     padding: 10px;
     @include breakpoint($large) {
         width: 40%;
     };
 }
 
-.main-articles {
+.main-block-right-gr {
+    float: right;
+    background-color: #a2d5dd;
+    color: #0f3642;
     padding: 10px;
+    @include breakpoint($large) {
+        width: 40%;
+    };
 }
 
 .main-info {
@@ -43,8 +63,12 @@
     display: table;
     margin: auto;
     @include breakpoint($large) {
-        width: 80%;
+        width: 70%;
     };
     padding: 10px;
 }
 
+.home-ad {
+    background-color: #4babb1;
+    padding: 10px;
+}
