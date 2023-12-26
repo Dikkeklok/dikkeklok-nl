@@ -14,7 +14,6 @@ image:
   thumbnail: /images/algemeen/banner/goude-lepel.jpg
 author: daan
 ---
-# Goud, geld, diamanten, wie wil het niet?
 Het liefst met een band volledig bestaand uit schakels van goud zal je de koning(in) van je omgeving voelen! Let wel op, de prijs kan voor gouden horloges je soms positief verrassen!
 
 We hebben natuurlijk allemaal met de paplepel meegekregen: **Goud = Status**

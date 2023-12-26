@@ -1,0 +1,74 @@
+/* https://www.color-hex.com/color-palette/1038915 */
+
+.header-home {
+    color: #a2d5dd;
+    text-align: center;
+    background-color: #0f3642;
+    padding-top: 1em;
+}
+
+.masthead-home {
+    @include clearfix;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  
+
+.main-single {
+    margin: auto;
+    @include breakpoint($large) {
+        width: 70%;
+    };
+    padding: 10px;
+}
+
+.home-row {
+    padding: 10px;
+}
+
+.home-row-bk {
+    background-color: #4babb1;
+    color: #0f3642;
+    padding: 10px;
+}
+
+.main-block-left {
+    float: left;
+    padding: 10px;
+    @include breakpoint($large) {
+        width: 60%;
+    };
+}
+
+.main-block-right {
+    float: right;
+    padding: 10px;
+    @include breakpoint($large) {
+        width: 40%;
+    };
+}
+
+.main-block-right-gr {
+    float: right;
+    background-color: #a2d5dd;
+    color: #0f3642;
+    padding: 10px;
+    @include breakpoint($large) {
+        width: 40%;
+    };
+}
+
+.main-info {
+    clear: both;
+    display: table;
+    margin: auto;
+    @include breakpoint($large) {
+        width: 70%;
+    };
+    padding: 10px;
+}
+
+.home-ad {
+    background-color: #4babb1;
+    padding: 10px;
+}

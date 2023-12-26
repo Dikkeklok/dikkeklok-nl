@@ -1,6 +1,7 @@
 ---
 title: "Casio G-Shock DWE-5600CC-3"
 layout: page
+date: 19-11-2023
 image: 
   thumbnail: /images/store/prod_P2IMekiQTefNOX-gshock/front.png
 carousels:

@@ -16,7 +16,6 @@ image:
   thumbnail: /images/ali/ali-banner.jpg
 author: daan
 ---
-# Is prijs het enige belangrijke? Of is er ook voordelige kwaliteit te halen?
 Alleen al vanwege het uiterlijk zou een horloge makkelijk een paar duizend kunnen kosten, toch? Nou, wat als ik je vertel dat ook de mooiste stukken geen 5.000, 2.000 of zelfs 500 euro kost? Nee, je kunt verschillende horloges al kopen voor rond de 150 euro. Wil je weten hoe? Kijk dan snel hieronder verder!
 
 # De Sea-Gull 1963: 190,- EUR
