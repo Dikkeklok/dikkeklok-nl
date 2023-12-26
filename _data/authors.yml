@@ -4,7 +4,7 @@ daan:
   name: Daan
   picture: "images/authors/daan/profile.png"
   email: "daan@dikkeklok.nl"
-  url: "authors/daan"
+  url: "/auteurs/daan"
   links:
     - title: Instagram
       url: https://instagram.com/daangoumans
@@ -14,7 +14,7 @@ ghost:
   name: Ghost
   picture: "images/authors/ghost/profile.png"
   email: "ghost@dikkeklok.nl"
-  url: "authors/ghost"
+  url: "/auteurs/ghost"
   links:
     - title: Instagram
       url: https://instagram.com/dikkeklok

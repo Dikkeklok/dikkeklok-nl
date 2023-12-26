@@ -10,5 +10,7 @@
   url: /boekenkast
 - title: Categorieën
   url: /categories
+- title: Auteurs
+  url: /auteurs
 - title: Zoek
   url: /search

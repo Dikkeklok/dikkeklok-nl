@@ -63,7 +63,7 @@ collections:
   verkocht:
     output: true
     permalink: /:collection/:path
-  authors:
+  auteurs:
     output: true
     permalink: /:collection/:path
 
