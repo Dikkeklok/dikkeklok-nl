@@ -1,10 +1,20 @@
-# Sample Authors
-# Remove file or replace with your own
+# Authors
 
 daan:
   name: Daan
-  picture: "images/panda/panda-profile.png"
-  email: "info@dikkeklok.nl"
+  picture: "images/authors/daan/profile.png"
+  email: "daan@dikkeklok.nl"
+  url: "authors/daan"
+  links:
+    - title: Instagram
+      url: https://instagram.com/daangoumans
+      icon: fab fa-instagram
+
+ghost:
+  name: Ghost
+  picture: "images/authors/ghost/profile.png"
+  email: "ghost@dikkeklok.nl"
+  url: "authors/ghost"
   links:
     - title: Instagram
       url: https://instagram.com/dikkeklok

@@ -1,0 +1,50 @@
+.main-post {
+    text-align: center;
+    margin: auto;
+    @include breakpoint($large) {
+        width: 80%;
+    };
+    padding: 10px;
+}
+
+.home-row {
+    background-color: #b3ff00;
+    padding: 10px;
+}
+
+.home-row-bk {
+    background-color: #ffae00;
+    padding: 10px;
+}
+
+.main-block-left {
+    float: left;
+    padding: 10px;
+    @include breakpoint($large) {
+        width: 60%;
+    };
+}
+
+.main-block-right {
+    float: right;
+    background-color: #c409ab;
+    padding: 10px;
+    @include breakpoint($large) {
+        width: 40%;
+    };
+}
+
+.main-articles {
+    padding: 10px;
+}
+
+.main-info {
+    clear: both;
+    display: table;
+    margin: auto;
+    @include breakpoint($large) {
+        width: 80%;
+    };
+    padding: 10px;
+}
+

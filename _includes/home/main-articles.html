@@ -1,0 +1,8 @@
+<div class="main-articles entries-grid">
+  {%- for entry in site.posts limit:4 -%}
+  {% if forloop.first %}
+  {% else %}
+    {% include home/entry-featured-home.html %}
+  {% endif %}
+  {%- endfor -%}
+</div>

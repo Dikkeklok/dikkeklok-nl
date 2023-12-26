@@ -63,6 +63,9 @@ collections:
   verkocht:
     output: true
     permalink: /:collection/:path
+  authors:
+    output: true
+    permalink: /:collection/:path
 
 # Front Matter Defaults
 defaults:
