@@ -1,9 +1,9 @@
 ---
-title: Authors
+title: Auteurs
 description: Auteurs en schrijvers van DikkeKlok.nl
 layout: collection
-permalink: /authors
-collection: authors
+permalink: /auteurs
+collection: auteurs
 entries_layout: grid
 ---
 
