@@ -1,9 +1,8 @@
 /* https://www.color-hex.com/color-palette/1038915 */
 
 .header-home {
-    color: #a2d5dd;
     text-align: center;
-    background-color: #0f3642;
+    background-color: hwb(0 0% 100%);
     padding-top: 1em;
 }
 
@@ -17,13 +16,28 @@
 .main-single {
     margin: auto;
     @include breakpoint($large) {
-        width: 70%;
+        width: 80%;
     };
     padding: 10px;
 }
 
 .home-row {
     padding: 10px;
+}
+
+.site-nav-home {
+    border-top: 2px solid;
+    border-color: #4babb1;
+}
+
+
+.entry-excerpt-home {
+    max-width: 100%;
+    @include breakpoint($xlarge) {
+        max-width: 80%;
+    }
+    margin: auto;
+    display: block;
 }
 
 .home-row-bk {
@@ -36,7 +50,7 @@
     float: left;
     padding: 10px;
     @include breakpoint($large) {
-        width: 60%;
+        width: 50%;
     };
 }
 
@@ -44,7 +58,7 @@
     float: right;
     padding: 10px;
     @include breakpoint($large) {
-        width: 40%;
+        width: 50%;
     };
 }
 
@@ -54,7 +68,7 @@
     color: #0f3642;
     padding: 10px;
     @include breakpoint($large) {
-        width: 40%;
+        width: 50%;
     };
 }
 

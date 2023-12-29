@@ -20,25 +20,27 @@
       </header>
       {% unless page.show_excerpts == false %}
         <div class="entry-excerpt p-summary">
-          {% if entry.image.thumbnail %}
-            {% assign entry_image = entry.image.thumbnail %}
-            {% unless entry_image contains '://' %}
-              {% assign entry_image = entry_image | relative_url %}
-            {% endunless %}
-            {% assign entry_image = entry_image | escape %}
-            <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
-          {% endif %} 
-    
-          {% if site.read_time or entry.date and page.layout != 'collection' %}
-            <div class="entry-meta">
-              {% if site.read_time %}{% include read-time.html %}{% endif %}
-              {% if entry.date %}{% include entry-date.html %}{% endif %}
-            </div>
-          {% endif %}
-    
-          {% if entry.excerpt %}
-            {{ entry.excerpt | markdownify }}
-          {% endif %}
+          <div class="entry-excerpt-home">
+            {% if entry.image.thumbnail %}
+              {% assign entry_image = entry.image.thumbnail %}
+              {% unless entry_image contains '://' %}
+                {% assign entry_image = entry_image | relative_url %}
+              {% endunless %}
+              {% assign entry_image = entry_image | escape %}
+              <img class="entry-image u-photo" src="{{ entry_image }}" alt="">
+            {% endif %} 
+
+            {% if site.read_time or entry.date and page.layout != 'collection' %}
+              <div class="entry-meta">
+                {% if site.read_time %}{% include read-time.html %}{% endif %}
+                {% if entry.date %}{% include entry-date.html %}{% endif %}
+              </div>
+            {% endif %}
+      
+            {% if entry.excerpt %}
+              {{ entry.excerpt | markdownify }}
+            {% endif %}
+          </div>
         </div>
       {% endunless %}
     </article>
