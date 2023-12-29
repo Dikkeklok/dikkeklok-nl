@@ -1,92 +1,121 @@
 ---
-title: "Horloge dozen, waar op te letten?"
-date:   2023-12-11 18:22:14 +0200
-description: Je collectie groeit, maar hoe bewaar je deze eigenlijk? Zorg dat je horloges mooi blijven met de beste horlogedoos-tips
+title: "Je eerste Rolex kopen?"
+date:   2023-12-29 15:32:24 +0200
+description: Rolex-horloges zijn een universeel erkend statussymbool geworden dat synoniem is voor succes. Dus, tijd voor je eerste Rolex? Lees hier alle tips en tricks die kunnen helpen bij je eerstvolgende aankoop.
 categories:
-  - accessoires
+  - algemeen
 tags:
-  - doos
-  - watchbox
-  - storage
-  - valet tray
-  - tray
-  - plukschuim
-  - koffer
-  - 
-  - etui
-  - travelcase
-  - clean
+  - rolex
+  - authorised dealer
+  - grijs
+  - grijze dealer
+  - korting
+  - Rolex
+  - Omega
+  - Patek
+  - Audemars
 image: 
-  thumbnail: /images/accessoires/watchcase/display.jpg
+  thumbnail: /images/horloges/rolex/banner/daytona-banner.jpg
 author: daan
 ---
-Ah, de horlogedoos - dat eenvoudige accessoire dat vaak over het hoofd wordt gezien. In deze blog staan we stil bij de vraag: hoe bewaar je een horloge op de juiste manier? Wat heb je nu eigenlijk aan een horlogedoos? Is het slechts een stijlvolle verpakking voor je geliefde uurwerk, of schuilt er meer achter een simpele bewaarplek? 
+Rolex-horloges zijn een universeel erkend statussymbool geworden dat synoniem is met uitmuntendheid, succes en persoonlijke prestaties. Het kopen van een Rolex kan soms echter een intimiderend proces zijn. Voor kopers die voor het eerst een Rolex kopen kan het soms lastig zijn om erachter te komen waar ze moeten beginnen. Lees hier alle tips en tricks die kunnen helpen bij je eerstvolgende aankoop.
 
-Een horlogedoos kan veel meer dan zomaar een opbergplek zijn. Los van de functie als eerste beschermer kan een horlogedoos zowel in stijl als functie een hoop toevoegen. In deze blog bespreken we een aantal opties, die met hun eigen redenen te overwegen zijn.
+## Het bepalen van de keuze
+Weet niet welk model je moet kiezen of bent door de vele _enge_ geruchten terughoudend geworden om een juwelier binnen te stappen? Begrijpelijk. Er komen ieder jaar weer variaties uit van de bekende modellen, welke "onder de motorkap" erg kunnen verschillen. We kunnen echter het juiste model en aankoopproces voor u simpel bepalen door middel van de volgende vragen:
+* Hoeveel geld wilt u uitgeven?
+* Bent u op zoek naar een model dat bedoeld is om dagelijks te dragen, of bent u juist op zoek naar iets meer flashy met als doel voor speciale gelegenheden?
+* Moet het model direct beschikbaar zijn?
 
-## Het begin
-Je hebt inmiddels als een leuk aantal uurwerken bemachtigd, en je nachtkastje wordt te klein om ze allemaal op te bewaren. Het liefst laat je de horloges ook niet los door het huis slingeren, en bent dus op zoek naar een goed plek om ze te laten bewaren. 
+Laten we beginnen...
 
-![image-center]({{ '/images/accessoires/watchcase/table.png' | absolute_url }})
+### Hoeveel geld wilt u uitgeven?
+Mensen kopen vaak horloges omdat ze ze mooi vinden en willen dragen. Gelukkig blijven luxe uurwerken, vooral Rolex-horloges, vaak lang hun waarde behouden of zelfs meer waard over tijd. Rolex-horloges worden daarom vaak gezien als investeringen, vergelijkbaar met aandelen. Deze kopers vinden Rolex-modellen waardevol vanwege het idee dat ze in de toekomst meer waard kunnen worden, los van het feit of je ze echt draagt.
+Hoewel het kopen van Rolex-horloges geen gegarandeerde manier is om snel rijk te worden, is het duidelijk dat de prijzen van veel Rolex-modellen gestaag omhoog gaan. Het belangrijk is natuurlijk om iets te kopen waar je van houdt, maar als je slim bent met je aankopen, kan het bezitten van de juiste Rolex-horloges je wat geld opleveren. Dus naast het plezier van het hebben en dragen van het horloge, kan het ook een goede financiële zet zijn.
 
-Er zijn verschillende opties om een horloge te bewaren. Van simpele 'matjes' tot gereedschapskoffers, ook hierbij is de manier van aanpak vaak persoonlijk. De ene persoon heeft liever het gemak van snel kunnen wisselen, en zal eerder neigen naar een *'open'* optie. Een verzamelaar die rouleert zal misschien eerder kiezen voor een meer *museum-achtige* manier van opbergen.
+Qua waarde zal een Rolex dus niet snel tegen vallen. Dit is altijd een mooie gedachte bij het bepalen van een budget, omdat het wereldwijd mogelijk is om op ieder gewenst moment (een deel van) je inleg weer terug te krijgen, of er zelfs op te verdienen.
 
-**De juiste manier om een horloge te bewaren is op een manier die is gericht op *het voorkomen van krassen.*** 
+Als we spreken over bedragen zul je op het volgende uitkomen:
+* **4.000,- tot 8.000,-**
+> Binnen deze prijsklasse is de **Rolex Datejust** is een mooi voorbeeld van een breed beschikbaar veelzijdig, klassiek horloge. Dit model, samen met de simpelere **Rolex Oyster Perpetual**, is een uitstekende keus om wegwijs te worden binnen de wereld van Rolex. Het model is beschikbaar in veel verschillende uitvoeringen, denk hierbij aan de kleur van de wijzerplaat of gebruik van materiaal, en is breed beschikbaar bij iedere juwelier.
+* **8.000,- tot 15.000,-** 
+> Als we richting de 10.000 euro gaan komen de modellen met 'speciale features' bod. Denk hierbij aan de welkebekende **Rolex Submariner** met een waterdichtheid tot 300 meter, of de **Rolex GMT-Master II** die het bijhouden van een tweede tijdzone mogelijk maakt. \
+(_zie ook ons artikel met [alternatieven voor de Rolex GMT](/alternatief/rolex-gmt) of [alternatieven voor de Rolex Submariner](/alternatief/rolex-submariner)_)
+* **15.000,- tot 25.000,-** 
+> Boven de 15.000,- zien we voornamelijk de collectie van Rolex groeien met modelen in edelmetalen. Denk hierbij aan het veelvoudig gebruik van (wit, geel, of rose) goud. Ook komen in deze categorie de hoogst gecompliceerde modellen voor zoals de **Rolex Sky-dweller** met dubbele tijdzone en jaarkalender (datum en maandindicatie) of de **Rolex Cosmographs Daytona** met 'chronograaf'-functie (tijdmeten).
+* **25.000,- plus**
+> Ultieme luxe zult u aantreffen bij de modellen in de hoogste prijsklasse. De horloges met de hoogste 'status' en aanzien zijn hier te vinden. Denk hierbij aan de **Rolex Day-Date** of de bovenstaande modellen uitgevoerd met diamanten, nog luxere metalen, of zelfs met platina of luxe stenen wijzerplaten (parelmoer, onyx, kwarts).
 
-Door horloges in een passend vak, gemaakt van het juiste materiaal, te plaatsen zul je de levensduur van je toch vaak kostbare uurwerk kunnen verlengen. 
+Mocht de nieuwe aankoop een eerste Rolex zijn, dan zou ik adviseren om te beginnen bij de simpelere Rolex Datejust of Submariner. Mocht een ander model toch kriebelen, dan is het is altijd mogelijk om deze in te ruilen en een stap te maken naar een hogere klasse. Hierbij komen we tevens aan op het volgende punt, namelijk..
 
-> Gelukkig komen de meeste horloges met een doos op het moment van aanschaf!
+### De draagbaarheid
+Rolex is niet alleen beroemd vanwege zijn naam; het is ook ongelooflijk populair vanwege zijn kwaliteit. Elke Rolex wordt gemaakt uit hoogwaardige materialen en bevat een kwaliteitsuurwerk wat ze eigenlijk allemaal geschikt maakt voor dagelijks gebruik. Persoonlijk kan ik me voorstellen dat een goud horloge misschien iets '_too-much_' kan zijn als u bijvoorbeeld veel in de sportschool of productiefabriek te vinden bent. Het kan dan een meer passende keuze zijn om te gaan voor een wat stoerder model vervaardigd uit staal. 
 
-**_Maar wat heb je nu eigenlijk aan een horlogedoos? en moet je deze bewaren?_**
+Voor speciale gelegenheden kan het juist mooi zijn om voor een wat meer uitgesproken model te gaan. Denk hierbij aan het gebruik van diamanten, geel of rose goud, of de combinatie van een gekleurde wijzerplaat. Deze modellen zullen misschien niet altijd matchen met de outfit van de dag, en zullen dus mogelijk wat minder draagtijd krijgen. Dit komt natuurlijk wel weer met het voordeel dat het een goede reden is om er nog een (of meerdere) extra aan te kopen, om zo de [collectie uit te breiden](/accessoires/horloge-dozen).
 
-Het horloge zelf blijft natuurlijk een gebruiksproduct. Je draagt het immers om de pols. Het bewaren (en hebben) van een doos is in mijn ogen dan ook alleen nodig op het moment dat je het horloge ooit weer zou willen verkopen. Vaak willen nieuwe kopers een 'full set', waarbij de doos moet worden inbegrepen. Vroeger keek men hier wat simpeler naar, en was de tweedehands markt voor horloges nog een stuk kleiner, vandaar dat bij vintage horloges het hebben van de originele doos en papieren niet noodzakelijk is voor de waarde.
+Een andere overweging is om misschien te gaan voor een model in een wat kleinere maatvoering. Als voorbeeld, de **Rolex Sky-dweller** is een klok van 42mm, wat om de kleinere pols misschien wat groot uit valt. Gelukkig zijn veel modellen, zoals de Datejust, Day-date, of Oyster Perpetual in verschillende maten beschikbaar. Om zeker te zijn van je keuze kun je natuurlijk altijd je [polsmaat](/algemeen/polsmaat) doorgeven aan de juwelier, die kan helpen bij het bepalen van de juiste maat.
 
-Echter, los van het leuk kunnen neerzetten is een horlogedoos natuurlijk nuttig voor het correct opbergen van je horloges op het moment dat je ze niet draagt. Wat zelfsprekender is [een boekenkast voor boeken](/accessoires/mooiste-horloge-boeken), of een kapstok voor een jas. Je gooit je spullen niet zomaar overal en nergens neer, waarom zou je dat met een horloge wel doen? De doos waarmee het horloge kwam is bij uitstek de perfecte plek om deze dus weer netjes op te bergen.
+Mocht het horloge iedere dag gedragen worden zal het uurwerk en de kast hiervan natuurlijk wat meer draagsporen krijgen. Let daarbij op dat dit de levensduur kan verkorten bij nalatigheid. Laat het horloge dus [tijdig onderhouden](/algemeen/onderhoud-automatisch-horloge). Gelukkig komt iedere nieuwe Rolex met 5 jaar garantie.
 
-Vaak is een nachtkastje of een plankje in de badkamer een plek waar een horloge van de pols gaat. Maar bij een groeiende collectie is een vaste plek voor alle horloges en accessoires toch wel erg handig.
+### Beschikbaarheid Rolex
+Moet het model direct beschikbaar zijn, en het liefst vandaag nog om de pols zitten? Dan kan de aanschaf bij een Authorised Dealer nog wel eens lastig worden. 
 
-> Een aantal opties waar ik zelf gebruik van maak zijn als volgt:
-* Het reis etui
-* De originele doos/dozen
-* De 'tray'
+Vaak zijn er lange wachttijden voor de meest populaire modellen. Mocht dit geen probleem zijn dan raden wij aan om via een officiele dealer een Rolex aan te kopen. Rolex produceert naar zeggen ongeveer **1 miljoen (!)** horloges per jaar, waarbij er ook weer verschillende op de 'grijze markt' beschikbaar komen. Mocht er dus haast bij zitten, dan is het aankopen van een (nieuw, of tweedehands) horloge via een grijze dealer een optie. We hebben dit process verder beschreven in onze blog: [Grijze handelaren vs officiële dealers (AD)](/algemeen/grijze-dealers).
 
-Elke optie heeft zo zijn voor en nadelen, maar laten we beginnen bij de meest praktische...
+Helaas is het dus zo, door populariteit, dat het soms niet mogelijk is om een horloge via de reguliere juweliers aan te schaffen.
 
-## De aanrader - het Horloge reis etui
-Zoals te zien op de foto aan het begin van het artikel kan het soms voorkomen dat een hele collectie mee op reis gaat. Of dit nu voor vakantie of speciale gelegenheden is, het hebben van een simpel en goed horloge reis etui is een must voor meerdere horloges on the road. Let hierbij op dat de binnenkant plastic en metaal vrij is om krassen te voorkomen. Het beste is als de doos individuele compartimenten bevat zodat de horloges gescheiden van elkaar zitten.
+![image-center]({{ '/images/horloges/rolex/banner/daytona-banner.jpg' | absolute_url }})
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702317068606", "baseUrl":"partner.bol.com","productId":"9200000126042985","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Membeli%20Horloge%20Etui%20-%20Horloge%20Doos%20-%20Voor%201%20H...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702317068606"></script></center>
+## De juwelier
+Je hebt inmiddels bepaald wat je budget is, wat het passende model en de maatvoering moet zijn (check hiervoor ook de website van Rolex zelf), hebt geen haast, maar bent ready om je eerste Rolex aan te kopen. Top! 
 
-![image-center]({{ '/images/accessoires/watchcase/travelcase-stackers.jpg' | absolute_url }})
+Het kan best spannend zijn om bij een juwelier binnen te stappen, maar het volgende zal je zeker helpen.
 
-Een more heavy-duty optie kan een gereedschapskoffer zijn. Een opbergkoffer is ideaal om horloges en andere gevoelige apparatuur in op te bergen en te transporteren. Let hierbij op dat de binnenkant voorzien is van noppenschuim en de bodem plukschuim. Je kan vervolgens de koffer zelf makkelijk vormgeven voor al je horlogen en [overige accessoires](/accessoires/handigste-horloge-accessoires).
+### Het eerste 'gesprek'
+Juweliers, en medewerkers van, zijn ook maar gewoon mensen. Ze hebben een gedeelde passie voor het luxe product, en zullen hier dus ook in enthusiasme over willen vertellen. Omdat een Rolex een gewild product is zal het niet echt een sales praatje zijn zoals je bent gewend, maar misschien meer voelen als een solicitatiegesprek met als doel bepalen of jij een geschikte kandidaat bent om een Rolex aan te gunnen. 
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702316789105", "baseUrl":"partner.bol.com","productId":"9200000037275128","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Perel%20Gereedschapskoffer%2C%20noppenschuim%2C%20pluksc...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702316789105"></script></center>
+_Als je een Rolex wilt kopen met als doel winst maken bij doorverkoop dan zal een medewerker dit vaak ook doorhebben. Deze blog is ook niet bedoeld om 'flippers' aan een Rolex te helpen, maar juist bedoeld voor mensen die passie voor horloges hebben._
 
-Ook zijn er opties in de vorm van een watch-roll, waarbij verschillende horloges naast elkaar in het etui kunnen.
+Als tips kunnen we het volgende meegeven voor het eerste gesprek:
 
-## De originele doos
-Vaak is een horloge doos van het originele merk met uitstek de perfecte plek om je horloge in te bewaren op het moment dat deze even geen draagtijd krijgt. De horloge doos is uiteraard de verpakking waarin het horloge in eerste instantie mee binnen is gekomen, en zal dus voor het horloge zelf dan ook 'als thuis' aanvoelen. Tevens voorkomt het dat er gemakklijk stof bij het desbetreffende horloge komt.
+**Wees jezelf!**
 
-![image-center]({{ '/images/accessoires/watchcase/display.jpg' | absolute_url }})
+Het idee is dat je een horloge gaat aanschaffen waar je zelf blij van wordt. Als je enthusiast bent over het gekozen model en de reden hierachter, dan zal dit je zeker helpen bij het overtuigen van de verkoopmedewerker. Laat dit ook zeker merken. Leg uit hoe je bij Rolex bent uitgekomen en waarom je er een zou willen kopen.
 
-Ik merk persoonlijk dat ik horloges rouleer, waardoor het geen probleem is om ze even op te bergen. Ook geven de originele horloge een mooi aanzicht, vaak zijn de dozen zelf namelijk van hoogwaardige materialen en mooie designs.
-Het is ook een optie om de horlogedoos uit het karton te laten, en de binnendoos (die vaak nog mooier is) neer te zetten. Mocht je een vitrinekastje hebben, dan kun je er zelfs voor kiezen om de dozen open te tonen.
+* Heb je al langer passie voor horloges? Praat dan over je eerdere aankopen (of bijvoorbeeld je huidige collectie).
+* Toevallig een financiele meevaller of persoonlijke mijlpaal die je wilt vieren? Leg uit dat je dit wilt vastleggen met een de aanschaf van een mooi horloge.
 
-Zijn dozen of gesloten varianten niet helemaal je ding, dan is er natuurlijk nog...
+**Vraag om opties en maak duidelijk dat het om je eerste aankoop gaat.**
+Dit is een mooi moment om je opties te heroverwegen, of juist de bevestiging te krijgen dat het uitgekozen model de juiste is. Het laat tevens zien dat je moeite doet om je te verdiepen in de verschillende opties en op zoek bent naar iets persoonlijks.
 
-## De 'Valet tray'
-Bij binnenkomst leg je vaak je sleutels en portemonee op een vaste plek neer. Of dit nu het kastje in de hal, of de salontafel in de woonkamer is, alles heeft zo zijn vaste plekje. Een horloge afdoen bij thuiskomst is ook niet vreemd, maar waar laat je deze? Zelf heb ik een kleine _'valet tray'_ die precies genoeg ruimte heeft voor een 4-tal horloges.
+> Zit je bijvoorbeeld te denken aan een Rolex Datejust met blauwe wijzerplaat, fluted bezel, op jubilee band, in 41mm? Vraag bij het aangeven van je voorkeur tegelijk of je de uitvoering met witte plaat, op oyster band, op smooth bezel, of in 36mm ook eens mag proberen. Door de verschillende modellen naast elkaar te zien kan je keuze misschien zelfs nog veranderen. 
 
-![image-center]({{ '/images/accessoires/watchcase/tray.jpg' | absolute_url }})
+_Mocht het passende horloge beschikbaar zijn, dan is het top! Vaak zal de verkoopmedewerker dit kenbaar maken. **Gefeliciteerd met je nieuwe aankoop!** Mocht dit niet het geval zijn dan zal het volgende helpen:_
 
-Het matje of bakje is gemaakt van leer, waarbij de hoeken aan elkaar zitten met klinknagels. Door de gestoffeerde binnenkant worden krassen voorkomen.
+**Denk er even over na.**
 
-Bij mij ligt de valet tray bij de voordeur, en het mooiste van de valet tray zelf vind ik het keuze momentje wat je krijgt op het moment dat je de deur uit gaat. Iedere keer sta je toch even stil bij de gelegenheid van de dag, en welk horloge daar het beste bij past. Let wel op dat je niet zomaar je sleutels, klein geld, en andere voorwerpen bij je horloges in de bak moet gooien, om krassen te voorkomen.
+Vaak zul je als antwoord krijgen 'model X is helaas niet beschikbaar', wat begrijpelijk is. 
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702318566079", "baseUrl":"partner.bol.com","productId":"9200000105913492","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"QUVIO%20Opbergbakje%20vilt%20-%20Sleutelbakje%20-%20Organi...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702318566079"></script></center>
+Er stappen vele mensen een juwelier binnen met als idee snel een 'moneymaker' te kunnen kopen, om meteen door te verkopen met winst. Om teleurstelling te voorkomen is het aangeven dat je er even over nadenkt een goede keus. Dit is gebruikelijk aangezien het toch vaak gaat om een groot bedrag. Een medewerker verkoopt ook het liefste een horloge aan iemand met passie en die het horloge draagt, even geduld hebben om een weloverwoge keuze te maken is daarom een prima optie.
 
-Een goed alternatief kan een muismat zijn, vaak zijn deze gemaakt van zachte stof, en kunnen dus perfect de horloges beschermen tegen krassen van de ondergrond.
+**Noteer de naam van de verkoopmedewerker (!)**
 
-### Conclusie
-Iedere verzamelaar gaat er ooit tegenaan lopen, _te weinig opslag plek_... Hopelijk kunnen de bovenstaande opties helpen bij het mooi wegzetten van uw of iemand anders collectie. Zelf kan ik er geen genoeg van krijgen, en motiveert een extra horlogedoos toch snel tot het uitbreiden van de huidige collectie. Ik zie dit als win-win!. De horloge dozen zijn dus tevens leuk om als cadeau te geven en te ontvangen.
+Of vraag om een kaartje. Dit helpt namelijk bij het tweede gesprek.
+
+> In het kort, het eerste bezoek is ter orientatie en zult dus niet (altijd) eindigen met een horloge om de pols.
+
+### Het tweede 'gesprek' en aanbetalen
+Persoonlijk heb ik alleen tijd om in de weekenden langs te gaan, dus adviseer ik dus ook om een weekje te wachten en geduld te hebben. Hierna is het namelijk tijd voor **het tweede gesprek**. 
+
+Nu je keuze duidelijk is, en je er even over hebt kunnen slapen, is het tijd om weer de juwelier binnen te stappen. Dit maal om aan te geven dat het passende model je definitieve keuze is. Door bij binnenkomst te vragen naar de medewerker die je eerder geholpen heeft maak je een goede (tweede) indruk. Geef aan dat je vorige week was binnen gelopen en de verschillende modellen hebt kunnen zien. Vervolgens maak je duidelijk welk model je voorkeur heeft. Hiermee toon je aan dat je een weloverwogen keuze hebt gemaakt, en het dus gaat om een horloge waar je jezelf de komende tijd gelukkig mee ziet zijn. 
+
+Vraag hierbij of het model beschikbaar is, en indien niet, of ze deze voor je kunnen bestellen. 
+
+> Soms zal het hierbij gaan om een aanbetaling, dus zorg dat je een minimum bedrag (rond de 10%) direct beschikbaar hebt om af te rekenen. **Zorg er dus voor dat je je paslimiet voor de dag hebt verhoogd!**
+
+### Het wachten
+Nu begint eigenlijk de leukste periode. Het wachten op het telefoontje. Het kan enige tijd duren (variabel per model) maar uiteindelijk zal je Rolex geleverd worden. Mocht het gaan om specifieke of populaire modellen dan kan de wachtijd langer zijn, maar gemiddeld gezien zit deze tussen de 3 en 6 maanden.
+
+Als de telefoon gaat, haast jezelf naar de winkel en probeer het horloge nogmaals. Mocht je twijfelen, geen probleem, er zijn vast nog wel meer gegadigde - voel je vooral niet verplicht mocht de aankoop niet goed voelen.
+
+## Tot slot
+Door je passie, en het opbouwen van een relatie met de verkoper, zul je in theorie ieder Rolex model kunnen bemachtigen. Mocht een model niet beschikbaar zijn, niet getreurd, gelukkig is Rolex niet het enige merk in de markt en zijn er veel andere horloges beschikbaar met een zelfde of zelfs grotere historie. Verdiep je bijvoorbeeld ook eens in Omega, Cartier of een van de andere [bekende horloge merken](/algemeen/zustermerken), neem contact op met de verkoopmedewerker, geniet van de alternatieve, en misschien kun je op deze manier in de toekomst je perfecte Rolex als nog bemachtigen.

@@ -16,7 +16,7 @@
 .main-single {
     margin: auto;
     @include breakpoint($large) {
-        width: 80%;
+        max-width: 70%;
     };
     padding: 10px;
 }
@@ -30,14 +30,14 @@
     border-color: #4babb1;
 }
 
-
 .entry-excerpt-home {
-    max-width: 100%;
-    @include breakpoint($xlarge) {
-        max-width: 80%;
-    }
     margin: auto;
     display: block;
+}
+
+.entry-image-home {
+    max-height:50vh;
+    object-fit: cover;
 }
 
 .home-row-bk {

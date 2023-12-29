@@ -12,7 +12,6 @@ tags:
   - tray
   - plukschuim
   - koffer
-  - 
   - etui
   - travelcase
   - clean
