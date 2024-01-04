@@ -38,7 +38,7 @@ Als we spreken over bedragen zul je op het volgende uitkomen:
 * **4.000,- tot 8.000,-**
 > Binnen deze prijsklasse is de **Rolex Datejust** is een mooi voorbeeld van een breed beschikbaar veelzijdig, klassiek horloge. Dit model, samen met de simpelere **Rolex Oyster Perpetual**, is een uitstekende keus om wegwijs te worden binnen de wereld van Rolex. Het model is beschikbaar in veel verschillende uitvoeringen, denk hierbij aan de kleur van de wijzerplaat of gebruik van materiaal, en is breed beschikbaar bij iedere juwelier.
 * **8.000,- tot 15.000,-** 
-> Als we richting de 10.000 euro gaan komen de modellen met 'speciale features' bod. Denk hierbij aan de welkebekende **Rolex Submariner** met een waterdichtheid tot 300 meter, of de **Rolex GMT-Master II** die het bijhouden van een tweede tijdzone mogelijk maakt. \
+> Als we richting de 10.000 euro gaan komen de modellen met 'speciale features' aan bod. Denk hierbij aan de welkebekende **Rolex Submariner** met een waterdichtheid tot 300 meter, of de **Rolex GMT-Master II** die het bijhouden van een tweede tijdzone mogelijk maakt. \
 (_zie ook ons artikel met [alternatieven voor de Rolex GMT](/alternatief/rolex-gmt) of [alternatieven voor de Rolex Submariner](/alternatief/rolex-submariner)_)
 * **15.000,- tot 25.000,-** 
 > Boven de 15.000,- zien we voornamelijk de collectie van Rolex groeien met modelen in edelmetalen. Denk hierbij aan het veelvoudig gebruik van (wit, geel, of rose) goud. Ook komen in deze categorie de hoogst gecompliceerde modellen voor zoals de **Rolex Sky-dweller** met dubbele tijdzone en jaarkalender (datum en maandindicatie) of de **Rolex Cosmographs Daytona** met 'chronograaf'-functie (tijdmeten).
