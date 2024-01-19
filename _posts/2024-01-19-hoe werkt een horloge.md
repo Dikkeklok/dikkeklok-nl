@@ -30,12 +30,12 @@ Moderne horloges kunnen daarintegen ook kwarts-, kinetische of automatische (zel
 ## De werking van het horloge
 In het kort zijn er 3 zaken nodig. **Vermogen, regulering, en het overbrengen van beweging.** Dit laatste zal er voor zorgen dat de tijd op de wijzerplaat zichtbaar wordt.
 
-![anker echappement](/images/algemeen/uurwerk/escapement.gif){: .align-right}
-
 ### Het vermogen
 Horloges hebben een energiebron nodig om te functioneren. In het geval van een mechanisch horloge wordt de energie geleverd door een veer, ook wel de hoofdveer genoemd. Wanneer je een mechanisch horloge opwindt, wordt de hoofdveer strakker. Terwijl de veer ontspant, geeft deze de opgeslagen energie geleidelijk vrij.
 
 ### De regulering
+![anker echappement](/images/algemeen/uurwerk/escapement.gif){: .align-right}
+
 De vrijgegeven energie wordt gereguleerd door een reeks tandwielen en een _escapement_ mechanisme, ook wel "echappement" genoemd. Het echappement fungeert als een soort "rem" die de energie in gelijkmatige stappen doorlaat, waardoor het horloge gelijkmatig loopt.
 
 ### De overbrenging van beweging
