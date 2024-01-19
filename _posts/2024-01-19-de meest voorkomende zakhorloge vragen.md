@@ -37,7 +37,9 @@ De kosten van een zakhorloge kunnen sterk variëren, afhankelijk van verschillen
 > Eenvoudige, moderne zakhorloges kunnen beginnen bij rond de 150 euro, afhankelijk van het merk en de functies. Dit is meestal vergelijkbaar met een simpel polshorloge van de gebruikelijke merken. Er zijn echter nog wel horlogemakers die modern vakmanschap toepassen, waarbij de prijs dan ook tot de vele duizenden kan oplopen. Dit zijn wel vaker moderne [limited of speciale edities](/algemeen/limited-en-special-editions)
 
 * **Antieke en vintage zakhorloges**
-> De prijzen van vintage of antieke zakhorloges kunnen sterk variëren. Simpele antieke modellen kunnen redelijk betaalbaar zijn, terwijl zeldzame, historisch belangrijke of hoogwaardige zakhorloges aanzienlijk duurder kunnen zijn. Prijzen starten meestal bij enkele honderden tot duizenden euro's, afhankelijk van de zeldzaamheid en de staat van het horloge. Een goede plek om een antiek zakhorloge [aan te kopen](/algemeen/waar-te-koop) is bijvoorbeeld marktplaats of Ebay. 
+> De prijzen van vintage of antieke zakhorloges kunnen sterk variëren. Simpele antieke modellen kunnen redelijk betaalbaar zijn, terwijl zeldzame, historisch belangrijke of hoogwaardige zakhorloges aanzienlijk duurder kunnen zijn. Prijzen starten meestal bij enkele honderden tot duizenden euro's, afhankelijk van de zeldzaamheid en de staat van het horloge. Een goede plek om een antiek zakhorloge [aan te kopen](algemeen/waar-koop-je-een-horloge) is bijvoorbeeld marktplaats of Ebay. \
+ \
+_Check ook de [**DikkeKlok Winkel**](https://dikkeklok.nl/winkel), waar regelmatig zakhorloges beschikbaar zijn!_
 
 * **Luxe merken**
 > Zakhorloges van [luxe merken](/algemeen/zustermerken), met ingewikkelde complicaties en hoogwaardige materialen, kunnen aanzienlijk duurder zijn. Het gaat hierbij vaak niet meer om draagbaarheid maar om mechanische kunst in de puurste vorm. Wees gewaarschuwd, vaak spreken we hier over 50.000,- EUR of meer!
