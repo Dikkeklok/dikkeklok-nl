@@ -3,12 +3,13 @@
     <h3>Nieuwe posts:</h3>
     <div class="entries-grid">
       {% for entry in site.posts limit:5 %}
-      {% if forloop.first %}
-      {% else %}
-        {% include home/entry-featured-home.html %}
-      {% endif %}
+        {% if forloop.first %}
+        {% else %}
+          {% include home/entry-featured-home.html %}
+        {% endif %}
       {% endfor %}
     </div>
+    <strong><a href="/blog">Meer artikelen ></a></strong>
   </div>
 
   <div class="main-block-right-gr">
@@ -22,5 +23,6 @@
         {% endif %}
       {% endfor %}
     </div>
+    <strong><a href="/categories#alternatief">Meer alternatieve ></a></strong>
   </div>
 </div>
