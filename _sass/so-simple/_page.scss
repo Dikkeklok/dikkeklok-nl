@@ -64,6 +64,10 @@
 
 .page-sidebar {
   font-size: 0.75rem;
+  background-color: #a2d5dd; 
+  border: 2px solid #4babb1;
+  border-radius: 5px;
+  padding: 5px;
 
   @include breakpoint($large) {
     text-align: center;
