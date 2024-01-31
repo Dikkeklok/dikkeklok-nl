@@ -65,6 +65,8 @@ Helaas is het dus zo, door populariteit, dat het soms niet mogelijk is om een ho
 
 ![image-center]({{ '/images/horloges/rolex/banner/daytona-banner.jpg' | absolute_url }})
 
+> Geen geduld? Mogelijk kunnen je mogelijk sneller aan je gewenste horloge helpen. [Klik hier voor aankoopadvies-service](/horloge-concierge)
+
 ## De juwelier
 Je hebt inmiddels bepaald wat je budget is, wat het passende model en de maatvoering moet zijn (check hiervoor ook de website van Rolex zelf), hebt geen haast, maar bent ready om je eerste Rolex aan te kopen. Top! 
 
@@ -119,3 +121,5 @@ Als de telefoon gaat, haast jezelf naar de winkel en probeer het horloge nogmaal
 
 ## Tot slot
 Door je passie, en het opbouwen van een relatie met de verkoper, zul je in theorie ieder Rolex model kunnen bemachtigen. Mocht een model niet beschikbaar zijn, niet getreurd, gelukkig is Rolex niet het enige merk in de markt en zijn er veel andere horloges beschikbaar met een zelfde of zelfs grotere historie. Verdiep je bijvoorbeeld ook eens in Omega, Cartier of een van de andere [bekende horloge merken](/algemeen/zustermerken), neem contact op met de verkoopmedewerker, geniet van de alternatieve, en misschien kun je op deze manier in de toekomst je perfecte Rolex als nog bemachtigen.
+
+> Hulp nodig bij je aankoop? [Klik hier door naar onze aankoopadvies](/horloge-concierge)

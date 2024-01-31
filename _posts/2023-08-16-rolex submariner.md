@@ -86,3 +86,5 @@ In vele kleuren te krijgen, tot aan roze wijzerplaat en bronzen kast toe, een ho
 
 # Conclusie:
 Een Rolex Submariner hoort natuurlijk in iedere collectie thuis. Helaas is, juist door de hype, de charme van het horloge in mijn ogen wat verdwenen. Misschien toch maar eens tijd om de bovenstaande opties te proberen.
+
+> Hulp nodig bij je aankoop? Of wil je je Rolex of ander horloge misschien verkopen? [Klik snel door en schakel onze expertise in!](/horloge-concierge)
