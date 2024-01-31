@@ -22,7 +22,6 @@ Over het algemeen is de opinie en gedachte dat een 'goed' horloge alleen kan voo
 
 ## Hype vs klassieker
 
-
 Laten we simpel beginnen. Hype horloges vs klassiekers. Er zijn in de horlogewereld een aantal merken en modellen om op terug te vallen. Deze hebben een naam voor zichzelf gecreëerd door hun betrouwbaarheid, prijs, of verfijnde afwerking. Een mooi voorbeeld hiervan is de all-time classic **Casio F-91w**. Voor minder dan twee tientjes een horloge wat tegen (bijna) alles bestand is, met een geschatte levensduur van rond de 7 jaar. Beter gaat het niet worden. 
 
 [![image-center]({{ '/images/horloges/casio/f91w.jpg' | absolute_url }}){: .align-center}](https://www.casio.com/nl/watches/casio/product.F-91W-1){:target="_blank"}
@@ -85,3 +84,5 @@ In tegenstelling tot een fysieke winkel bezoeken kun je horloges online niet pro
 
 ## What's next?
 Oké, je hebt je budget bepaald en een aantal betrouwbare partijen gevonden, what's next? Het uitkiezen van een horloge natuurlijk! Om hierbij te helpen kun je de [best-buy suggesties](/best-buy) checken, om hopelijk zo tot een goed passend horloge te komen. Succes!
+
+> Hulp nodig bij je aankoop? [Klik hier door naar onze aankoopadvies](/horloge-concierge)

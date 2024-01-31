@@ -3,12 +3,12 @@
 .header-home {
     text-align: center;
     background-color: hwb(0 0% 100%);
-    padding-top: 1em;
+    padding-top: 0.5em;
 }
 
 .masthead-home {
     @include clearfix;
-    margin-bottom: 1em;
+    margin-bottom: 0.5em;
     text-align: center;
   }
   

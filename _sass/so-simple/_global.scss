@@ -42,13 +42,12 @@
 
   li {
     display: inline-block;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
   }
 
   a {
     display: block;
     padding: 0.5em 0.75em;
-    text-transform: uppercase;
     text-decoration: none;
     border: 1px solid;
     border-radius: $border-radius;
@@ -67,8 +66,7 @@
 
 .masthead {
   @include clearfix;
-  margin-bottom: 0.5em;
-  margin-top: 0.5em;
+  margin-bottom: 3em;
   text-align: center;
 }
 

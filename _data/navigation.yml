@@ -1,14 +1,10 @@
-- title: Home
-  url: /
 - title: Blog
   url: /blog
 - title: Winkel
   url: /winkel
-- title: Best-Buy
+- title: Aankoopadvies/Reparatie/Verkoop
+  url: /horloge-concierge
+- title: Best-buy
   url: /best-buy
-- title: Boekenkast
-  url: /boekenkast
-- title: Auteurs
-  url: /auteurs
-- title: Zoek
+- title: Zoeken
   url: /search
