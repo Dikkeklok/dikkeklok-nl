@@ -36,6 +36,8 @@ Sommige merken brengen 'boutique-only' edities uit van hun horloges. Een mooi re
 #### Prijs
 Soms zal het gepaard gaan met een langere wachttijd, en zul je _'short term happiness'_ even moeten laten voor wat het is - maar - wachten wordt uiteindelijk wel beloond met een significant lagere prijs. Voor merken zoals Rolex, Audemars Piguet en Patek Philippe zal een tijdje geduld een hoop kunnen besparen. Dit kan wel oplopen van een paar duizend verschil op een Rolex, tot tientallen duizenden op een exclusiever model.
 
+> Twijfel je nog over de getoonde prijs? Wij helpen je de beste deal te vinden! [Klik hier door voor onze aankoopadvies-service](/horloge-concierge)
+
 ## Grijze handelaren
 Een grijze handelaar is een dealer, soms met fysieke winkel of alleen online, die het beroep van horlogehandelaar uitvoert zonder aangesloten te zijn bij een officieel merk. Hieronder valt dus iedereen die legitiem horloges inkoopt, en vervolgens horloges doorverkoopt aan derde. 
 
