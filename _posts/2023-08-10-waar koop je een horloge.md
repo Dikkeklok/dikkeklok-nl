@@ -20,6 +20,8 @@ author: daan
 ---
 Over het algemeen is de opinie en gedachte dat een 'goed' horloge alleen kan voor een 'goede' prijs. Goed is in zo'n geval vaak gezien als duur, waar duur weer relatief is. Mechanisch, wat vaak duurder is, wordt dan ook meestal gezien als superieur, ook al hoeft dit zeker niet het geval te zijn. In dit artikel leg ik uit waar je op moet letten bij de aanschaf van een kwalitatief goed horloge, voor ieder budget.
 
+<a href="https://jf79.net/c/?si=16568&amp;li=1714834&amp;wi=388520&amp;ws=horloge-outlet" rel="sponsored" target="_blank"><img src="https://static-dscn.net/16568/1714834/?wi=388520&amp;ws=horloge-outlet" alt="" style="max-width:100%; height:auto; border:none;" /></a>
+
 ## Hype vs klassieker
 
 Laten we simpel beginnen. Hype horloges vs klassiekers. Er zijn in de horlogewereld een aantal merken en modellen om op terug te vallen. Deze hebben een naam voor zichzelf gecreëerd door hun betrouwbaarheid, prijs, of verfijnde afwerking. Een mooi voorbeeld hiervan is de all-time classic **Casio F-91w**. Voor minder dan twee tientjes een horloge wat tegen (bijna) alles bestand is, met een geschatte levensduur van rond de 7 jaar. Beter gaat het niet worden. 

@@ -19,6 +19,8 @@ author: daan
 ---
 Exclusiviteit, want lastig te koop, of toch niet? De Rolex Submariner, een van de meest herkenbare en gewilde horloges ter wereld. Echter, niet te koop via de officiële Rolex dealers tenzij er aankoophistorie is. In dit artikel laten we je een aantal fantastische alternatieven zien voor de Rolex Submariner, die qua looks, prijs en beschikbaarheid zeker niet onderdoen.
 
+<a href="https://bdt9.net/c/?si=18836&amp;li=1811041&amp;wi=388520&amp;ws=invicta-banner" rel="sponsored" target="_blank"><img src="https://static-dscn.net/18836/1811041/?wi=388520&amp;ws=invicta-banner" alt="" style="max-width:100%; height:auto; border:none;" /></a>
+
 ## Orient Ray II (2): 150,- eur
 De [Orient Ray II](https://orient-watch.com/Collections/ORIENT/Sports/ORIENT%3A-Mechanical-Sports-Watch/p/AA02004B){:target="_blank"} is een populaire duikhorloge uit de collectie van Orient Watch Company, een Japans horlogemerk dat bekend staat om zijn kwalitatieve en betaalbare mechanische horloges. 
 
