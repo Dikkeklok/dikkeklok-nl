@@ -16,12 +16,10 @@ carousels:
 shop-status: gereserveerd
 date: 11-11-2023
 item-type: horloge
-excerpt_separator: <!--end_excerpt-->
+prijs: 1000
 ---
 
 ## Rodania '17 Rubis Incabloc' Chronograaf
-
-<!--end_excerpt-->
 
 ***
 

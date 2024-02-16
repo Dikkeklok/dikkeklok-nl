@@ -14,12 +14,9 @@ carousels:
 shop-status: verkocht
 item-type: horloge
 date: 07-01-2024
-excerpt_separator: <!--end_excerpt-->
 ---
 
 ## Casio G-Shock DWE-5600CC-3
-
-<!--end_excerpt-->
 
 ***
 

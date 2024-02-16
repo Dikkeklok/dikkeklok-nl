@@ -16,12 +16,9 @@ carousels:
 shop-status: verkocht
 item-type: horloge
 date: 15-11-2023
-excerpt_separator: <!--end_excerpt-->
 ---
 
 ##  Cartier 'Tank Must' Quartz
-
-<!--end_excerpt-->
 
 ***
 

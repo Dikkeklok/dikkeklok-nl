@@ -14,12 +14,11 @@ carousels:
 shop-status: gereserveerd
 item-type: horloge
 date: 12-11-2023
-excerpt_separator: <!--end_excerpt-->
+prijs: 1000
 ---
 
 ## Hublot 'Not for Sale' Quartz - Service Watch
 
-<!--end_excerpt-->
 
 ***
 
