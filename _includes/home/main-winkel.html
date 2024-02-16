@@ -3,8 +3,12 @@
   <strong><a href="/winkel">Zie ons volledige aanbod hier ></a></strong>
   <hr>
   <div class="entries-grid">
-    {%- for entry in site.winkel limit:4 -%}
-      {% include home/entry-featured-home.html %}
+    {%- for entry in site.winkel -%}
+      {% if entry.item-type == 'horloge' or entry.item-type == 'accessoire' %}
+        {% if entry.shop-status == 'beschikbaar' %}
+          {% include shop-entry.html %}
+        {% endif %}
+      {% endif %}
     {%- endfor -%}
   </div>
 </div>

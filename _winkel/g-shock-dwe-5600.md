@@ -11,12 +11,12 @@ carousels:
     - image: /images/store/prod_P2IMekiQTefNOX-gshock/set.png
     - image: /images/store/prod_P2IMekiQTefNOX-gshock/papers.png
     - image: /images/store/prod_P2IMekiQTefNOX-gshock/product.png
-excerpt_separator: <!--end_excerpt-->
+shop-status: verkocht
+item-type: horloge
+date: 07-01-2024
 ---
 
 ## Casio G-Shock DWE-5600CC-3
-
-<!--end_excerpt-->
 
 ***
 

@@ -13,12 +13,12 @@ carousels:
     - image: /images/store/prod_OscV9TV8L1VKDL-cartier/wearing-2.jpg
     - image: /images/store/prod_OscV9TV8L1VKDL-cartier/papieren.jpg
     - image: /images/store/prod_OscV9TV8L1VKDL-cartier/thumbnail.jpg
-excerpt_separator: <!--end_excerpt-->
+shop-status: verkocht
+item-type: horloge
+date: 15-11-2023
 ---
 
 ##  Cartier 'Tank Must' Quartz
-
-<!--end_excerpt-->
 
 ***
 

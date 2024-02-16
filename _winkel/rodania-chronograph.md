@@ -13,12 +13,13 @@ carousels:
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/wearing.jpg
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/dikkeklok-rodania.jpg
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/main-front.jpg
-excerpt_separator: <!--end_excerpt-->
+shop-status: gereserveerd
+date: 11-11-2023
+item-type: horloge
+prijs: 1000
 ---
 
 ## Rodania '17 Rubis Incabloc' Chronograaf
-
-<!--end_excerpt-->
 
 ***
 

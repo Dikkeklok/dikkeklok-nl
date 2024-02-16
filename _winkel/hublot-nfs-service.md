@@ -11,12 +11,14 @@ carousels:
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/caseback.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/sleeve.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/in-plastic.jpg
-excerpt_separator: <!--end_excerpt-->
+shop-status: gereserveerd
+item-type: horloge
+date: 12-11-2023
+prijs: 1000
 ---
 
 ## Hublot 'Not for Sale' Quartz - Service Watch
 
-<!--end_excerpt-->
 
 ***
 

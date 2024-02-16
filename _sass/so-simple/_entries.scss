@@ -118,7 +118,6 @@
     -ms-flex-order: 2;
     order: 2;
     margin-bottom: 1em;
-    font-size: 0.75rem;
   }
 
   .more-link {
@@ -137,7 +136,7 @@
 .entries-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  grid-gap: 2em;
+  grid-gap: 0.5em;
 
   .entry {
     display: -webkit-box;
@@ -147,7 +146,6 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    padding-bottom: 2rem;
   }
 
   .entry-title {
@@ -181,7 +179,6 @@
     -ms-flex-order: 2;
     order: 2;
     margin-bottom: 1em;
-    font-size: 0.75rem;
   }
 
   .more-link {

@@ -1,17 +1,15 @@
 ---
 title: Winkel
 description: Exclusiviteit voor om de pols. De dikste horloges direct leverbaar. Zoek jij een Dik horloge? Kijk dan snel verder!
-layout: collection
+layout: shop-collection
 permalink: /winkel
 collection: winkel
 entries_layout: grid
+sort_by: date
+sort_order: reverse
 ---
 Exclusieve opties - perfect als je op zoek bent naar je eerste horloge, een echte Dikke Klok, of juist een klassiek en verfijnd exemplaar. Check snel hieronder. Een altijd uiteenlopend aanbod van horloges en accessoires beschikbaar.
 
-Zie ook de [aankoopvoorwaarden](/aankoopvoorwaarden) en het overzicht van [de verkochte horloges >](/verkocht).
-
-> _Check ook de [Boekenkast](/boekenkast) voor een kleine greep uit mijn persoonlijke collectie [horloge boeken](/accessoires/mooiste-horloge-boeken)._
-
-## Op dit moment beschikbare horloges:
+Zie ook de [aankoopvoorwaarden](/aankoopvoorwaarden).
 
 *** 

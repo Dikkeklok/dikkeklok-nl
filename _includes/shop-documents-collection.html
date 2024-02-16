@@ -1,0 +1,36 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by == 'title' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'title' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'title' %}
+  {% endif %}
+{% elsif include.sort_by == 'date' %}
+  {% if include.sort_order == 'reverse' %}
+    {% assign entries = entries | sort: 'date' | reverse %}
+  {% else %}
+    {% assign entries = entries | sort: 'date' %}
+  {% endif %}
+{% endif %}
+
+<h2>Horloges:</h2>
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- for entry in entries -%}
+    {% if entry.item-type == 'horloge' %}
+      {% include shop-entry.html %}
+    {% endif %}
+  {%- endfor -%}
+</div>
+
+<hr>
+
+<h2>Boeken en accessoires:</h2>
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- for entry in entries -%}
+    {% if entry.item-type == 'boek' or entry.item-type == 'accessoire' %}
+      {% include shop-entry.html %}
+    {% endif %}
+  {%- endfor -%}
+</div>
+
