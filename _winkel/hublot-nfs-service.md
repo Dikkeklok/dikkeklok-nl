@@ -11,6 +11,9 @@ carousels:
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/caseback.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/sleeve.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/in-plastic.jpg
+shop-status: gereserveerd
+item-type: horloge
+date: 12-11-2023
 excerpt_separator: <!--end_excerpt-->
 ---
 

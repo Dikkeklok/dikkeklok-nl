@@ -7,6 +7,9 @@ carousels:
   - images: 
     - image: /images/boeken/boekenkast/ap-15-front.jpg
     - image: /images/boeken/boekenkast/ap-15-mid.jpg
+shop-status: beschikbaar
+item-type: boek
+date: 01-11-2023
 excerpt_separator: <!--end_excerpt-->
 ---
 
@@ -14,7 +17,7 @@ excerpt_separator: <!--end_excerpt-->
 
 <!--end_excerpt-->
 
-[< Terug naar de boekenkast](/boekenkast)
+[< Terug naar de winkel](/winkel)
 
 ***
 

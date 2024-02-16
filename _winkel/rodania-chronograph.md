@@ -13,6 +13,9 @@ carousels:
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/wearing.jpg
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/dikkeklok-rodania.jpg
     - image: /images/store/prod_OsWywAQvvi4eCC-rodania/main-front.jpg
+shop-status: gereserveerd
+date: 11-11-2023
+item-type: horloge
 excerpt_separator: <!--end_excerpt-->
 ---
 

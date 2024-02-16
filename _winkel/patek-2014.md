@@ -8,6 +8,9 @@ carousels:
     - image: /images/boeken/boekenkast/patek-front.jpg
     - image: /images/boeken/boekenkast/patek-mid.jpg
     - image: /images/boeken/boekenkast/patek-back.jpg
+shop-status: beschikbaar
+item-type: boek
+date: 01-11-2023
 excerpt_separator: <!--end_excerpt-->
 ---
 
@@ -15,7 +18,7 @@ excerpt_separator: <!--end_excerpt-->
 
 <!--end_excerpt-->
 
-[< Terug naar de boekenkast](/boekenkast)
+[< Terug naar de winkel](/winkel)
 
 ***
 

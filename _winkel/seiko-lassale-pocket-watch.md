@@ -1,7 +1,7 @@
 ---
 title: "Seiko Lassale 9550-5709: Platinum Plated Pocket Watch"
 layout: page
-date: 18-01-2023
+date: 18-01-2024
 image: 
   thumbnail: /images/store/prod_POgSHIe0ppeYmm-seiko/all.jpg
 carousels:
@@ -12,6 +12,9 @@ carousels:
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/back.jpg
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/package.jpg
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/box.png
+shop-status: beschikbaar
+item-type: horloge
+prijs: 250
 excerpt_separator: <!--end_excerpt-->
 ---
 
