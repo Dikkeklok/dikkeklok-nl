@@ -12,7 +12,7 @@ carousels:
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/back.jpg
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/package.jpg
     - image: /images/store/prod_POgSHIe0ppeYmm-seiko/box.png
-shop-status: beschikbaar
+shop-status: verkocht
 item-type: horloge
 prijs: 250
 excerpt_separator: <!--end_excerpt-->
