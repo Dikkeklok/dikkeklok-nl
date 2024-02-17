@@ -37,9 +37,11 @@
               </div>
             {% endif %}
       
-            {% if entry.excerpt %}
-              {{ entry.excerpt | markdownify }}
-            {% endif %}
+          {% if entry.excerpt %}
+            {%- if entry.content.size > entry.excerpt.size -%}
+              {{ entry.excerpt | truncatewords: 50 | markdownify | strip_html }} <a href="{{ entry.url }}"> Lees verder...</a>
+            {%- endif -%}
+          {% endif %}
           </div>
         </div>
       {% endunless %}
