@@ -44,8 +44,6 @@ Het zakhorloge bevat een nieuwe batterij, en komt met originele ketting en doos.
 * Formaat: 40mm
 * Staat: Kleine gebruikssporen - Er zijn kleine leeftijdsgerelateerde krasjes en vlekken op de doos, kast, ketting en het kristal. Wijzerplaat is in uitstekende staat!
 
-### Prijs: 250,- EUR
-
 ***
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
