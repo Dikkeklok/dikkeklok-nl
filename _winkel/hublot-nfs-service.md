@@ -11,7 +11,7 @@ carousels:
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/caseback.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/sleeve.jpg
     - image: /images/store/prod_OYJQMAXnNaOXXY-hublot/in-plastic.jpg
-shop-status: gereserveerd
+shop-status: verkocht
 item-type: horloge
 date: 12-11-2023
 prijs: 1000
