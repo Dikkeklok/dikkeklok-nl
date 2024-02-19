@@ -18,15 +18,13 @@ author: daan
 ---
 Alleen al vanwege het uiterlijk zou een horloge makkelijk een paar duizend kunnen kosten, toch? Nou, wat als ik je vertel dat ook de mooiste stukken geen 5.000, 2.000 of zelfs 500 euro kost? Nee, je kunt verschillende horloges al kopen voor rond de 150 euro. Wil je weten hoe? Kijk dan snel hieronder verder!
 
-<a href="https://ds1.nl/c/?si=7630&amp;li=1621573&amp;wi=388520&amp;ws=ali-banner" rel="sponsored" target="_blank"><img src="https://remote.dt71.net/7630/1621573/?wi=388520&amp;ws=ali-banner" alt="" style="max-width:100%; height:auto; border:none;" /></a>
+<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
 
 # De Sea-Gull 1963: 190,- EUR
 
 De **Sea-Gull 1963** is niet alleen historisch gezien een pareltje, maar ook voor het oog een genot! 
 
 De Seagull 1963 werd oorspronkelijk in 1961 ontwikkeld om te worden uitgegeven aan de Chinese luchtmacht. Hij werd dus speciaal gebouwd voor piloten. Voor minder dan 200 euro is de **Sea-Gull 1963** een cool stuk om toe te voegen aan elke collectie, of om als eerste mechanische horloge te bemachtigen!
-
-> <a href="https://ds1.nl/c/?si=7630&li=1354896&wi=388520&ws=ali-seagull&dl=w%2Fwholesale-seagull-1963.html" rel="sponsored noopener" target="_blank">> Klik hier voor de Sea-Gull horloges! < </a>
 
 ![image-center]({{ '/images/horloges/seagull/front.jpg' | absolute_url }})
 
@@ -41,8 +39,6 @@ Het bedrijf, Tianjin Sea-Gull Watch Group, opgericht in 1958 als Tianjin Wuyi Wa
 # De Dikke Duiker horloges van San Martin: 250,- EUR
 
 Een duidelijke knipoog naar de Tudor Black Bay 58 is hier te zien. Echter, kost dit horloge nog geen 10e van de prijs!!! De wijzerplaat, wijzers, en indicie springen er uit en maken het horloge duidelijk leesbaar. Het NH35 uurwerk is gebaseerd op de Seiko 4R35, maar omdat hier geen logo op staat een stuk goedkoper. Kwalitatief loopt dit horloge dus super, en zal onderhoud (indien ooit nodig) ook goedkoop mogelijk zijn.
-
-> <a href="https://ds1.nl/c/?si=7630&li=1354896&wi=388520&ws=ali-sanmartin&dl=store%2F5039187" rel="sponsored noopener" target="_blank"> > Klik hier voor de San Martin horloges < </a>
 
 ![image-center]({{ '/images/horloges/sanmartin/front.jpg' | absolute_url }})
 

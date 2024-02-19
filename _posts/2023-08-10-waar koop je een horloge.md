@@ -20,7 +20,7 @@ author: daan
 ---
 Over het algemeen is de opinie en gedachte dat een 'goed' horloge alleen kan voor een 'goede' prijs. Goed is in zo'n geval vaak gezien als duur, waar duur weer relatief is. Mechanisch, wat vaak duurder is, wordt dan ook meestal gezien als superieur, ook al hoeft dit zeker niet het geval te zijn. In dit artikel leg ik uit waar je op moet letten bij de aanschaf van een kwalitatief goed horloge, voor ieder budget.
 
-<a href="https://jf79.net/c/?si=16568&amp;li=1714834&amp;wi=388520&amp;ws=horloge-outlet" rel="sponsored" target="_blank"><img src="https://static-dscn.net/16568/1714834/?wi=388520&amp;ws=horloge-outlet" alt="" style="max-width:100%; height:auto; border:none;" /></a>
+<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
 
 ## Hype vs klassieker
 
