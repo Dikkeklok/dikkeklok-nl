@@ -57,12 +57,6 @@ collections:
   winkel:
     output: true
     permalink: /:collection/:path
-  boekenkast:
-    output: true
-    permalink: /:collection/:path
-  verkocht:
-    output: true
-    permalink: /:collection/:path
   auteurs:
     output: true
     permalink: /:collection/:path
