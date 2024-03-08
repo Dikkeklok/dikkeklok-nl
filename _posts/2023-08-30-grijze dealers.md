@@ -70,7 +70,7 @@ Mocht je je horloge zat zijn dan is het doorverkopen altijd een optie. Mocht je 
 
 > Prijs = _Marktprijs_ - [10% tot 15%] - [300,- _reparatie en servicekosten_] - [100,- _fotografie en kosten van aanbieden_]
 
-Mocht je dus voor 9000,- een [Rolex Submariner](/alternatief/rolex-submariner/) hebben aangeschaft, met een marktprijs van rond de 12k, dan zul je hier dus +/- 9800,- tot 10400,- voor krijgen bij een grijze dealer. Dit natuurlijk afhankelijk van de conditie van het horloge. Voor de huidige marktprijs is [Chrono24](https://chrono24.nl) een goed uitgangspunt om mee te vergelijken.  
+Mocht je dus voor 9000,- een [Rolex Submariner](/alternatief/rolex-submariner) hebben aangeschaft, met een marktprijs van rond de 12k, dan zul je hier dus +/- 9800,- tot 10400,- voor krijgen bij een grijze dealer. Dit natuurlijk afhankelijk van de conditie van het horloge. Voor de huidige marktprijs is [Chrono24](https://chrono24.nl) een goed uitgangspunt om mee te vergelijken.  
 
 Een grijze handelaar kan ook het horloge in 'consignment' nemen. Hierbij zal je het horloge overhandigen aan de grijze handelaar, die deze vervolgens namens jou aanbiedt. Vaak is er in dat geval een hogere prijs mogelijk, maar zal je moeten wachten tot de doorverkoop afgerond is voordat je je geld ontvangt.
 
