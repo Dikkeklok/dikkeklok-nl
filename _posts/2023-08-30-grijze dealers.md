@@ -77,7 +77,7 @@ Een grijze handelaar kan ook het horloge in 'consignment' nemen. Hierbij zal je 
 Via officiële dealers is het tegenwoordig ook vaak mogelijk om een horloge te verkopen. Dit zal vergelijkbaar zijn qua bedrag.
 
 ### Ruilen / upgraden
-Mocht je een horloge willen verkopen om een andere aankoop te financieren? Dan kunnen zowel grijze handelaren als officiele dealers een uitkomst zijn. Zij kunnen je oude horloge innemen en dit als korting verrekenen bij de [aanschaf van een nieuwe horloge](/algemeen/waar-te-koop). Vaak is een ruil-prijs een paar honderd euro hoger dan een verkoopprijs. Zie dit als 'korting' op je nieuwe aankoop.
+Mocht je een horloge willen verkopen om een andere aankoop te financieren? Dan kunnen zowel grijze handelaren als officiele dealers een uitkomst zijn. Zij kunnen je oude horloge innemen en dit als korting verrekenen bij de [aanschaf van een nieuwe horloge](/algemeen/waar-koop-je-een-horloge). Vaak is een ruil-prijs een paar honderd euro hoger dan een verkoopprijs. Zie dit als 'korting' op je nieuwe aankoop.
 
 ## Conclusie
 Er is tegenwoordig veel mogelijk. Let hierbij wel op dat je een erkende grijze handelaar gebruikt voor de aanschaf van het horloge. Soms is juist het wachten in combinatie met het krijgen van een betere prijs of exclusief model het juiste pad. In ieder geval, gebruik bovenstaande berekening en check waar je het goedkoopste uit bent - vaak kan dit vele honderden euros schelen.
