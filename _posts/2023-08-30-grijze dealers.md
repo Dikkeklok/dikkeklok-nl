@@ -54,7 +54,7 @@ Een grijze handelaar heeft vaak een mooie voorraad van verschillende merken, of 
 Een grijze handelaar is vaak onderdeel van een 'dealers netwerk'. Doordat ze contact hebben met andere handelaren in de markt kunnen ze vaak op korte termijn het exacte horloge in de gewenste configuratie leveren. Het gaat hierbij vaak om horloges in ongedragen en/of nieuwstaat!
 
 #### Prijs
-Voor exclusieve modellen zoals bijvoorbeeld de [Rolex Hulk](/alternatief/rolex-hulk/) zal er uiteraard een meerprijs opzitten ten opzichte van een officiële dealer, echter, heeft een grijze handelaar het horloge wel direct beschikbaar. Deze afweging is voor iedereen persoonlijk. 
+Voor exclusieve modellen zoals bijvoorbeeld de [Rolex Hulk](/alternatief/rolex-hulk) zal er uiteraard een meerprijs opzitten ten opzichte van een officiële dealer, echter, heeft een grijze handelaar het horloge wel direct beschikbaar. Deze afweging is voor iedereen persoonlijk. 
 
 Van de andere kant zal een grijze handelaar ook vaak modellen en/of merken in het aanbod hebben die aanzienlijk onder de officiele winkelprijs zitten. Doordat ze vaak slim inkopen kunnen ze de prijs laag houden voor de nieuwe consument. Ook zal een horloge met ontbrekende doos/papieren of kleine beschadigingen aangeboden kunnen worden voor een betere prijs.
 
