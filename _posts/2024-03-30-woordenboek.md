@@ -1,5 +1,5 @@
 ---
-title:  "Horloge-woordenboek: Alle horloge-termen en onderdelen op een rij"
+title:  "Horloge-woordenboek: Alle horloge-termen en onderdelen op een rijtje"
 date:   2024-03-30 10:14:45 +0200
 description: Horlogetermen. Vaak worden er gespecialiseerde worden gebruikt die niet bij iedereen bekend zijn. Hier de uitleg van de meest voorkomende termen, het horloge-woordenboek.
 categories:
