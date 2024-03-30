@@ -43,7 +43,9 @@ Een grijze handelaar is een dealer, soms met fysieke winkel of alleen online, di
 
 Doordat de grijze handelaren niet vast zitten aan de spelregels zoals opgelegd door de merken is er hier vaak veel mogelijk. Zo kan een horloge bijvoorbeeld doorverkocht worden voor een lagere prijs in het geval van (kleine) beschadegingen of bij het ontbreken van de doos en/of originele aankooppapieren.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 > Let op! Verloopt een aankoop via een particulier (bijvoorbeeld via marktplaats) dan spreken we **_niet_** over grijze handelaren. Een grijze handelaar zal enkel legitieme producten verkopen via officiele kanalen - zoals een echte winkel (dus o.a. kvk ingeschreven, etcetera). Mochten er twijfels zijn, pas dan erg op. Er zijn namelijk veel neppe en/of horloges in slechte staat in omloop via shady handelaren.
 

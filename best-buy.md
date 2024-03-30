@@ -7,7 +7,9 @@ permalink: /best-buy
 Het is bijna onmogelijk om een individueel horloge uit te roepen tot beste. Qua merken zijn er wel een aantal uitspringers op het gebied van prijs/kwaliteit. Prijs-kwaliteitverhouding kan subjectief zijn en varieert afhankelijk van persoonlijke voorkeuren, budget en verwachtingen. 
 Echter, op basis van algemene waarnemingen en populariteit staan de volgende horlogemerken bekend om hun goede prijs-kwaliteitverhouding.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 ***
 
@@ -93,7 +95,9 @@ Hier zijn enkele suggesties voor horloges in verschillende categorieën, samen m
 * **Cadeau:** Citizen Eco-Drive - Een duurzaam en stijlvol horloge dat nooit batterijen nodig heeft, ideaal als cadeau voor een speciaal iemand.
 * **Cadeau Partner:** TAG Heuer Carrera voor hem en TAG Heuer Aquaracer voor haar - Een matchend setje van twee prestigieuze horloges.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 ***
 
