@@ -18,6 +18,10 @@ author: daan
 ---
 Door de meeste merken wordt over het algemeen eens in de 5 jaar onderhoud aangeraden, maar is dit ook zo? En wat kan er van invloed zijn op een horloge? Mogelijk moet het vaker, of kun je juist langer de tijd nemen voor onderhoud.
 
+<center>
+  {% include ad.html %}
+</center>
+
 ## Waarom onderhoud?
 Net als bij een auto bevat een horloge verschillende mechanische onderdelen zoals tandwielen, schroefjes, drukknoppen, radartjes, veertjes en wrijvende onderdelen die over tijd slijtage oplopen. De onderdelen van een horloge zijn erg nauwkeurig afgesteld en kunnen dan ook snel uit balans raken. Een horloge kan soms kleine kiertjes bevatten waardoor er over tijd vuil in het uurwerk kan komen. Of er kunnen, als een horloge al lang meegaat, door natuurlijke slijtage van de bewegende onderdelen microscopisch kleine ijzerschaafsel/vezels loskomen. Dit vuil kan er voor zorgen dat er meer frictie ontstaat waardoor een horloge stroever of moeilijker draait, tot in het ergste geval stil komt te staan. 
 

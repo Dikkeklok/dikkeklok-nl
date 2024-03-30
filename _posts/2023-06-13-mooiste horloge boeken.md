@@ -21,7 +21,9 @@ Een boeken kast, iedereen heeft er wel een. Maar ja, waarmee vul je deze? Wil je
 ## De catalogus
 De merkcatalogus, een simpele en vaak prachtig exemplaar om toe te voegen aan de collectie. De boeken zijn vaak van hoge kwaliteit, gratis te verkrijgen, en kunnen soms nog een hoge verkoopwaarde hebben. Catalogi worden vaak gebruikt door merken om hun aanbod aan klanten te presenteren, echter zie je ze steeds vaker op de koffietafel of zelfs detailhandel liggen.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fl%2Fe-readers-accessoires%2F7894%2F&amp;f=BAN&amp;name=Ereaders&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-ereaders-pp-468x60.jpg" width="468" height="60" alt="Ereaders"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Ereaders&amp;subid=" width="1" height="1" alt="Ereaders"/></center> 
+<center>
+  {% include ad.html %}
+</center>
 
 Ze zijn er van alle grote merken en staan er om bekend om veel informatie met betrekking tot historie te bevatten. Tevens zijn het vaak de mooiste afbeeldingen om te zien, zolang je het horloge nog niet in het echt hebt kunnen bewonderen.
 

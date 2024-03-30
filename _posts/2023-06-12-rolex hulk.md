@@ -20,7 +20,9 @@ author: daan
 ---
 De Rolex Hulk, ook wel bekend als de Rolex Submariner Date met een groene lunette (bezel) en wijzerplaat, is een van de meest iconische en gewilde horloges ter wereld. Echter, vanwege de populariteit en beperkte beschikbaarheid, kan de prijs van een Hulk-exemplaar behoorlijk hoog oplopen. In dit artikel laten we je drie fantastische alternatieven voor de Rolex Hulk zien die het overwegen waard zijn.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 ## Oris Aquis Green Dial: 2400,- eur
 De [Oris Aquis Green Dial](https://www.oris.ch/en-US/watch/aquis-date/01-733-7732-4157-07-8-21-05peb){:target="_blank"} is een andere geweldige optie als alternatief voor de Rolex Hulk. Oris is een Zwitsers horlogemerk, en de Aquis Green biedt met zijn sportieve uitstraling en hoogwaardige constructie een uitstekend alternatief voor de Rolex Hulk.

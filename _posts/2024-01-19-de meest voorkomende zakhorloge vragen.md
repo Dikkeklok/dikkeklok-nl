@@ -18,7 +18,9 @@ De zakhorloges werden vooral populair in de 18e en 19e eeuw en waren vaak elegan
 
 Hoewel ze vandaag de dag minder gebruikelijk zijn, worden zakhorloges nog steeds gewaardeerd om hun nostalgische esthetiek.
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 ## Hoe moet je een zakhorloge dragen?
 Het start natuurlijk allemaal met het uitkiezen van een zakhorloge wat past bij je kleding. Denk hierbij aan goud voor de wat sjiekere gelegenheden, of staal voor een sportievere en meer alledaagse look.

@@ -18,7 +18,9 @@ author: daan
 ---
 Alleen al vanwege het uiterlijk zou een horloge makkelijk een paar duizend kunnen kosten, toch? Nou, wat als ik je vertel dat ook de mooiste stukken geen 5.000, 2.000 of zelfs 500 euro kost? Nee, je kunt verschillende horloges al kopen voor rond de 150 euro. Wil je weten hoe? Kijk dan snel hieronder verder!
 
-<center><a href="https://partner.bol.com/click/click?p=1&amp;t=url&amp;s=1321762&amp;url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fm%2Fsieraden%2F&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" target="_blank"><img src="https://www.bol.com/nl/upload/partnerprogramma/190605-sieraden-en-accessoires-pp-728x90.jpg" width="728" height="90" alt="Sieraden en accessoires - NL"  /></a><img src="https://partner.bol.com/click/impression?p=1&amp;s=1321762&amp;t=url&amp;f=BAN&amp;name=Sieraden%20en%20accessoires%20-%20NL&amp;subid=" width="1" height="1" alt="Sieraden en accessoires - NL"/></center>
+<center>
+  {% include ad.html %}
+</center>
 
 # De Sea-Gull 1963: 190,- EUR
 
