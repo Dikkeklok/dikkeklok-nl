@@ -37,13 +37,15 @@ excerpt_separator: <!--end_excerpt-->
 
 De Certina Blue Ribbon is een klassiek horloge dat voor het eerst werd geïntroduceerd in de jaren 1960. Het kreeg al snel een reputatie als een stijlvol en betrouwbaar uurwerk dat ideaal was om elke dag te dragen. Een van de opvallendste kenmerken van de Blue Ribbon is het slanke en elegante ontwerp. Het horloge heeft een dunne kast en een eenvoudige maar stijlvolle wijzerplaat die het perfect maakt voor alle gelegenheden.
 
-Het horloge komt op een stretch band, met 'verborgen' sluiting. Historie en originaliteit van de band is onbekend.
+Saurer (Adolph Saurer AG) was een Zwitserse fabrikant van borduur- en textielmachines, vrachtwagens en bussen onder de merknamen Saurer en Berna (vanaf 1929). Het bedrijf was gevestigd in Arbon, Zwitserland en was actief tussen 1903 en 1982. Hun voertuigen werden veel gebruikt op het Europese vasteland, vooral in het interbellum.
 
 ## Beschrijving
 * Model: Certina Blue Ribbon Automatic
-* Uurwerk: Automatisch
+* Uurwerk: Automatisch, is geserviced maar door de leeftijd kan hier geen additionele garantie op gegeven worden
 * Formaat: 40mm
 * Staat: Gebruikt - Er zijn leeftijdsgerelateerde krasjes en vlekken op het glas, de kast, band, en wijzerplaat. Voor de leeftijd nog in uitstekende staat.
+
+Het horloge komt op een stretch band, met 'verborgen' sluiting. Historie en originaliteit van de band is onbekend.
 
 > Zie ook onze beschikbare bijpassende [Certina horlogestandaarden](\winkel\certina-watch-stand)
 
