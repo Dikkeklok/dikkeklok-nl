@@ -3,7 +3,7 @@ title: "Horloge banden - leer, staal, en rubber om de pols"
 date:   2024-07-07 17:23:16 +0200
 description: Leer, staal, en rubber om de pols, Een band kan de look van een horloge compleet veranderen. Lees hier welke bandtypes er zijn, en tips voor de aanschaf
 categories:
-  - accessoires
+  - algemeen
 tags:
   - leer
   - rubber
