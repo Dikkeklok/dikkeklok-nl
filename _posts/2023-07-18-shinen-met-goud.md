@@ -20,8 +20,6 @@ We hebben natuurlijk allemaal met de paplepel meegekregen: **Goud = Status**
 
 Los van status is je gewicht in goud waard zijn natuurlijk een goede eigenschap om te hebben. Maar, een dik, goud horloge hoort eigenlijk als mooie toevoeging in elke collectie. Dus, hieronder een aantal mooie goude status-waardige klokken om mee te shinen!
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698506738671", "baseUrl":"partner.bol.com","productId":"9200000095823824","familyId":"9200000095823824","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Armani%20Exchange%20AX2611%20Herenhorloge%2044%20mm%20-%20Go...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698506738671"></script></center>
-
 # De Rolex Day-Date knaller!
 
 [![image-right]({{ '/images/horloges/rolex/daydate-gold-gif.gif' | absolute_url }}){: .align-right}](https://www.instagram.com/p/Cu2bL2bqGtm/?img_index=1){:target="_blank"}
@@ -47,8 +45,6 @@ Hier boven ter voorbeeld de Casio GMW-B5000GD-9 - beschikbaar voor +/- 500 euro.
 Over de kwaliteit van Casio en de historie hoeven we natuurlijk niet veel meer uit te leggen, en met zijn prijs van rond de 60 EUR ook aan de zeer betaalbare kant! Een mooi extraatje is dat de batterij van de meeste tegenwoordig een geschatte levensduur heeft van 7 jaar! Dit alles maakt een Casio een goede keuze voor mensen die voor het eerst een horloge willen kopen. Ze bieden waar voor hun geld en zijn toegankelijk voor mensen met verschillende budgetten.
 
 Ten opzichte van de grote knaller hierboven zijn er ook verschillende subtielere modellen te vinden.
-
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698506701770", "baseUrl":"partner.bol.com","productId":"9200000026739657","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Casio%20Vintage%20Iconic%20A168WG-9EF%20Unisex%20Horloge...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698506701770"></script></center>
 
 ## Whats next?
 Goud valt natuurlijk erg op. Is 'stealth wealth' meer je ding?, dan kun je misschien kijken naar wit-goud, platina, of juist een gewoon stalen horloge. Er zijn vele opties in deze wereld, allen met een prijskaartje. Check de site verder voor [best-buy](/best-buy) suggesties in andere categorieën!

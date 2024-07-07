@@ -54,13 +54,9 @@ Elke optie heeft zo zijn voor en nadelen, maar laten we beginnen bij de meest pr
 ## De aanrader - het Horloge reis etui
 Zoals te zien op de foto aan het begin van het artikel kan het soms voorkomen dat een hele collectie mee op reis gaat. Of dit nu voor vakantie of speciale gelegenheden is, het hebben van een simpel en goed horloge reis etui is een must voor meerdere horloges on the road. Let hierbij op dat de binnenkant plastic en metaal vrij is om krassen te voorkomen. Het beste is als de doos individuele compartimenten bevat zodat de horloges gescheiden van elkaar zitten.
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702317068606", "baseUrl":"partner.bol.com","productId":"9200000126042985","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Membeli%20Horloge%20Etui%20-%20Horloge%20Doos%20-%20Voor%201%20H...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702317068606"></script></center>
-
 ![image-center]({{ '/images/accessoires/watchcase/travelcase-stackers.jpg' | absolute_url }})
 
 Een more heavy-duty optie kan een gereedschapskoffer zijn. Een opbergkoffer is ideaal om horloges en andere gevoelige apparatuur in op te bergen en te transporteren. Let hierbij op dat de binnenkant voorzien is van noppenschuim en de bodem plukschuim. Je kan vervolgens de koffer zelf makkelijk vormgeven voor al je horlogen en [overige accessoires](/accessoires/handigste-horloge-accessoires).
-
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702316789105", "baseUrl":"partner.bol.com","productId":"9200000037275128","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Perel%20Gereedschapskoffer%2C%20noppenschuim%2C%20pluksc...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702316789105"></script></center>
 
 Ook zijn er opties in de vorm van een watch-roll, waarbij verschillende horloges naast elkaar in het etui kunnen.
 
@@ -83,7 +79,6 @@ Het matje of bakje is gemaakt van leer, waarbij de hoeken aan elkaar zitten met 
 
 Bij mij ligt de valet tray bij de voordeur, en het mooiste van de valet tray zelf vind ik het keuze momentje wat je krijgt op het moment dat je de deur uit gaat. Iedere keer sta je toch even stil bij de gelegenheid van de dag, en welk horloge daar het beste bij past. Let wel op dat je niet zomaar je sleutels, klein geld, en andere voorwerpen bij je horloges in de bak moet gooien, om krassen te voorkomen.
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1702318566079", "baseUrl":"partner.bol.com","productId":"9200000105913492","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"QUVIO%20Opbergbakje%20vilt%20-%20Sleutelbakje%20-%20Organi...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1702318566079"></script></center>
 
 Een goed alternatief kan een muismat zijn, vaak zijn deze gemaakt van zachte stof, en kunnen dus perfect de horloges beschermen tegen krassen van de ondergrond.
 

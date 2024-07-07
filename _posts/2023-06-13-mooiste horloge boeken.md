@@ -42,10 +42,7 @@ Een mailtje naar een contact@ adres is ook altijd het proberen waard!
 ## A Man and His Watch: 36,- eur
 *Iconic Watches and Stories from the Men Who Wore Them*
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698504189289", "baseUrl":"partner.bol.com","productId":"9200000073194392","familyId":"9200000073194392","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"A%20Man%20and%20His%20Watch%2C%20Matt%20Hranek","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698504189289"></script></center>
-
-
-[A Man and His Watch](https://www.bol.com/nl/nl/f/a-man-and-his-watch/9200000073194392/){:target="_blank"} verzameld de mooiste verhalen in relatie tot horloges in verschillende persoonlijke collecties.
+A Man and His Watch verzameld de mooiste verhalen in relatie tot horloges in verschillende persoonlijke collecties.
 
 ![image-center]({{ '/images/boeken/a man and his watch.jpg' | absolute_url }}){: .align-center}
 
@@ -63,9 +60,6 @@ Horlogedesignerboeken kunnen nuttig zijn voor horlogeliefhebbers, verzamelaars, 
 
 Er zijn al van verschillende soorten merken designerboeken uitgebracht, denk hierbij aan Rolex en Omega.
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698504253487", "baseUrl":"partner.bol.com","productId":"9200000041226093","familyId":"9200000041226093","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Moonwatch%20Only%3A%20The%20Ultimate%20Omega%20Speedmaster...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698504253487"></script></center>
-
-
 Als voorbeeld, het verzamelobject [From Seamaster to Seamaster](https://www.omegawatches.com/stories/capturing-70-years-of-seamaster-design){:target="_blank"} bevat schitterende fotos van nooit eerder vertoonde vintage en moderne Seamasters. 
 
 Toen de Zwitserse horlogemaker Omega zijn duikhorloge Seamaster in 1948 introduceerde, bewees het merk dat functionaliteit en stijl kunnen samengaan. Dit luxueuze boek markeert zeventig jaar Seamaster en onderzoekt het uitstekende vakmanschap, de evoluerende ontwerpen en de blijvende charme van dit model.
@@ -77,4 +71,4 @@ Toen de Zwitserse horlogemaker Omega zijn duikhorloge Seamaster in 1948 introduc
 Het boek biedt horlogeliefhebbers en verzamelaars een diepgaand inzicht in de geschiedenis en het erfgoed van de Omega Seamaster en laat zien hoe dit horloge een belangrijke plaats heeft verworven in de horlogewereld. Het is zowel een informatieve als visueel aantrekkelijke verkenning van dit iconische horlogemodel.
 
 ## Conclusie
-Varierend van gratis, enkele tientjes, tot over de honderd euro. Niet alleen horloges hebben een gevarieerd aanbod, maar zo ook de [accessoires](/accessoires/handigste-horloge-accessoires) eromheen. Als echte liefhebber zou ik zeker aanraden om een aantal catalogi te bestellen en zo de boekenplank uit te breiden. <a href="https://partner.bol.com/click/click?p=2&t=url&s=1321762&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2Fhorloge%2Bboeken%2F&name=bol.com">Verder hebben sites zoals **bol.com** ook een breed aanbod aan horlogeboeken beschikbaar.</a>
+Varierend van gratis, enkele tientjes, tot over de honderd euro. Niet alleen horloges hebben een gevarieerd aanbod, maar zo ook de [accessoires](/accessoires/handigste-horloge-accessoires) eromheen. Als echte liefhebber zou ik zeker aanraden om een aantal catalogi te bestellen en zo de boekenplank uit te breiden.

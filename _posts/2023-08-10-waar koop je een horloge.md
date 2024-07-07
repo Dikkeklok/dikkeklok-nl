@@ -35,7 +35,6 @@ Ik heb zelf nog nooit van iemand gehoord dat ze spijt hebben gehad van zo'n aans
 Wat is een hype ook al weer?
 > Een hype is een verschijnsel dat tijdelijk bovenmatige media-aandacht krijgt en daardoor belangrijker lijkt dan het in werkelijkheid is.
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698508086781", "baseUrl":"partner.bol.com","productId":"9200000129985624","familyId":"9200000129985624","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Casio%20Collection%20Men%20F-91W-1Yef%20Heren%20Horloge%20...","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698508086781"></script></center>
 
 Het gaat hierbij dus om horloges die bijvoorbeeld door middel van influencer marketing aan de massa worden gebracht met als doel zo veel mogelijk omzet te genereren voor de makers, investeerders, en het merk. Vaak zijn deze horloges te vinden in de kledingwinkels van de bekendere kledingmerken. 
 Deze 'hype' horloges zijn niet per definitie slecht, maar ze worden vaak gemaakt van goedkope materialen en/of uurwerken waardoor de kwaliteit en levensduur vaak toch tekort schiet.
@@ -82,7 +81,7 @@ Zelf hou ik verschillende plekken in de gaten in mijn zoektocht naar horloges. V
 
 Let hier wel op de bijkomende verzend + import kosten mocht het horloge zich buiten de EU bevinden. Persoonlijk heb ik via Reddit al horloges aangeschaft uit o.a. Canada, Indonesië, Engeland en Duitsland.
 
-Het is natuurlijk ook altijd mogelijk om horloges aan te schaffen via nederlandse verkooppunten. Bijvoorbeeld via bol, voor zowel <a href="https://partner.bol.com/click/click?p=2&t=url&s=1321762&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fl%2Fdames-horloges%2F46925%2F&name=Dames%20horloge%20kopen%3F%20Kijk%20snel!">dames</a> als <a href="https://partner.bol.com/click/click?p=2&t=url&s=1321762&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fl%2Fhorloges-heren%2F47156%2F&name=Horloge%20heren%20kopen%3F%20Kijk%20snel!">heren horloges</a>.
+Het is natuurlijk ook altijd mogelijk om horloges aan te schaffen via nederlandse verkooppunten.
 
 In tegenstelling tot een fysieke winkel bezoeken kun je horloges online niet proberen voordat je ze hebt gekocht. Gelukkig zijn er veel [juweliers in Nederland](/algemeen/grijze-dealers) te vinden die je graag helpen met de aanschaf van een uurwerk. Trek je stoute schoenen aan en stap een keer binnen. Dit kan in het begin vaak spannend zijn, maar je bent nooit tot kopen verplicht. Plus, er werken vaak echte horlogeliefhebbers in zo'n zaak waar je je passie en zoektocht mee kan delen.
 

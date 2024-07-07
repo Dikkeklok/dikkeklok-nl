@@ -38,7 +38,6 @@ Mocht de kleine nog net iets te jong zijn om al een besef van tijd te hebben dan
 
 Ter illustratie, de beginnende horlogedrager kan starten met het leuke, [kleine ‘horloge’ van hout en bandje met elastiek](https://www.dille-kamille.nl/horloge-hout-roze-groen-3-00018901.html).
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698866960034", "baseUrl":"partner.bol.com","productId":"9300000007284131","familyId":"","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"Lego%20Horloge%20Batman%3A%20Robin","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698866960034"></script></center>
 
 Voor de wat stoerdere of creatieve jonge kinderen is een LEGO horloge een hele mooie keuze. De kleurrijke en aantrekkelijke ontwerpen zijn geschikt voor jongere kinderen die een horloge willen dat bij hun persoonlijkheid past.
 
@@ -59,7 +58,6 @@ Een groot voordeel van Casio is dat er een breed assortiment aan horloges beschi
 
 Een ander pluspunt van Casio horloges is de leesbaarheid van het scherm. Ze zijn duidelijk uitgevoerd, dus goed af te lezen, en bevatten een lampje om het scherm te verlichten. Ook in de donkere winterdagen zal uw kind met dit horloge om weten hoe laat ze thuis moeten zijn. Mochten ze dit als nog vergeten is het bij de meeste modellen mogelijk om een wekker functie en/of stopwatch alarm in te stellen.
 
-<center><script type="text/javascript">var bol_sitebar_v2={"id":"bol_1698868697476", "baseUrl":"partner.bol.com","productId":"9300000082073920","familyId":"9300000082073920","siteId":"1321762","target":true,"rating":true,"price":true,"deliveryDescription":true,"button":true,"linkName":"G-Shock%20BABY-G%20Urban%20BGD-565-4ER%20Horloge","linkSubId":""};</script><script type="text/javascript" src="https://partner.bol.com/promotion/static/js/partnerProductlinkV2.js" id="bol_1698868697476"></script></center>
 
 ## Klein en groot
 Om terug te komen op het _'voorbeeld'_ en _'ultime statussymbool'_, er zijn ook verschillende merken die een moeder-dochter, vader-zoon, of klein en grote uitvoering hebben van hetzelfde horloge. 

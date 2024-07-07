@@ -14,7 +14,7 @@ Echter, op basis van algemene waarnemingen en populariteit staan de volgende hor
 ***
 
 # De best-buy merken
-**Seiko**: Seiko biedt een breed scala aan horloges, van betaalbare quartz-modellen tot hoogwaardige mechanische uurwerken, met een reputatie voor betrouwbaarheid en duurzaamheid. Het is ook mogelijk om een stapje exclusiever te gaan, en te kiezen voor **Grand Seiko**, hun top-line horloges bekend om hun schitterende wijzerplaten. <a href="https://partner.bol.com/click/click?p=2&t=url&s=1321762&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fs%2Fseiko%2F&name=bol.com">Meer Seiko...</a>
+**Seiko**: Seiko biedt een breed scala aan horloges, van betaalbare quartz-modellen tot hoogwaardige mechanische uurwerken, met een reputatie voor betrouwbaarheid en duurzaamheid. Het is ook mogelijk om een stapje exclusiever te gaan, en te kiezen voor **Grand Seiko**, hun top-line horloges bekend om hun schitterende wijzerplaten.
 
 **Hamilton**: Hamilton combineert kwaliteit en stijl tegen betaalbare prijzen. Ze hebben een verscheidenheid aan modellen, waaronder zowel klassieke als moderne ontwerpen.
 
