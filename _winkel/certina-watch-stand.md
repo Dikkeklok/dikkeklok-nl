@@ -1,5 +1,5 @@
 ---
-title: "Certina watch stand - twee beschikbaar"
+title: "Certina watch stand"
 layout: page
 date: 16-02-2024
 image: 
@@ -30,13 +30,13 @@ prijs: 50
 
 ***
 
-Certina watch stand voor twee horloges. Twee stuks beschikbaar. Horloge niet inbegrepen
+Certina watch stand voor twee horloges. Horloge niet inbegrepen
 
 ## Beschrijving
 * Model: Certina
 * Staat: Als nieuw
 
-### Prijs: 50,- EUR per stuk
+### Prijs: 50,- EUR
 
 ***
 
