@@ -13,25 +13,13 @@ carousels:
     - image: /images/store/prod_PwQRvdEBhqSNsX-certina/side.jpg
     - image: /images/store/prod_PwQRvdEBhqSNsX-certina/movement.jpg
     - image: /images/store/prod_PwQRvdEBhqSNsX-certina/serial.jpg
-shop-status: beschikbaar
+shop-status: verkocht
 item-type: horloge
 prijs: 550
 excerpt_separator: <!--end_excerpt-->
 ---
 
 ## Certina Blue Ribbon Automatic - SAURER - 1972
-
-<center><script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1P6Xc3ERy1tUSqmunOzl2VcI"
-  publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"
->
-</stripe-buy-button></center>
-
-<!--end_excerpt-->
 
 ***
 
@@ -52,16 +40,6 @@ Het horloge komt op een stretch band, met 'verborgen' sluiting. Historie en orig
 ***
 
 {% include carousel.html height="100" unit="%" duration="7" number="1" %}
-
-<center><script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1P6Xc3ERy1tUSqmunOzl2VcI"
-  publishable-key="pk_live_51NlCHMERy1tUSqmu09cnVosvmZFDrQ3j7kuaXuLGIBh6gWLan2utG8XgqxBI2ycF0RpYSYWIlMIZiI5zvjBiUtTm00sS8oqAcF"
->
-</stripe-buy-button></center>
 
 ***
 
